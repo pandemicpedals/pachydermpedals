@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 logo: /assets/images/logo.png
 
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "dark"
 search: true
 logo: /assets/images/logo.png
 
