@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+locale: "en"
+title: Pachyderm Pedals 
+email: pachydermpedals@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Pachyderm Pedals are hand wired pedals built in the USA from quality parts. 
+  The line of Pandemic Pedals started when the pandemic did and I have building 
+  ever since. I enjoy being able to create one of a kind hand painted pedals.
+
+logo: /assets/images/logo.png
+
+minimal_mistakes_skin: "dirt"
 search: true
+logo: /assets/images/logo.png
 
 # Build settings
 markdown: kramdown
@@ -57,35 +60,54 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
 author:
-  name   : "First Lastname"
+  name   : "Mike Fabulosa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "After watching a YouTube video on building pedals I started a new hobby which became an obsession."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.pandemicpedals.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/PachydermP"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/pachydermpedals/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/pandemicpedals/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCvBC1msfVJoEQU7YwudcIUg"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/PachydermP"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/pachydermpedals/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/pandemicpedals/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCvBC1msfVJoEQU7YwudcIUg"
+
+
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Pandemic Pedal Collection 2020-09-13"
+  actions:
+    - label: "Pedals"
+      url: "pedals.html"
+    - label: "Tutorials"
+      url: "tutorials.html"
 
 defaults:
   # _posts
@@ -93,8 +115,33 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: archive
+      show_date: true
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
       layout: single
-      author_profile: true
+      show_date: true
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pedals
+  - scope:
+      path: ""
+      type: pedals
+    values:
+      layout: single
+      show_date: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -106,6 +153,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+collections_dir: /collections/
+
+collections:
+  tutorials:
+    output: true
+  pedals:
+    output: true
+  guitars:
+    output: true
 
 category_archive:
   type: liquid

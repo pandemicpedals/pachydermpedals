@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "command": "bundle",
+    "isShellCommand": true,
+    "args": ["exec", "jekyll"],
+    "showOutput": "always",
+    "echoCommand": true,
+    "suppressTaskName": true,
+    "tasks": [
+        {
+            "taskName": "build",
+            "args": ["build", "--incremental"]
+        },
+        {
+            "taskName": "serve",
+            "args": ["serve", "--incremental"]
+        }
+    ]
+}
