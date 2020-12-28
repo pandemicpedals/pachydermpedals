@@ -8,5 +8,6 @@ permalink: /tutorials/
 collection: tutorials
 entries_layout: grid
 output: true
-author_profile: true
+classes: wide
+author_profile: false
 ---

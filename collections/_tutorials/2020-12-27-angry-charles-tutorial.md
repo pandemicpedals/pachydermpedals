@@ -26,25 +26,37 @@ I have created templates for each of PedalsPCB's main pedal formats. For this on
 
 ![Tayda-125B-Template](/assets/images/2020-12-27-angry-charles-tutorial/Tayda-125B-Template.jpg)
 
-This layer is where I imported the drill guide form the PDF to ensure that I aligned all the elements correctly. I am using the file sizes from the [Tayda UV printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) page.  _This layer is not included in the final export._
+This layer is where I imported the drill guide form the PDF to ensure that I aligned all the elements correctly. I am using the file sizes from the [Tayda UV printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) page.  
+
+**Info:** This layer is not included in the final export. 
+{: .notice--info}
 
 ### Enclosure ###
 
 ![Enclosure](/assets/images/2020-12-27-angry-charles-tutorial/Enclosure.jpg)
 
-I have a rectangle that is the size of the enclosure on this level. I fill it with the *color* of the enclosure that i want to print on. This enables me to see what the finished enclosure might look like. _This layer is not included in the final export._
+I have a rectangle that is the size of the enclosure on this level. I fill it with the *color* of the enclosure that i want to print on. This enables me to see what the finished enclosure might look like. 
+
+**Info:** This layer is not included in the final export. 
+{: .notice--info}
 
 ### Hole Sizes ###
 
 ![Hole Sizes](/assets/images/2020-12-27-angry-charles-tutorial/Hole_Sizes.jpg)
 
-I use this layer as a guide to show me how big the holes will be once I drill. I have two options for where to place my LED. The LED holes are without bevels. Just 3mm and 5mm holes.  _This layer is not included in the final export._
+I use this layer as a guide to show me how big the holes will be once I drill. I have two options for where to place my LED. The LED holes are without bevels. Just 3mm and 5mm holes.  
+
+**Info:** This layer is not included in the final export. 
+{: .notice--info}
 
 ### Knob Placement ###
 
 ![Knob Placement](/assets/images/2020-12-27-angry-charles-tutorial/Knob_Placement.jpg)
 
-I created this layer to get an idea of how much space is taken up by the knobs. I wanted to make sure that the labels and graphics would look good with the knob sizes chosen. Here I have included 19mm ann 15mm knob outlines as a guide. _This layer is not included in the final export._
+I created this layer to get an idea of how much space is taken up by the knobs. I wanted to make sure that the labels and graphics would look good with the knob sizes chosen. Here I have included 19mm ann 15mm knob outlines as a guide. 
+
+**Info:** This layer is not included in the final export. 
+{: .notice--info}
 
 ### COLOR ###
 
@@ -98,7 +110,10 @@ This converts the `Text` objects to `Group` objects containing the path for each
 
 ![Complete_graphics](/assets/images/2020-12-27-angry-charles-tutorial/Complete_graphics.jpg)
 
-At this point you are able to create and position your graphics for the pedal. Here I just blatantly ripped off the design by JHS. **_I would advise doing something original_** but this was the easiest for me to produce for the demonstration.
+At this point you are able to create and position your graphics for the pedal. 
+
+Here I just blatantly ripped off the design by JHS. **_I would advise doing something original_** but this was the easiest for me to produce for the demonstration.
+{: .notice--warning}
 
 As you can see I only use the `COLOR` layer at this point.
 
@@ -117,10 +132,12 @@ Then `right-click > Move to Layer...`. You should not have to select again as th
 Choose layer `WHITE`. This will make everything that was selected in your `COLOR` layer now be in the `WHITE` layer as well. This is important when you are printing on a colored enclosure to ensure that your art shows up, or it you can to print white. Do not put white items in the `COLOR` layer.
 
 I repeat step `1f` for the overlayer that I want as well. Only duplicate and move the items that you want in gloss or embossed.
+{: .notice--info}
 
 ### Save ###
 
-**SAVE YOU SVG file NOW** and throughout. If you are anything like me you may crash or freeze `Inkscape`. I try to save after every action. 
+**Save your SVG file NOW** and throughout. If you are anything like me you may crash or freeze `Inkscape`. I try to save after every action. 
+{: .notice--warning}
 
 I try to have only the `WHITE`, `COLOR`, and `GLOSS-M` (`GLOSS-V`,`EMBOSS`) layers visible when saving. 
 
@@ -152,7 +169,7 @@ You will repeat this process with the GLOSS or EMBOSS layers. Use the color `RDG
 
 ![Affinity_Export_Explained](/assets/images/2020-12-27-angry-charles-tutorial/Affinity_Export_Explained.jpg)
 
-You are now ready to export your PDF file. In the menu bar go to `File > Export ...`. This will oprn the export dialog box. Make sure you choose PDF. Set your DPI (I chose 600 here but it is verified I know 400 DPI works) and make sure the `Don't export layers hidden by Export Persona` is checked. Click the `Export` button.
+You are now ready to export your PDF file. In the menu bar go to `File > Export ...`. This will oprn the export dialog box. Make sure you choose PDF. Set your DPI (I chose 600 here but it is **unverified** I know 400 DPI works) and make sure the `Don't export layers hidden by Export Persona` is checked. Click the `Export` button.
 
 ### Check PDF ###
 

@@ -36,6 +36,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+search: false
+
 include:
   - _pages
 
@@ -127,7 +129,8 @@ defaults:
       path: ""
       type: tutorials
     values:
-      layout: single
+      layout: home
+      classes: wide
       show_date: true
       author_profile: false
       read_time: true
@@ -139,7 +142,8 @@ defaults:
       path: ""
       type: pedals
     values:
-      layout: single
+      layout: home
+      classes: wide
       show_date: true
       author_profile: false
       read_time: true
