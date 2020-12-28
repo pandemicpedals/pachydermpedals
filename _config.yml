@@ -65,8 +65,10 @@ plugins:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-PK47QPBYXM"
-    anonymize_ip: false # default
+    tracking_id: "UA-186213597-1"
+#    anonymize_ip: false # default
+
+og_image: /assets/images/logo.png
 
 author:
   name   : "Mike Fabulosa"
