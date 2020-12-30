@@ -21,8 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   The line of Pandemic Pedals started when the pandemic did and I have building 
   ever since. I enjoy being able to create one of a kind hand painted pedals.
 
-logo: /assets/images/logo.png
-
 minimal_mistakes_skin: "default"
 search: true
 logo: /assets/images/logo.png
@@ -55,7 +53,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -65,7 +63,7 @@ plugins:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-PK47QPBYXM"
+    tracking_id: "UA-186213597-1"
 #    anonymize_ip: false # default
 
 og_image: /assets/images/logo.png
