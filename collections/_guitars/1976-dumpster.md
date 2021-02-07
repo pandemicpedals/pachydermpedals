@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "1976 Gibson Les Paul Deluxe"
 header:
   teaser: /assets/images/guitars/dumpster.jpg

@@ -3,36 +3,39 @@ layout: single
 title: "2020 PRS Silver Sky"
 header:
   teaser: /assets/images/guitars/silversky.jpg
-year: 2020
-brand: PRS
-model: Silver Sky
-series: 
-color: Desert Rose
-manufactured: USA
-purchase-date: 5/20/2020
-pickups:
-  bridge: 
-  middle: 
-  neck: 
-  manufacturer: PRS
-  type: 
-  wiring: 
-body:
-  material: 
-  top: 
-neck:
-  material: Maple
-  fretboard: Maple
-  radius: "10\""
-  inlay-shape: Birds
-  inlay-material: 
-  frets: 
-scale: 
-construction: Bolt-on
-bridge: 
-tuners:  
-hardware: 
-case: 
-extra:  
+
+sidebar:
+  - image: /assets/images/guitars/small/silversky.jpg
+  - title: Make and Model
+    text: "
+  * **Year:** 2020\n
+  * **Brand:** PRS\n
+  * **Model:** Silver Sky\n
+  * **Series:** Maple\n
+  "
+
+  - title: Specs
+    text: "
+* **Color:** Desert Rose\n
+* **Manufactured:** USA\n
+* **Purchase Date:** 5/20/2020 \n
+* **pickups:** PRS\n 
+* **bridge:** \n
+* **middle:** \n
+* **neck:** \n
+* **body material:** \n
+* **top:** \n
+* **neck material:** Maple\n
+* **fretboard:** Maple\n
+* **radius:** 10 inch\n
+* **inlay-shape:** Birds\n
+* **inlay-material:** Black\n
+* **frets:** \n
+* **scale:** \n
+* **construction:** Bolt-on\n
+* **bridge:** \n
+* **tuners:** \n
+* **hardware:** Chrome\n
+* **case:** Yes\n
+* **extra:**\n
 ---
-![header](/assets/images/guitars/silversky.jpg)

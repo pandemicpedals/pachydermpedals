@@ -1,39 +1,41 @@
 ---
 layout: single
-title: "2019 Charvel SoCal Style 1 HH FR Pro Mod "
+title: "2019 Charvel SoCal Style 1 HH FR Pro Mod"
 header:
   teaser: /assets/images/guitars/purple.jpg
-year: 2019
-brand: Charvel
-model: SoCal Style 1 HH FR
-series: Pro Mod 
-color: Deep Purple Metallic
-manufactured: Mexico
-purchase-date: 3/1/2019
-pickups:
-  bridge: Full Shred SH-10B
-  middle: "Custom Flat Strat SSL-6˜"
-  neck: Alnico II Pro APH-1N
-  manufacturer: Seymour Duncan
-  type: Passive
-  wiring: Series
-body:
-  material: Alder
-  top: 
-neck:
-  material: Caramelized Maple
-  fretboard: Caramelized Maple
-  radius: "12\" - 16\""
-  inlay-shape: Dot
-  inlay-material: 
-  frets: 24 Jumbo
-scale: 
-construction: Bolt-on
-bridge: "Gotoh? Custom 510 tremolo"
-tuners: 
-hardware: 
-case: Yes
-extra: 
----
 
-![header](/assets/images/guitars/purple.jpg)
+sidebar:
+  - image: /assets/images/guitars/small/purple.jpg
+  - title: Make and Model
+    text: "
+  * **Year:** 2019\n
+  * **Brand:** Charvel\n
+  * **Model:** SoCal Style 1 HH FR\n
+  * **Series:** Pro Mod\n
+  "
+
+  - title: Specs
+    text: "
+* **Color:** Deep Purple Metallic\n
+* **Manufactured:** Mexico\n
+* **Purchase Date:**  3/1/2019\n
+* **pickups:**  Seymour Duncan\n
+* **bridge:** TB-6 Distortion\n
+* **neck:** SH-6N Distortion\n
+* **body material:** Alder\n
+* **top:** \n
+* **neck material:** Maple\n
+* **fretboard:** Ebony\n
+* **radius:** 12\" - 16\"\n
+* **inlay-shape:** Dot\n
+* **inlay-material:** \n
+* **frets:** 22 Jumbo\n
+* **scale:** \n
+* **construction:** Bolt-on\n
+* **bridge:** Floyd Rose 1000 Series Locking\n
+* **tuners:** \n
+* **hardware:** \n
+* **case:** Yes\n
+* **extra:**\n
+"
+---
