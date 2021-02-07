@@ -3,7 +3,7 @@ main:
     url: /pedals/
   - title: "Tutorials"
     url: /tutorials/
-#  - title: "Tags"
-#    url: /tags/
+  - title: "Guitars"
+    url: /guitars/
   - title: "About"
     url: /about/

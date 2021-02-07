@@ -2,19 +2,90 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: archive
+
+layout: splash
+title: Pachyderm Pedals
+excerpt: "I'm a wee bit out of my mind. Been blasting Diary of a Madman and Crazy Train into my skull since the early '80s.
+Been finding ways to deal with Bi-Polar Disorder and ADHD all my life. The pandemic introduced new challenges. That is what
+lead me to start building pedals. A way to immerse myself into so many different creative activities. This is where I share
+my creations and  the stories, successes, failures and what I have learned with others. Feel free to browse around. Let me 
+know what I got wrong or where I might improve. Most of all I just hope you enjoy what I have created and can maybe gain 
+some new insights."
+date: 2020-12-28
+last_modified_at: 2020-12-29 08:05:00PM
+classes: wide
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Pandemic Pedal Collection 2020-09-13"
   actions:
-    - label: "Pedals"
-      url: "/pedals/index.html"
     - label: "Tutorials"
       url: "/tutorials/index.html"
+    - label: "Pedals"
+      url: "/pedals/index.html"
+    - label: "Guitars"
+      url: "/guitars/index.html"
 
 classes:
     - landing
     - dark-theme
 
 ---
+
+
+
+
+
+{% for collection in site.collections %}
+  {% unless collection.output == false or collection.label == "posts" %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+
+    <div class="feature__wrapper">
+      {% assign entries = collection.docs | sort: 'title' | reverse %}
+
+      {% for f in entries limit: 4 %}
+        <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+          <div class="archive__item">
+            {% if f.header.teaser %}
+              <div class="archive__item-teaser">
+                <img src="{{ f.header.teaser }}"
+                      alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                {% if f.image_caption %}
+                  <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+                {% endif %}
+              </div>
+            {% endif %}
+      
+            <div class="archive__item-body">
+              {% if f.title %}
+                <h2 class="archive__item-title">{{ f.title }}</h2>
+              {% endif %}
+      
+              {% if f.compare-to %}
+                <h2 class="archive__item-excerpt">Compare to {{ f.compare-to }}</h2>
+              {% endif %}
+      
+              {% if f.excerpt %}
+                <div class="archive__item-excerpt">
+                  {{ f.excerpt | markdownify }}
+                </div>
+              {% endif %}
+      
+              {% if f.url %}
+                <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+        
+    
+    </div>
+  {% endunless %}
+{% endfor %}
+
+

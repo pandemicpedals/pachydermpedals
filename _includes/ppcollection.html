@@ -1,0 +1,52 @@
+{% assign entries = site[include.collection] %}
+
+{% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'date' %}
+  {% endif %}
+{% endif %}
+
+{% for f in entries limit: include.limit %}
+  <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="archive__item">
+      {% if f.header.teaser %}
+        <div class="archive__item-teaser">
+          <img src="{{ f.header.teaser }}"
+                alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+          {% if f.image_caption %}
+            <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <div class="archive__item-body">
+        {% if f.title %}
+          <h2 class="archive__item-title">{{ f.title }}</h2>
+        {% endif %}
+
+        {% if f.compare-to %}
+          <h2 class="archive__item-excerpt">Compare to {{ f.compare-to }}</h2>
+        {% endif %}
+
+        {% if f.excerpt %}
+          <div class="archive__item-excerpt">
+            {{ f.excerpt | markdownify }}
+          </div>
+        {% endif %}
+
+        {% if f.url %}
+          <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+    
