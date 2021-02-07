@@ -2,7 +2,6 @@
 layout: single
 title: "2012 B.C. Rich Mockingbird ST"
 header:
-  image: /assets/images/guitars/transmocking.jpg
   teaser: /assets/images/guitars/transmocking.jpg
 year: 2012
 brand: B.C. Rich
@@ -38,3 +37,4 @@ extra: "2 volumes, 1 tone, 1 three-way toggle, individual mini switches for pick
 ---
 
 
+![header](/assets/images/guitars/transmocking.jpg)

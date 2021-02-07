@@ -2,7 +2,6 @@
 layout: single
 title: "2019 Music Man Majesty "
 header:
-  image: /assets/images/guitars/majesty.jpg
   teaser: /assets/images/guitars/majesty.jpg
 year: 2019
 brand: Music Man
@@ -37,3 +36,4 @@ case: Yes
 extra: "Custom Music Man? active preamp; push/push volume for gain boost, 500kohm push/push passive tone for custom 2 pickup configurations - .022‘F tone capacitor.  3-way toggle pickup selector, with custom center position configuration; 3-way toggle piezo/magnetic selector, momentary mono/stereo output knob (Piezo Volume)"
 ---
 
+![header](/assets/images/guitars/majesty.jpg)

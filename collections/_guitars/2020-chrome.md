@@ -2,7 +2,6 @@
 layout: single
 title: "2020 Ibanez Chrome boy JS1"
 header:
-  image: /assets/images/guitars/chrome.jpg
   teaser: /assets/images/guitars/chrome.jpg
 year: 2020
 brand: Ibanez
@@ -37,3 +36,4 @@ case: Yes
 extra: 
 ---
 
+![header](/assets/images/guitars/chrome.jpg)

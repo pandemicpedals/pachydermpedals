@@ -2,7 +2,6 @@
 layout: single
 title: "2018 Jackson USA Select Soloist SL2H"
 header:
-  image: /assets/images/guitars/soloistusa.jpg
   teaser: /assets/images/guitars/soloistusa.jpg
 year: 2018
 brand: Jackson
@@ -37,3 +36,4 @@ case: Yes
 extra: "3-Way Pickup Selector, Master Volume, Master Tone"
 ---
 
+![header](/assets/images/guitars/soloistusa.jpg)

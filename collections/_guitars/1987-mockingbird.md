@@ -2,7 +2,6 @@
 layout: single
 title: "1987 B.C. Rich Warlock N.J. Series"
 header:
-  image: /assets/images/guitars/
   teaser: /assets/images/guitars/
 year: 1987
 brand: B.C. Rich
@@ -35,4 +34,5 @@ tuners:
 hardware: 
 case: Yes
 extra: "2 volumes, 1 tone, 1 three-way toggle"
+![header](/assets/images/guitars/)
 ---

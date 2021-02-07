@@ -2,7 +2,6 @@
 layout: single
 title: "2014 Charvel San Dimas 2H FR Custom Shop"
 header:
-  image: /assets/images/guitars/lotus.jpg
   teaser: /assets/images/guitars/lotus.jpg
 year: 2014
 brand: Charvel
@@ -38,3 +37,4 @@ extra: "3-Way Pickup Selector, 1 Volume"
 ---
 
 
+![header](/assets/images/guitars/lotus.jpg)

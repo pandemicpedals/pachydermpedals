@@ -2,7 +2,6 @@
 layout: single
 title: "1985 Jackson Rhoads"
 header:
-  image: /assets/images/guitars/rhoads.jpg
   teaser: /assets/images/guitars/rhoads.jpg
 year: 1985
 brand: Jackson
@@ -14,3 +13,4 @@ construction: Neck Through
 bridge: Kahler Tremolo
 case: Yes
 ---
+![header](/assets/images/guitars/rhoads.jpg)

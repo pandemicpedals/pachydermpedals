@@ -2,7 +2,6 @@
 layout: single
 title: "1997 Fender Stratocaster American Standard"
 header:
-  image: /assets/images/guitars/strat.jpg
   teaser: /assets/images/guitars/strat.jpg
 year: 1997
 brand: Fender
@@ -37,3 +36,4 @@ case: Yes
 extra: "1 vol and 2 tone controls, bridge tone control has the Delta \"no load\" tone control feature, where when turned to 10, there is a notch that removes the bridge tone control from the circuit"
 ---
 
+![header](/assets/images/guitars/strat.jpg)

@@ -2,7 +2,6 @@
 layout: single
 title: "2001 Warwick Corvette Std Active Standard"
 header:
-  image: /assets/images/guitars/warwick.jpg
   teaser: /assets/images/guitars/warwick.jpg
 year: 2001
 brand: Warwick
@@ -36,3 +35,4 @@ hardware:
 case: Bag
 extra: 
 ---
+![header](/assets/images/guitars/warwick.jpg)

@@ -2,7 +2,6 @@
 layout: single
 title: "2020 PRS Silver Sky"
 header:
-  image: /assets/images/guitars/silversky.jpg
   teaser: /assets/images/guitars/silversky.jpg
 year: 2020
 brand: PRS
@@ -36,3 +35,4 @@ hardware:
 case: 
 extra:  
 ---
+![header](/assets/images/guitars/silversky.jpg)

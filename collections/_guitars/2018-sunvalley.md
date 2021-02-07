@@ -2,7 +2,6 @@
 layout: single
 title: "2018 Schecter Sun Valley Super Shredder FR S Diamond Series"
 header:
-  image: /assets/images/guitars/
   teaser: /assets/images/guitars/
 year: 2018
 brand: Schecter
@@ -37,3 +36,4 @@ case: Yes
 extra: "3-Way (Pickup), Switch/2-Way On-Off Sustainiac, Switch/3-Way Sustainiac Mode, Switch (Fundamental-Mix-Harmonic)"
 ---
 
+![header](/assets/images/guitars/)

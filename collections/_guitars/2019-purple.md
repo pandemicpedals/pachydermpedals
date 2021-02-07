@@ -2,7 +2,6 @@
 layout: single
 title: "2019 Charvel SoCal Style 1 HH FR Pro Mod "
 header:
-  image: /assets/images/guitars/purple.jpg
   teaser: /assets/images/guitars/purple.jpg
 year: 2019
 brand: Charvel
@@ -37,3 +36,4 @@ case: Yes
 extra: 
 ---
 
+![header](/assets/images/guitars/purple.jpg)

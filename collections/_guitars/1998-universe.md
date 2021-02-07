@@ -2,7 +2,6 @@
 layout: single
 title: "1998 Ibanez UV777BK Universe"
 header:
-  image: /assets/images/guitars/universe.jpg
   teaser: /assets/images/guitars/universe.jpg
 year: 1998
 brand: Ibanez
@@ -37,3 +36,4 @@ case: Yes
 extra: "Master volume / master tone / 5-way lever"
 ---
 
+![header](/assets/images/guitars/universe.jpg)

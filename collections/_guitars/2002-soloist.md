@@ -2,7 +2,6 @@
 layout: single
 title: "2002 Jackson Pro Series HSS Soloist SL3"
 header:
-  image: /assets/images/guitars/soloist.jpg
   teaser: /assets/images/guitars/soloist.jpg
 year: 2002
 brand: Jackson
@@ -37,3 +36,4 @@ case: Yes
 extra: 
 ---
 
+![header](/assets/images/guitars/soloist.jpg)

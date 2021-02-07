@@ -2,7 +2,6 @@
 layout: single
 title: "2014 Ibanez RG655-GK Prestige"
 header:
-  image: /assets/images/guitars/prestige.jpg
   teaser: /assets/images/guitars/prestige.jpg
 year: 2014
 brand: Ibanez
@@ -37,3 +36,4 @@ case: Yes
 extra: Master volume / master tone / 5-way lever
 ---
 
+![header](/assets/images/guitars/prestige.jpg)

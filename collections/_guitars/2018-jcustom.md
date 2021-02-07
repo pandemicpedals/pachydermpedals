@@ -2,7 +2,6 @@
 layout: single
 title: "2018 Ibanez RG8520SDE J.Custom"
 header:
-  image: /assets/images/guitars/jcustom.jpg
   teaser: /assets/images/guitars/jcustom.jpg
 year: 2018
 brand: Ibanez
@@ -38,3 +37,4 @@ extra: "1 x volume, 1 x tone, 2-way toggle coil tap switch, 3-way toggle pickup 
 ---
 
 
+![header](/assets/images/guitars/jcustom.jpg)
