@@ -40,3 +40,5 @@ sidebar:
 * **extra:** 3-Way Pickup Selector, Master Volume, Master Tone\n
 "
 ---
+
+Walked into work on day and saw this on the used wall for less than half of MAP (Manufacturer Advertised Price). Someone had mispriced it when bringing it in used. I instantly bought it. When you look at it next to my 2002 soloist it is basically the new and improved USA model. I was really happy to find this guitar for such a low price. 

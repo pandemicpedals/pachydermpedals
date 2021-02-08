@@ -4,7 +4,6 @@ title: "1976 Gibson Les Paul Deluxe"
 header:
   teaser: /assets/images/guitars/dumpster.jpg
   #image: /assets/images/guitars/small/dumpster.jpg
-purchase-date: 6/1/1995
 
 sidebar:
   - image: /assets/images/guitars/small/dumpster.jpg
@@ -20,6 +19,7 @@ sidebar:
     text: "
 * **Color:** Tweaker Black Mosaic / Original Sunburst Back and Neck\n
 * **Manufactured:** USA\n
+* **Purchase Date:** Found around 1995 \n
 * **pickups:** Seymour Duncan
 * **bridge:** Dimebucker\n
 * **neck:** '59 \n
