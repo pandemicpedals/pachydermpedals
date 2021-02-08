@@ -38,4 +38,5 @@ sidebar:
 * **hardware:** Chrome\n
 * **case:** Yes\n
 * **extra:**\n
+"
 ---
