@@ -45,7 +45,11 @@ classes:
     {% endif %}
 
     <div class="feature__wrapper">
-      {% assign entries = collection.docs | sort: 'title' | reverse %}
+      {% assign sorton = 'title' %}
+      {% if label == "tutorials" %}
+        {% assign sorton = 'date' %}
+      {% endif %}
+      {% assign entries = collection.docs | sort: sorton | reverse %}
 
       {% for f in entries limit: 4 %}
         <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
