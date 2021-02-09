@@ -9,7 +9,7 @@ excerpt: "I've had a couple  of questions about how I paint my pedals. Here's a 
 author_profile: true
 
 header:
-  teaser: /assets/images/pedals/small/017.jpg
+  teaser: /assets/images/pedals/017/00.jpg
 
 sidebar:
   - title: "Compare to"
