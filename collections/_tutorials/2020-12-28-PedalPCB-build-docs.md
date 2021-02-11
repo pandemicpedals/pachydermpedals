@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "PedalPCB Product and Build Doc Reference"
 excerpt: "List of build documents for the products available from PedalPCB"
 header:
