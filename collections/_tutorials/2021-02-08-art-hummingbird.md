@@ -16,6 +16,7 @@ sidebar:
     text: "Earthquaker Devices&trade; Hummingbird&trade;"
   - title: "PCB from"
     text: "[PedalPCB Woodpecker Tremelo](https://www.pedalpcb.com/product/woodpecker/)"
+
 gallery:
   - url: /assets/images/pedals/017/00.jpg
     image_path: /assets/images/pedals/017/00.jpg
