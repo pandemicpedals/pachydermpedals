@@ -1,87 +1,100 @@
 ---
 layout: single
-title: "Pandemic Pedal #015"
+title: "Pandemic Pedal #023"
+
 excerpt: ""
-compare-to: 
+compare-to: ""
+
 header:
-  teaser: /assets/images/pedals/small/015.jpg
+  teaser: /assets/images/pedals/small/023.jpg
+
+author_profile_end: true
+
 sidebar:
+  - image: /assets/images/pedals/small/023.jpg
   - title: "Compare to"
-    text: 
-  - title: "PCB from"
-    text: 
+    text: "[]()"
+  - title: "Build Resources"
+    text: "
+  **PCB:** <br>
+  **Docs:** [BUILD DOC]()
+  "
+
 gallery:
-  - url: /assets/images/pedals/015/01.jpg
-    image_path: /assets/images/pedals/015/01.jpg
+  - url: /assets/images/pedals/023/01.jpg
+    image_path: /assets/images/pedals/023/01.jpg
     alt: "placeholder image 1"
     title: ""
-  - url: /assets/images/pedals/015/02.jpg
-    image_path: /assets/images/pedals/015/02.jpg
+  - url: /assets/images/pedals/023/02.jpg
+    image_path: /assets/images/pedals/023/02.jpg
     alt: "placeholder image 2"
     title: ""
-  - url: /assets/images/pedals/015/03.jpg
-    image_path: /assets/images/pedals/015/03.jpg
+  - url: /assets/images/pedals/023/03.jpg
+    image_path: /assets/images/pedals/023/03.jpg
     alt: "placeholder image 3"
     title: ""
-  - url: /assets/images/pedals/015/04.jpg
-    image_path: /assets/images/pedals/015/04.jpg
+  - url: /assets/images/pedals/023/04.jpg
+    image_path: /assets/images/pedals/023/04.jpg
     alt: "placeholder image 4"
     title: ""
-  - url: /assets/images/pedals/015/05.jpg
-    image_path: /assets/images/pedals/015/05.jpg
+  - url: /assets/images/pedals/023/05.jpg
+    image_path: /assets/images/pedals/023/05.jpg
     alt: "placeholder image 5"
     title: ""
-  - url: /assets/images/pedals/015/06.jpg
-    image_path: /assets/images/pedals/015/06.jpg
+  - url: /assets/images/pedals/023/06.jpg
+    image_path: /assets/images/pedals/023/06.jpg
     alt: "placeholder image 6"
     title: ""
-  - url: /assets/images/pedals/015/07.jpg
-    image_path: /assets/images/pedals/015/07.jpg
+  - url: /assets/images/pedals/023/07.jpg
+    image_path: /assets/images/pedals/023/07.jpg
     alt: "placeholder image 7"
     title: ""
-  - url: /assets/images/pedals/015/08.jpg
-    image_path: /assets/images/pedals/015/08.jpg
+  - url: /assets/images/pedals/023/08.jpg
+    image_path: /assets/images/pedals/023/08.jpg
     alt: "placeholder image 8"
     title: ""
-  - url: /assets/images/pedals/015/09.jpg
-    image_path: /assets/images/pedals/015/09.jpg
+  - url: /assets/images/pedals/023/09.jpg
+    image_path: /assets/images/pedals/023/09.jpg
     alt: "placeholder image 9"
     title: ""
-  - url: /assets/images/pedals/015/10.jpg
-    image_path: /assets/images/pedals/015/10.jpg
+  - url: /assets/images/pedals/023/10.jpg
+    image_path: /assets/images/pedals/023/10.jpg
     alt: "placeholder image 10"
     title: ""
-  - url: /assets/images/pedals/015/11.jpg
-    image_path: /assets/images/pedals/015/11.jpg
+  - url: /assets/images/pedals/023/11.jpg
+    image_path: /assets/images/pedals/023/11.jpg
     alt: "placeholder image 11"
     title: ""
-  - url: /assets/images/pedals/015/12.jpg
-    image_path: /assets/images/pedals/015/12.jpg
+  - url: /assets/images/pedals/023/12.jpg
+    image_path: /assets/images/pedals/023/12.jpg
     alt: "placeholder image 12"
     title: ""
-  - url: /assets/images/pedals/015/13.jpg
-    image_path: /assets/images/pedals/015/13.jpg
+  - url: /assets/images/pedals/023/13.jpg
+    image_path: /assets/images/pedals/023/13.jpg
     alt: "placeholder image 13"
     title: ""
-  - url: /assets/images/pedals/015/14.jpg
-    image_path: /assets/images/pedals/015/14.jpg
+  - url: /assets/images/pedals/023/14.jpg
+    image_path: /assets/images/pedals/023/14.jpg
     alt: "placeholder image 14"
     title: ""
-  - url: /assets/images/pedals/015/15.jpg
-    image_path: /assets/images/pedals/015/15.jpg
+  - url: /assets/images/pedals/023/15.jpg
+    image_path: /assets/images/pedals/023/15.jpg
     alt: "placeholder image 15"
     title: ""
 ---
 
-![header](/assets/images/pedals/015.jpg)
+[![header](/assets/images/pedals/023.jpg)](/assets/images/pedals/023.jpg)
+
+## Build Report ##
+
+
+
+## Build Gallery ##
+
+{% include gallery caption="Build Gallery" %}
 
 <figure class="align-center">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/pedals/015/01.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/pedals/015/01.jpg" alt=""></a>
   <figcaption>Reference Pic</figcaption>
 </figure>
 
-
-
-## Build Report ##
-
-{% include gallery caption="Build Gallery" %}

@@ -52,7 +52,7 @@ gallery:
     title: ""
 ---
 
-![header](/assets/images/pedals/017.jpg)
+[![header](/assets/images/pedals/017.jpg)](/assets/images/pedals/017.jpg)
 
 I've had a couple  of questions about how I paint my pedals. Here's a quick set of photos that show the steps. 
 
