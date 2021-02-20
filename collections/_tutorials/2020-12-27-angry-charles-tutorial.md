@@ -10,6 +10,9 @@ excerpt: I go over using the opensource Inkscape and the $49.99 US Affinity Desi
 
 # Tayda UV Printing #
 
+**Warning:** I have not gotten this to work exporting from Affinity Designer with multiple layers. I have successfully printed the enclosure for the [Purple](/pedals/2020-12-24-074/) which only has a color layer on a white background. I cannot get it either use the Roland swatches or export the WHITE and GLOSS layers. As of Febuary 19, 2021 I have received information from Hugo that the Affinity exported files wouldn't work with the added features. I have downloaded the free trial if Illustrator and have worked from the SVG created in Inkscape and have resubmitted the files. I will keep you posted. 
+{: .notice--danger}
+
 ## Intro ##
 
 If you are like me, this is a hobby. As such I want to spend as much money as I can on parts and not on software. Because of this I do not want to invest in **Abobe Illistrator** ($59 a month US) but I would still like to get the professional look of UV printing. With help from the members on PedalPCB's forum I have come up with this less expensive approach.
