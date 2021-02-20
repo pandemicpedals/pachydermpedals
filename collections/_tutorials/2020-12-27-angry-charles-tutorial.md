@@ -156,6 +156,9 @@ Open the saved SVG file in Affinity Designer.
 
 Make sure that you have the Roland swatches imported into Affinity Designer. You can download them [here](/assets/resources/Roland%20VersaWorks.ase).
 
+**Note:** Danbieranowski on the PedalPCB Forum put up a [post](https://forum.pedalpcb.com/threads/tayda-uv-printing-roland-swatches-for-affinity.5699/) on how to [import the Roland swatch into Affinity Designer](https://support.retrosupply.co/article/100-how-to-import-an-affinity-swatch-palette#:~:text=Open%20Affinity%20Designer%20or%20Affinity,and%20toggle%20to%20Import%20Palette).
+{: .notice--info}
+
 ### Update WHITE Layer ###
 
 ![affinity_RDG_White](/assets/images/2020-12-27-angry-charles-tutorial/affinity_RDG_White.jpg)
