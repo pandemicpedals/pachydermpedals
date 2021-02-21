@@ -3,16 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-It all started back in March of 2020. I had just rrecovered from an emergency surgery and was about to go back to the office.
-Was cleared to start working on the the next Monday. That is when I found out I would not be going back to the office for a while.
-I had just been laid off from my part time gig at abig box music retailer and the pandemic was shutting everything down. 
+It all started back in March of 2020. I had just recovered from an emergency surgery and was about to go back to the office. I had been cleared to start working on the the next Monday. That is when I found out that because of the global pandemic I would not be going back to the office for a while. 
 
-With no more perks, lots of extra time and an obsession with music and gear that has lasted for over 40 years. I would have to 
-find another ways to satisfy my cravings. 
+I had also recently been laid off from my part time gig at a bigbox music retailer and the pandemic was shutting everything down. With no more perks, lots of extra time and an obsession with music and gear that has lasted for over 40 years. I would have to find another ways to satisfy my cravings. 
 
+This is when I saw a live stream on Rhett Shull's Youtube channel. He was building a LPD boost pedal with his girlfriend. I immediately ordered the kit from Reverb and a new obesession was born. After building the kit I ordered 7 PCBs from [Rullywow](https://rullywow.com/?doing_wp_cron=1613908104.8454558849334716796875), created a spread sheet of needed parts, and went to work.
 
+I started this site so that I could share my experiences, struggles and successes. I've spent my life finding ways to succeed with Bi-Polar Dirorder and severe ADHD. I have not always been able to relate well with others. Being Bipolar means that they meet a very different person over time. Some are a blast to be around and some are very difficult. This is my way of trying to connect. One thing that has been consistant is my desire to learn and share what I am learning.
 
-Worked at a big box music store for the last few.  After getting paid off I 
-started building my own pedals when the pandemic started. 
-Now that is an obsession as well. I am have Bi-Polar Dirorder and severe ADHD, but oddly enough no obsessive diorders.
-This is my way of trying to connect with others. To learn and share shat I am learning.
+\- pachyderm pedals
+{: .text-right}
