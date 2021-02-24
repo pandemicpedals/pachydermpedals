@@ -7,6 +7,11 @@ entries_layout: grid
 output: true
 classes: wide
 author_profile: true
+
+header:
+  teaser: /assets/images/header_guitars1.jpg
+  overlay_image: /assets/images/header_guitars1.jpg
+  overlay_filter: 0.8
 ---
 
 I would like to just share the instruments I currently own and instruments I have owned in the past. I am not a great guitarist but I am learning. I started when I was 15 and have been trying to improve ever since. Back when I began it was difficult because I had injured my left arm and did not have feeling or movement in my pinky or half my ring finger on my fretting hand. This limited my playing and may be part of the reason I gravitated towards music that was dominated my power chords. 

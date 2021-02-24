@@ -11,6 +11,12 @@ author_profile: true
 permalink: /pedals/
 collection: pedals
 sort_by: title
+
+header:
+  teaser: /assets/images/header.jpg
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.8
+
 pagination:
     enabled: true
     collection: pedals

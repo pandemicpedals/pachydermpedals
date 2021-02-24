@@ -10,4 +10,9 @@ entries_layout: grid
 output: true
 classes: wide
 author_profile: false
+
+header:
+  teaser: /assets/images/header_breadboard.jpg
+  overlay_image: /assets/images/header_breadboard.jpg
+  overlay_filter: 0.8
 ---

@@ -1,6 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+
+header:
+  teaser: /assets/images/header_about.jpg
+  overlay_image: /assets/images/header_about.jpg
+  overlay_filter: 0.8
 ---
 
 It all started back in March of 2020. I had just recovered from an emergency surgery and was about to go back to the office. I had been cleared to start working on the the next Monday. That is when I found out that because of the global pandemic I would not be going back to the office for a while. 

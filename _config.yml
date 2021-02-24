@@ -149,10 +149,10 @@ defaults:
       path: ""
       type: tutorials
     values:
-      layout: home
-      classes: wide
+      layout: single
+      #classes: wide
       show_date: true
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -163,7 +163,7 @@ defaults:
       type: pedals
     values:
       layout: single
-      classes: wide
+      #classes: wide
       show_date: true
       author_profile: false
       read_time: true
@@ -176,7 +176,7 @@ defaults:
       type: guitars
     values:
       layout: splash
-      classes: wide
+      #classes: wide
       show_date: true
       author_profile: false
       read_time: true

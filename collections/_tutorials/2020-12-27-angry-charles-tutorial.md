@@ -5,6 +5,7 @@ header:
 excerpt: I go over using the opensource Inkscape and the $49.99 US Affinity Designer to create PDF for UV printing at Tayda Electronics.
 
 toc: true
+toc_sticky: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
