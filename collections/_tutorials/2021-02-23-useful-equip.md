@@ -44,7 +44,7 @@ Now, as for equipment. All you really need is a soldering iron and some solder. 
 ## Test and Debug 
 
 * **[Digital Multi Meter or DMM](https://amzn.to/2ZKM8PE)** - This is a must have. Not necessarily this one but you need a DMM. You cannot debug a pedal without one. You may also want [other test leads](httphttps://amzn.to/2NygEtp) as the DMM i mentioned only has the needle probes. I have liked these but I have only used them for about a month so I do not know about their long term sterdiness.
-* **[Oscilloscope](https://amzn.to/3dDXTzg)** - I have like the JYETech DSO Shell oscilloscope. It has been very useful for experimenting with sound. It is not the best or even professional quality, but it works really well for the price. I purchased the prebuilt version but they have DIY kits as well.
+* **[Oscilloscope](https://amzn.to/3dDXTzg)** - I have like the JYETech DSO Shell oscilloscope. It has been very useful for experimenting with sound. It is not the best or even professional quality, but it works really well for the price. I purchased the prebuilt version but they have DIY kits as well. I plan to upgrade to the [LabNation oscilloscope](https://www.lab-nation.com/store) in the future.
 * **[Transistor Tester](https://amzn.to/2P0arXr)** - You will read a lot of debate about this product and others like it. It does not do everything and is not as accurate as other tools or procedures. But as a quick tester to understand the part that I have it works pretty well.
 
 ## Work Area:
@@ -83,7 +83,7 @@ I will go over some other useful DIY tools and options below.
 
 ### Finishing
 
-* **[Epoxy](https://amzn.to/37Hhqvb)** - I use this to give me a high gloss protective coating to the artwork on hand painted pedals.
+* **[Epoxy](https://amzn.to/37Hhqvb)** - I use this to give me a high gloss protective coating to the artwork on hand painted pedals. I have also used the Artist Resin from [Counter Culture DIY](https://counterculturediy.com/).
 * **Paint Pens** - [Metallic](https://amzn.to/3uly0KJ) and Assorted [42 Count](https://amzn.to/3pN2QIF) and [12 Count](https://amzn.to/3usyj6f)
 * **[Pens](https://amzn.to/3aJvWnY)** - These Paper Mates and [assorted color Sharpies](https://amzn.to/2P7cVU8) are useful for sorting, categorizing and marking your boxes, pedals and storage.
 * **[Brush](https://amzn.to/2P22Zet)** - This is very useful for cleaning and wiping away small parts. It is also useful to have an old toothbrush and isopropyl (99%) alcohol for cleaning flus off your PCBs.
