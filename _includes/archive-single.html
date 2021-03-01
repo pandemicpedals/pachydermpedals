@@ -25,6 +25,8 @@
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
+    {% if post.pcb %}<p class="archive__item-excerpt" itemprop="description"><b>PCB:</b><br>{{ post.pcb | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if post.compare-to %}<p class="archive__item-excerpt" itemprop="description"><b>Compare to:</b><br>{{ post.compare-to | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>

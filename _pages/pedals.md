@@ -11,6 +11,7 @@ author_profile: true
 permalink: /pedals/
 collection: pedals
 sort_by: title
+sort_order: reverse
 
 header:
   teaser: /assets/images/header.jpg

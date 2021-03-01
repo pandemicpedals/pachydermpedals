@@ -10,6 +10,9 @@ entries_layout: grid
 output: true
 classes: wide
 author_profile: false
+sort_by: date
+sort_order: reverse
+
 
 header:
   teaser: /assets/images/header_breadboard.jpg

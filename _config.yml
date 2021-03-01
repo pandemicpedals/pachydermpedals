@@ -165,7 +165,7 @@ defaults:
       layout: single
       #classes: wide
       show_date: true
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -178,7 +178,7 @@ defaults:
       layout: splash
       #classes: wide
       show_date: true
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true

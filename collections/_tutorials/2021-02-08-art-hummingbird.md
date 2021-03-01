@@ -14,7 +14,7 @@ header:
 
 sidebar:
   - title: "Compare to"
-    text: "Earthquaker Devices&trade; Hummingbird&trade;"
+    text: "Earthquaker Devices&trade; Hummingbird"
   - title: "PCB from"
     text: "[PedalPCB Woodpecker Tremelo](https://www.pedalpcb.com/product/woodpecker/)"
 
