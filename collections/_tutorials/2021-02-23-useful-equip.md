@@ -58,7 +58,7 @@ I use these for every pedal I make. I am not going to say that are required but 
 * **Sight** - By this is mean you will need to be able to see really small parts and small writing. I have purchase these [glasses](https://amzn.to/2NUmJA4). My girlfriend thinks I look ridiculous but they magnify what I am looking at and have USB rechargable LED light on the front that I can adjust. 
 * **Light** - I have found that [under counter lights](https://amzn.to/2OWKFmY) and a [magnifying desk lamp](https://amzn.to/3shCS1B) help out a lot. This works well with my setup but others versions may work well for you. The important part is you need a well lit area and the parts you are looking at can be quite small. 
 
-### Tools 
+## Tools 
 
 * **[Needle Nose Pliers](https://amzn.to/3bBApbq)** - A must have for manipulating wire in the enclosure.
 * **[Wire Cutter](https://amzn.to/3uyISVN)** - These have worked great for me to cut wires and leads off the PCB.
@@ -77,7 +77,7 @@ I use these for every pedal I make. I am not going to say that are required but 
 * **[Speed Square](https://amzn.to/3bwiJxX)** - Helpful when marking up an enclosure for drilling.
 * **[X-ACTO Knife](https://amzn.to/3uyJkTZ)** - I generally useful tool for delicate cutting.
 
-### Organization
+## Organization
 
 The more you build the more you will find good storage and organization important.
 
@@ -85,7 +85,7 @@ The more you build the more you will find good storage and organization importan
 * **[Gaffer Tape](https://amzn.to/3pP0WXX)** - I user this to label things: bags, cables, short term on the enclosures, etc.
 * **[Boxes](https://amzn.to/3pIrj1z )** - These are great for 125B and smaller pedal enclosures. Nice for storing and shipping your creations.
 
-### Finishing
+## Finishing
 
 There are many ways of finishing pedals. I like to paint mine with paint pens. These are the things I use.
 
