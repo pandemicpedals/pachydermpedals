@@ -233,14 +233,6 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 
 ## Projects
 
-* [Guitar FX Layouts: Boss CE-2](http://tagboardeffects.blogspot.com/2014/06/boss-ce-2.html)
-* [Guitar FX Layouts: Parasit Studio - Arcadiator 2.0](http://tagboardeffects.blogspot.com/2016/03/parasit-studio-arcadiator-20.html)
-* [Guitar FX Layouts: MXR Distortion+ w/ Wampler mods](http://tagboardeffects.blogspot.com/2013/01/mxr-distortion-w-wampler-mods.html)
-* [Guitar FX Layouts: Madbean Leviathan (Wampler Faux Analog Echo Delay)](http://tagboardeffects.blogspot.com/2016/02/madbean-leviathan-wampler-faux-analog.html)
-* [Guitar FX Layouts: ZVex Mastotron](http://tagboardeffects.blogspot.com/2012/02/zvex-mastotron.html)
-* [Guitar FX Layouts: Vertex](http://tagboardeffects.blogspot.com/search/label/Vertex)
-* [Guitar FX Layouts: ZVex Woolly Mammoth - vero](http://tagboardeffects.blogspot.com/2011/02/zvex-woolly-mammoth-vero.html)
-* [Arizona Corporation Commission](https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09367026)
 * [You Can DIY! Reamplification Revisited - audioXpress](https://audioxpress.com/article/you-can-diy-reamplification-revisited)
 * [LINE2AMP RevC v3 Assembly Guide – DIY Recording Equipment](https://www.diyrecordingequipment.com/pages/line2amp-revc-v3-assembly-guide)
 * [Slutty DIY DI/Reamp Box - Gearslutz](https://www.gearslutz.com/board/geekslutz-forum/387499-slutty-diy-di-reamp-box.html)
@@ -258,11 +250,9 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 ## Bookmarks bar
 
 * [PCB Prototype & PCB Fabrication Manufacturer - JLCPCB](https://jlcpcb.com/)
-* [mnats.net](http://mnats.net/)
 * [(PDF) ELECTRONIC PRINCIPLES - cony gatam - Academia.edu](https://www.academia.edu/38672786/ELECTRONIC_PRINCIPLES)
 * [Guitar Fx Electronics: Introduction + Sitemap + Resources](https://pedals.curiousmotor.com/2020/06/guitar-fx-electronics-introduction.html?m=1)
 * [Testing and Matching JFETS – Stompville](http://stompville.co.uk/?p=112)
-* [Adding Axis Limit and Emergency Stop Switches to a SainSmart 3018 Pro CNC Machine - SainSmart Resource Center](https://docs.sainsmart.com/article/rerey17twl-adding-axis-limit-and-emergency-stop-switches-to-a-sain-smart-3018-pro-cnc-machine)
 * [www.geofex.com/Article_Folders/fetmatch/fetmatch.htm](http://www.geofex.com/Article_Folders/fetmatch/fetmatch.htm)
 * [Guitar FX Layouts: Germanium Transistor Tester](http://tagboardeffects.blogspot.com/2012/08/germanium-transistor-tester.html)
 * [Guitar FX Layouts: Greatly Improved JFET Matcher](http://tagboardeffects.blogspot.com/2012/07/greatly-improved-jfet-matcher.html)
@@ -270,10 +260,8 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 * [Perf and PCB Effects Layouts: Lovepedal](http://effectslayouts.blogspot.com/search/label/Lovepedal)
 * [Guitar FX Layouts - Verified Layouts](http://guitar-fx-layouts.42897.x6.nabble.com/Verified-Layouts-f23984.html)
 * [GitHub - ravettel/Nyan-1073-EQ: Not yet another 1073 EQ](https://github.com/ravettel/Nyan-1073-EQ)
-* [Hammond Mfg. - Painted \"Stomp Box\" - Diecast Aluminum Enclosures (1590 Series)](http://www.hammondmfg.com/dwg_SBVer.htm)
 * [GitHub - HolyCityAudio/SpinCAD-Designer: SpinCAD Designer is an open source Java project which allows creation of patches for the Spin FV-1 audio DSP chip.](https://github.com/HolyCityAudio/SpinCAD-Designer)
 * [Bipolar Transistor Tutorial, The BJT Transistor](https://www.electronics-tutorials.ws/transistor/tran_1.html)
-* [Arizona Corporation Commission](https://ecorp.azcc.gov/RegisteredBusinesses/MyBusinesses)
 * [Klein Bottle DIY assembly walkthrough - YouTube](https://www.youtube.com/watch?v=WqKxg4wHC0g)
 * [Where to Buy What - Aion Electronics](https://aionelectronics.com/resources/where-to-buy-what/)
 * [OC 71, Tube OC71; Röhre OC 71 ID33679, Transistor](https://www.radiomuseum.org/tubes/tube_oc71.html)
@@ -284,11 +272,7 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 * [Coda Effects - Best capacitors for guitar pedals: which one to choose?](https://www.coda-effects.com/2015/04/capacitors-which-one-to-choose.html)
 * [Coda Effects - All you need to know about resistors in guitar pedals](https://www.coda-effects.com/2015/08/all-you-need-to-know-about-resistors-in.html)
 * [mbp.faq](https://www.madbeanpedals.com/faq/index.html)
-* [Rullywow DIY Guitar Pedal PCB Store – DIY Guitar PCB Projects](https://rullywow.com/)
-* [Parkonect](https://secure.parkonect.com/AnyTime.aspx?GarageID=311)
-* [Your SBL Toolkit - Scotts Bass Lessons](https://scottsbasslessons.com/dG9vbGtpdA==/?utm_source=email-automation&utm_medium=email&utm_campaign=free%20bass%20toolkit&utm_content=bass-toolkit-delivery&utm_source=ActiveCampaign&utm_medium=email&utm_content=Your+Bass+Toolkit+%5BAccess+Link+Inside%5D&utm_campaign=Bass+Toolkit+Delivery)
-* [Has anybody figured out how this little buddy works? KMA : diypedals](https://www.reddit.com/r/diypedals/comments/95xt7s/has_anybody_figured_out_how_this_little_buddy/)
-* [PEDAL CRUSH - Stompbox Effects For Creative Music Making – BJOOKS](https://www.pushturnmove.com/products/pedal-crush-stompbox-effects-for-creative-music-making)
+* [PEDAL CRUSH - Stompbox Effects For Creative Music Making – BJOOKS](https://bjooks.com/)
 * [Electronics Test Equipment, Soldering, & Tools Supplier](https://www.circuitspecialists.com/)
 * [Guitar Pedal Parts - Enclosures, Knobs, Switches, Kits](https://guitarpedalparts.com/)
 
