@@ -53,5 +53,5 @@ Added layers are:
 
 * **BACKGROUND:** This is just a background. I try to set it to an approximation of the enclosure color I will have.
 * **HOLES:** These are the holes that you would need to drill. The outer layers are for pots the inner for switches. In the LED location they are 3mm and 5mm.
-* **KNOBS:** These are circles that are 15mm and 19mm which seem to be the most common knon sizes for this layout of controls.
+* **KNOBS:** These are circles that are 15mm and 19mm which seem to be the most common knob sizes for this layout of controls.
 
