@@ -6,6 +6,7 @@ toc_icon: "cog"
 
 title: Templates
 excerpt: This is the place where I will put templates that I hope will help people build and produce art for their pedals.
+date: 2021-03-04
 
 author_profile: true
 
