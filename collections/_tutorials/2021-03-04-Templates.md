@@ -17,7 +17,7 @@ header:
 
 # Introduction
 
-This is the place where I will put templates that I hope will help people build and produce art for their pedals.
+This is the place where I will put templates that I hope will help people build and produce art for their pedals. All you have to do is right lick on the links and "Save link as...".
 
 ## Knob Surrounds
 
