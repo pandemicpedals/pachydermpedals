@@ -6,14 +6,18 @@ toc_icon: "cog"
 
 title: Useful Parts
 excerpt: Over the last year I have collecting links that I have found useful. Hopefully you will too.
+date: 2021-02-23
 
 author_profile: true
 
 header:
-  teaser: /assets/images/header_workspace1.jpg
-  overlay_image: /assets/images/header_workspace1.jpg
+  teaser: /assets/images/header_parts.jpg
+  overlay_image: /assets/images/header_parts.jpg
   overlay_filter: 0.8
 ---
+
+This is a work in progress. I should probably stage it but I like to have information available.
+(: .notice--warning )
 
 # Introduction
 
@@ -22,7 +26,7 @@ I've seen this come up a few times from beginners about where to start. Since I 
 **Note:** This will be very US centric since that is where I am getting parts and PCBs from.
 {: .notice--info }
 
-The best thing you can do is explore and read. I will put up a few sites here but I am sure there are others. Another great resource is youtube. I use it to give me tutorials on soldering and using equipment.
+These are some of the parts I like to use and where I get them from. 
 
 # Parts
 

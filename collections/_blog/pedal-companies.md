@@ -6,6 +6,7 @@ toc_icon: "cog"
 
 title: Pedal Companies
 excerpt: These are the makers of the effects we all know and love. This is not an exhaustive list. Feel free to let me know about other companies that should be on the list.
+date: 2021-02-21
 
 author_profile: true
 
@@ -23,7 +24,9 @@ These are the makers of the effects we all know and love. This is not an exhaust
 
 * [1981 INVENTIONS](https://1981inventions.com/)
 * [Adventure Audio](https://www.adventurepedals.com/)
++ [Alexander Pedals](https://www.alexanderpedals.com/)
 * [AnalogMan](https://www.buyanalogman.com/default.asp)
+* [Anasounds](https://anasounds.com/)
 * [Beetronics FX ](https://www.beetronicsfx.com/)
 * [Blackstone Appliances](https://blackstoneappliances.com/)
 * [BOSS](https://www.boss.info/uk/categories/stompboxes/)

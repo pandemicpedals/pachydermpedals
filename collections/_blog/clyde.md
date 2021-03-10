@@ -7,9 +7,12 @@ toc_icon: "cog"
 layout: single
 title: "The Creation of Clyde"
 excerpt: "Clyde is a mascot on my site and in my photos. You will see him often. He is special to me because I made him while spending time with my mother in a retirement community in Arizona."
+date: 2021-02-21
 
 header:
   teaser: /assets/images/posts/clyde/10.jpg
+  overlay_image: /assets/images/posts/clyde/10.jpg
+  overlay_filter: 0.8
 
 author_profile: true
 author_profile_end: false

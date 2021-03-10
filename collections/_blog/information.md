@@ -15,6 +15,9 @@ header:
   overlay_filter: 0.8
 ---
 
+This is a work in progress. I should probably stage it but I like to have information available.
+(: .notice--warning )
+
 # Introduction
 
 I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found. 

@@ -6,6 +6,7 @@ toc_icon: "cog"
 
 title: Useful Equipment
 excerpt: Over the last year I have collecting links that I have found useful. Hopefully you will too.
+date: 2021-02-23
 
 author_profile: true
 
