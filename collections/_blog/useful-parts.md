@@ -31,7 +31,7 @@ These are some of the parts I like to use and where I get them from.
 # Parts
 
 * **[LEDs](https://amzn.to/3aJH7wR)** - I really like these and have a good results with them for the price. Plus the colors are nice
-* **[Potentiometer Dust Cover](https://amzn.to/3bAyUu6)** - To avoiding shorting potentiometers on the back of the board.
+* **[Potentiometer Dust Cover](https://amzn.to/3bAyUu6)** - To avoiding shorting potentiometers on the back of the board. As of March 12, 2021 the dust covers on Amazon are not available. You may be able to find them on stompboxparts or smallbear electronics. 
 * **[Wire](https://amzn.to/3khYs33)** - This 24 awg solid core wire has worked really well so far for me. I also like their [22 awg solid core wires](https://amzn.to/3bzI61L) for off board components because I get better control of how the wire bends.
 * **[Connectors](https://amzn.to/37IuHTZ)** - These have made my life so much easier. It allows me to connect and disconnet the DC jack so I can take the board back out of the enclosure without having to desolder.
 

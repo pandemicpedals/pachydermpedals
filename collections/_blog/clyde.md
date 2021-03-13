@@ -4,7 +4,8 @@ toc_sticky: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 
-layout: single
+# layout: single
+
 title: "The Creation of Clyde"
 excerpt: "Clyde is a mascot on my site and in my photos. You will see him often. He is special to me because I made him while spending time with my mother in a retirement community in Arizona."
 date: 2021-02-21

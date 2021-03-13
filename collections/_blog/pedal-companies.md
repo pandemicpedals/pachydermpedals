@@ -37,6 +37,7 @@ These are the makers of the effects we all know and love. This is not an exhaust
 * [Cusack Music](https://cusackmusic.com/)
 * [Darkglass Electronics](https://www.darkglass.com/)
 * [Death By Audio](https://deathbyaudio.com/)
+* [Demedash Effects](https://www.demedasheffects.com/pages/home)
 * [Devi Ever](https://deviever.net/)
 * [DigiTech Effects Pedals](https://www.digitech.com/)
 * [Dr Scientist](https://www.drscientist.ca/)
