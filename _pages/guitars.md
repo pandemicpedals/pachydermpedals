@@ -1,12 +1,15 @@
 ---
-title: Guitars - Past and Present
+title: Guitars
+excerpt: Past and Present
+
 layout: collection
 permalink: /guitars/
 collection: guitars
 entries_layout: grid
 output: true
+
 classes: wide
-author_profile: true
+author_profile: false
 
 header:
   teaser: /assets/images/header_guitars1.jpg

@@ -19,28 +19,31 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Pandemic Pedal Collection 2020-09-13"
   actions:
-    - label: "Tutorials"
-      url: "/tutorials/index.html"
     - label: "Pedals"
-      url: "/pedals/index.html"
+      url: "/#pedals"
+    - label: "Tutorials"
+      url: "/#tutorials"
+    - label: "Blog"
+      url: "/#blog"
     - label: "Guitars"
-      url: "/guitars/index.html"
+      url: "/#guitars"
 
 classes:
     - landing
     - dark-theme
-
 ---
 
 
 
-{% assign collections = site.collections | sort: 'label' | reverse %}
+{% assign collections = site.collections | sort: 'position' %}
 
 {% for collection in collections %}
   {% unless collection.output == false or collection.label == "posts" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
-      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      <h2 class="archive__title" id="{{ collection.label }}">
+        <a href="/{{ collection.label }}/" class="archive__title">{{ collection.title }}</a>
+      </h2>
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
 
@@ -56,32 +59,29 @@ classes:
           <div class="archive__item">
             {% if f.header.teaser %}
               <div class="archive__item-teaser">
-                <img src="{{ f.header.teaser }}"
-                      alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                <a href="{{ f.url | relative_url }}"">
+                  <img src="{{ f.header.teaser }}" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                </a>
                 {% if f.image_caption %}
                   <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
                 {% endif %}
               </div>
             {% endif %}
-      
             <div class="archive__item-body">
               {% if f.title %}
-                <h2 class="archive__item-title">{{ f.title }}</h2>
+              <a href="{{ f.url | relative_url }}" class="archive__subtitle">
+                <h2 class="archive__subtitle">{{ f.title }}</h2>
+              </a>
               {% endif %}
-      
               {% if f.compare-to %}
                 <h2 class="archive__item-excerpt">Compare to {{ f.compare-to }}</h2>
               {% endif %}
-      
               {% if f.excerpt %}
                 <div class="archive__item-excerpt">
                   {{ f.excerpt | markdownify }}
                 </div>
               {% endif %}
       
-              {% if f.url %}
-                <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-              {% endif %}
             </div>
           </div>
         </div>
