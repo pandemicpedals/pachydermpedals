@@ -140,6 +140,7 @@ There are many morem the blogs above go over many different circuits.
 * [Spray Painting metal enclosures (Hammer Tone)](http://pedalprojects.blogspot.com/2013/12/spray-painting-metal-enclosures-hammer.html)
 * [UV Printing Service](https://www.taydaelectronics.com/uv-printing)
 * [Waterslide Decals – Planet Z](http://www.planetz.com/waterslide-decals/#more-2046)
+* [No Film Waterslide Tutorial on PedalPCB Forum](https://forum.pedalpcb.com/threads/no-film-waterslide-tutorial.5543/) - [March 14, 2021] Just saw this one on the forum and thought is was super informative. I may have to give this a try. 
 
 ### DSP
 
