@@ -9,62 +9,63 @@ toc_icon: "cog"
 title: "The Creation of Clyde"
 excerpt: "Clyde is a mascot on my site and in my photos. You will see him often. He is special to me because I made him while spending time with my mother in a retirement community in Arizona."
 date: 2021-02-21
+modified: 2021-02-21
 
 header:
-  teaser: /assets/images/posts/clyde/10.jpg
-  overlay_image: /assets/images/posts/clyde/10.jpg
+  teaser: /assets/images/blog/clyde/10.jpg
+  overlay_image: /assets/images/blog/clyde/10.jpg
   overlay_filter: 0.8
 
 author_profile: true
 author_profile_end: false
 
 formed:
-  - url: /assets/images/posts/clyde/01.jpg
-    image_path: /assets/images/posts/clyde/01.jpg
+  - url: /assets/images/blog/clyde/01.jpg
+    image_path: /assets/images/blog/clyde/01.jpg
     alt: "placeholder image 1"
     title: ""
-  - url: /assets/images/posts/clyde/02.jpg
-    image_path: /assets/images/posts/clyde/02.jpg
+  - url: /assets/images/blog/clyde/02.jpg
+    image_path: /assets/images/blog/clyde/02.jpg
     alt: "placeholder image 2"
     title: ""
-  - url: /assets/images/posts/clyde/03.jpg
-    image_path: /assets/images/posts/clyde/03.jpg
+  - url: /assets/images/blog/clyde/03.jpg
+    image_path: /assets/images/blog/clyde/03.jpg
     alt: "placeholder image 3"
     title: ""
 
 drying:
-  - url: /assets/images/posts/clyde/04.jpg
-    image_path: /assets/images/posts/clyde/04.jpg
+  - url: /assets/images/blog/clyde/04.jpg
+    image_path: /assets/images/blog/clyde/04.jpg
     alt: "placeholder image 4"
     title: ""
-  - url: /assets/images/posts/clyde/05.jpg
-    image_path: /assets/images/posts/clyde/05.jpg
+  - url: /assets/images/blog/clyde/05.jpg
+    image_path: /assets/images/blog/clyde/05.jpg
     alt: "placeholder image 5"
     title: ""
-  - url: /assets/images/posts/clyde/06.jpg
-    image_path: /assets/images/posts/clyde/06.jpg
+  - url: /assets/images/blog/clyde/06.jpg
+    image_path: /assets/images/blog/clyde/06.jpg
     alt: "placeholder image 6"
     title: ""
-  - url: /assets/images/posts/clyde/07.jpg
-    image_path: /assets/images/posts/clyde/07.jpg
+  - url: /assets/images/blog/clyde/07.jpg
+    image_path: /assets/images/blog/clyde/07.jpg
     alt: "placeholder image 7"
     title: ""
-  - url: /assets/images/posts/clyde/08.jpg
-    image_path: /assets/images/posts/clyde/08.jpg
+  - url: /assets/images/blog/clyde/08.jpg
+    image_path: /assets/images/blog/clyde/08.jpg
     alt: "placeholder image 8"
     title: ""
 
 gallery:
-  - url: /assets/images/posts/clyde/09.jpg
-    image_path: /assets/images/posts/clyde/09.jpg
+  - url: /assets/images/blog/clyde/09.jpg
+    image_path: /assets/images/blog/clyde/09.jpg
     alt: "placeholder image 9"
     title: ""
-  - url: /assets/images/posts/clyde/11.jpg
-    image_path: /assets/images/posts/clyde/11.jpg
+  - url: /assets/images/blog/clyde/11.jpg
+    image_path: /assets/images/blog/clyde/11.jpg
     alt: "placeholder image 11"
     title: ""
-  - url: /assets/images/posts/clyde/12.jpg
-    image_path: /assets/images/posts/clyde/12.jpg
+  - url: /assets/images/blog/clyde/12.jpg
+    image_path: /assets/images/blog/clyde/12.jpg
     alt: "placeholder image 12"
     title: ""
 ---

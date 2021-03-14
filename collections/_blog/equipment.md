@@ -5,8 +5,9 @@ toc_sticky: true
 toc_icon: "cog"
 
 title: Useful Equipment
-excerpt: Over the last year I have collecting links that I have found useful. Hopefully you will too.
+excerpt: I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found. 
 date: 2021-02-23
+modified: 2021-03-13
 
 author_profile: true
 
@@ -18,12 +19,10 @@ header:
 
 # Introduction
 
-I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found. 
+This is the equipment I have picked up over the last year of building pedals. I've spent a lot time searching, reading and getting tips from those that are more knowledgeable than myself. I thought it  would be good to share what I have found. This is what I know so far. 
 
 **Note:** This will be very US centric since that is where I am getting parts and PCBs from.
 {: .notice--info }
-
-The best thing you can do is explore and read. I will put up a few sites here but I am sure there are others. Another great resource is youtube. I use it to give me tutorials on soldering and using equipment.
 
 # Equipment
 
@@ -68,7 +67,10 @@ There are many more items that can be used for test and debug. These are the ite
 **Update:** [March, 13 2021] I just recently picked up [this transistor tester](https://amzn.to/3bGTOsF) as I think it will give more information. I will update after some use.
 {: .notice--info }
 
-## Work Area:
+[![](/assets/images/blog/equip/breadboard.jpg)](https://amzn.to/3tgg02P){: .align-left .width-100}
+**[Breadoboard](https://amzn.to/3tgg02P)** - A breadboard is super handy for testing out circuits you are thinking of building. Spedially if you want to try different parts or modifications. They aren't that expensive and they really help you expand your creativity.
+
+## Work Area
 
 I use these for every pedal I make. I am not going to say that are required but I would advise looking into them.
 

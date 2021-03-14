@@ -4,10 +4,28 @@ toc_label: "My Table of Contents"
 toc_sticky: true
 toc_icon: "cog"
 
-title: Useful Information
-excerpt: Over the last year I have collecting links that I have found useful. Hopefully you will too.
+title: Pedal Building Information
+excerpt: Here is a collection of links to resources for all phases of pedal building, from circuit design to finishing the enclosure.
+date: 2021-03-13
+modified: 2021-03-13
 
-author_profile: true
+author_profile_end: true
+
+sidebar:
+  - title: "Favorite Forums"
+    text: "
+* [PedalPCB Community Forum](https://forum.pedalpcb.com/)
+
+* [Madbean Pedals Forum](https://www.madbeanpedals.com/forum/index.php)
+
+* [DIYstompboxes.com](https://www.diystompboxes.com/smfforum/index.php)
+
+* [FreeStompBoxes.org](https://www.freestompboxes.org/)
+
+* [B.Y.O.C. Messag Board](http://www.byocelectronics.com/board/)
+
+* [r/diypedals](https://www.reddit.com/r/diypedals/)
+  "
 
 header:
   teaser: /assets/images/header_workspace1.jpg
@@ -16,193 +34,201 @@ header:
 ---
 
 This is a work in progress. I should probably stage it but I like to have information available.
-(: .notice--warning )
+{: .notice--warning }
 
 # Introduction
 
-I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found. 
-
-**Note:** This will be very US centric since that is where I am getting parts and PCBs from.
-{: .notice--info }
+I've seen this come up a few times from beginners about where to start. Since I have only been at this since March of 2020 I thought I would put together a list of what I had found useful. I will try to organize is as best I can and I will continue to update this page as I find more useful things. If a section gets too big I may break it out and make it its own page. 
 
 The best thing you can do is explore and read. I will put up a few sites here but I am sure there are others. Another great resource is youtube. I use it to give me tutorials on soldering and using equipment.
 
 # Information
 
-Read the forums on the side bar. It is also nice to buy PCB boards from  places that have forums as well. PedalPCB has a really good forum and they are very responsive. Rullywow got back to me right away when I had questions. Aion and Madbean both have very informative documentation. And watch Wampler's youtube channel. He goes over a lot of stuff about the circuits and how they work. I just started in april and have read a lot. 
+Read the forums on the side bar. It is also nice to buy PCB boards from  places that have forums as well. [PedalPCB](https://forum.pedalpcb.com/) has a really good forum and they are very responsive. [Rullywow](https://rullywow.com/) got back to me right away when I had questions. [Aion Electronics](https://aionfx.com/) and [Mad Bean Pedals](https://www.madbeanpedals.com/projects/index.html) both have very informative documentation. And watch [Wampler's youtube channel](https://www.youtube.com/channel/UCdVrg4Wl3vjIxonABn6RfWw), he goes over a lot of stuff about the circuits and how they work. I just started in March, 2020 and have read a lot. 
 
 
-* [Basic Electronics Tutorials Sitemap Page](https://www.electronics-tutorials.ws/sitemap)
-* [Vero Layout Guide](http://tagboardeffects.blogspot.com/2012/09/vero-layout-guide.html)
-* [Electrical Circuits & Filter Calculators](https://www.trance-cat.com/electrical-circuit-calculators/en/)
-* [Equivalent Transistors](https://alltransistors.com/)
 
 You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspot.com/) and [Effects Layouts](http://effectslayouts.blogspot.com/). Other good sites for learning are 
 
 
-## PCB Sites
-
-* [1776 Effects](https://1776effects.com/)
-* [Aion Electronics](https://aionfx.com/)
-* [Build Your Own Clone](https://buildyourownclone.com/)
-* [Carcharias Effects](https://carchariaseffects.com/)
-* [Coda Effects](https://www.coda-effects.com/)
-* [delyk PCBs](https://www.delykpcb.com/)
-* [Electric Druid - Synth and Stompbox DIY](https://electricdruid.net/)
-* [ElectroSmash](https://www.electrosmash.com/#)
-* [Fuzz Dog's Pedal Parts](https://shop.pedalparts.co.uk/)
-* [General Guitar Gadgets](http://www.generalguitargadgets.com/)
-* [GuitarPCB](https://guitarpcb.com/)
-* [Lectric-fx](https://lectric-fx.com/)
-* [Mad Bean Pedals](https://www.madbeanpedals.com/projects/index.html)
-* [MAS Effects](https://mas-effects.com/)
-* [Parasit Studio](https://www.parasitstudio.se/)
-* [PCB Guitar Mania](https://pcbguitarmania.com/)
-* [Pedal Parts and Kits](https://www.pedalpartsandkits.com/)
-* [PedalPCB.com](https://www.pedalpcb.com/)
-* [Rullywow](https://rullywow.com/)
-* [Tayda Instruction Center](https://www.taydakits.com/)
-* [TH Custom Effects](http://diy.thcustom.com/)
-* [Tonepad](http://www.tonepad.com/default.asp)
-* [Zeppelin Design Labs](https://zeppelindesignlabs.com/)
-
-## Parts
-
-* [Das Musikding](https://www.musikding.de/)
-* [DigiKey](https://www.digikey.com/product-detail/en/)
-* [Fuzz Dog's Pedal Parts](http://shop.pedalparts.co.uk/index.aspx?pageid=847117)
-* [Guitar Pedal Parts](https://guitarpedalparts.com/)
-* [LOVE MY SWITCHES](https://lovemyswitches.com/)
-* [Mouser](https://www.mouser.com/)
-* [Pedalhacker Electronics](https://www.pedalhackerelectronics.com/)
-* [Pedal Parts Plus](http://www.pedalpartsplus.com/)
-* [Small Bear Electronics](http://smallbear-electronics.mybigcommerce.com/)
-* [Stomp Box Parts](https://stompboxparts.com/)
-* [Tayda Electronics](https://www.taydaelectronics.com/)
-
 ## Blogs
 
+* [amzfx](http://www.muzique.com/)
+* [beavis audio research](http://beavisaudio.com/)
 * [Carcharias Effects](https://carchariaseffects.com/blog/)
+* [DIY Fever](http://diy-fever.com/)
+* [Electrosmash - Electronics for Audio Circuits](https://www.electrosmash.com/)
 * [Fuzzdog Pedals - Thermionic Studios](http://thermionic-studios.com/wiki/index.php?title=Fuzzdog_Pedals)
 * [GEO - Guitar Effects Oriented Web Page](http://www.geofex.com/)
+* [Guitar Pedal X - News](https://www.guitarpedalx.com/)
+* [Runoffgroove](http://runoffgroove.com/)
 * [Small Bear Electronics](http://diy.smallbearelec.com/index.html)
+* [SabroTone – A DIY guitar electronics diary](https://www.sabrotone.com/)
 * [VFE Pedals](https://vfepedals.com/)
 
 ## Forums
 
 * [PedalPCB Community Forum](https://forum.pedalpcb.com/)
+* [FreeStompBoxes.org](https://www.freestompboxes.org/)
 * [madbeanpedals::forum - Index](https://www.madbeanpedals.com/forum/index.php)
 * [DIYstompboxes.com](https://www.diystompboxes.com/smfforum/index.php)
-
-* [Layouts](https://www.aronnelson.com/gallery/main.php/v/Xaviers-shrine-of-noise/Layouts/)
-
-## Learning
-
-* [Waterslide Decals – Planet Z](http://www.planetz.com/waterslide-decals/#more-2046)
-* [beavis audio research](http://beavisaudio.com/)
-* [How to Solder: Through-Hole Soldering - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering/all)
-* [Voltage, Current, Resistance, and Ohm's Law - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
-* [SparkFun Electronics - YouTube](https://www.youtube.com/user/sparkfun/videos)
-* [All About Capacitors - European Circuits](https://european-circuits.co.uk/all-about-capacitors/)
-* [Microsoft Word - Capacitors for Beginning DIYers.docx](http://www.byocelectronics.com/capcodes.pdf)
-* [Pcbnew](file:///C:/Program%20Files/KiCad/share/doc/kicad/help/en/pcbnew.html)
-* [DaVinci Resolve 16 – Training - Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve/training)
-* [How to Set up a Pedal Board for Bassists](http://smartbassguitar.com/how-to-set-up-a-pedal-board-for-bassists/)
-* [Pedalboards: How to Build the Perfect System from Start to Finish - GuitarPlayer.com](https://www.guitarplayer.com/gear/pedalboards-how-to-build-the-perfect-system-from-start-to-finish)
-* [Guitar Pedal Order Matters! - The Signal Chain & Effects Loop Guide - LN](https://ledgernote.com/columns/guitar-guru/guitar-pedal-order/)
-* [GitHub - bancika/diy-layout-creator: multi platform circuit layout and schematic drawing tool](https://github.com/bancika/diy-layout-creator)
-* [All About Circuits - Electrical Engineering & Electronics Community](https://www.allaboutcircuits.com/)
-* [ElectroSmash - Electronics for Audio Circuits.](https://www.electrosmash.com/)
-* [The Big Muff Pi Page](http://www.bigmuffpage.com/)
-* [The Scientist and Engineer's Guide to Digital Signal Processing's Table of Content](https://www.dspguide.com/pdfbook.htm)
-* [Electronic Components: Details Summaries Tutorials » Electronics Notes](https://www.electronics-notes.com/articles/electronic_components/)
-
-# Daisy Resources
-
-* [Electrosmith](https://github.com/electro-smith)
-* [Sonic_Daisy/rhythm_delay_basic.cpp at main · tnatoli/Sonic_Daisy](https://github.com/tnatoli/Sonic_Daisy/)
-* [FV-1 Programs](https://mstratman.github.io/fv1-programs/)
-
-
-
-## Other Parts
-
-* [Antique Electronic Supply](https://www.tubesandmore.com/)
-* [Allied Electronics & Automation - Industrial Automation & Control Products Distributor](https://www.alliedelec.com/)
-* [Coolaudio Semiconductors - COOLAUDIO International Ltd](http://www.coolaudio.com/index.php)
-* [Jameco Electronics - Electronic Components Distributor](https://www.jameco.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?langId=-1&storeId=10001&catalogId=10001)
-* [kmmk.solutions](http://kmmk.solutions/)
-* [LabNation - Store](https://www.lab-nation.com/store)
-* [Modular Addict Synth-DIY](https://modularaddict.com/)
-* [Thonk – DIY Synthesizer Kits & Components – Modular Synth Goods](https://www.thonk.co.uk/)
-* [TME - Electronic components](https://www.tme.com/us/en-us/)
-* [GLS Audio](https://www.glsaudio.com/)
-* [Redco Audio](https://www.redco.com/)
-* [Best-Tronics Mfg., Inc.](https://btpa.com/)
-* [Prymaxe](https://www.prymaxe.com/)
-* [vactrols](https://synthcube.com/cart/vactrols)
-* [Octave Doctor](https://octavedoctor.com/)
-* [Hammond Mfg. - Diecast Aluminum Enclosures (1590 Series)](https://www.hammfg.com/)
-* [Hammond Mfg. - Diecast Aluminum Enclosures (1590 Series)](http://www.hammondmfg.com/dwg.htm)
-* [1590CEBK by Hammond Manufacturing - Boxes, Enclosures and Racks - Arrow.com](https://www.arrow.com/en/products/1590cebk/hammond-manufacturing)
-* [Advanced Search - Powell Electronics](https://www.powell.com/e2wItemAdvanceSearch.aspx?ManufacturerName=Hammond%20Manufacturing)
-
+* [Aron Nelson Gallery](https://www.aronnelson.com/gallery/main.php)
+* [B.Y.O.C. Messag Board](http://www.byocelectronics.com/board/)
+* [r/diypedals](https://www.reddit.com/r/diypedals/)
 
 ## Tagboard & Schematics
 
 * [Dirtbox Layouts](https://dirtboxlayouts.blogspot.com/)
 * [Effects Heaven Effect Schematics](https://schematicheaven.net/effects.html)
-* [Guitar FX Layouts](http://tagboardeffects.blogspot.com/)
+* [Tagboard Effects](http://tagboardeffects.blogspot.com/)
 * [Guitar FX Layouts](http://guitar-fx-layouts.42897.x6.nabble.com/)
-* [Perf and PCB Effects Layouts](http://effectslayouts.blogspot.com/)
+* [Effects Layouts](http://effectslayouts.blogspot.com/)
 * [PARASIT STUDIO](https://www.parasitstudio.se/stripboard-layouts/category/all)
+* [Turretboard.org](http://turretboard.knucklehead.dk/)
+
+## Facebook Groups
+
+* <i class='fa fa-lock' /> [FreeSompBoxes.org](https://www.facebook.com/groups/108898015804912/) 
+* <i class='fa fa-lock' /> [DIY Stompboxes (unofficial)](https://www.facebook.com/groups/6110761372/) 
+* [DIY Guitar Pedal](https://www.facebook.com/groups/556445917712892/)
+* [Guitar Pedal Builders](https://www.facebook.com/groups/190439971066228)
+
+## Learning
+
+### Classic Circuits
+
+There are many morem the blogs above go over many different circuits.
+
+* [The Big Muff Pi Page](http://www.bigmuffpage.com/)
+* [Fuzz Face Facts](http://diy.smallbearelec.com/HowTos/FuzzFaceFAQ/FFFAQ.htm)
+* [Fuzz Central -- Colorsound Tonebender MKII](https://fuzzcentral.ssguitar.com/mkII.php)
+
+### Electronics & Circuits
+
+* [All About Circuits - Electrical Engineering & Electronics Community](https://www.allaboutcircuits.com/)
+* [Basic Electronics Tutorials Sitemap Page](https://www.electronics-tutorials.ws/sitemap) - I really like this site for explaining what is going on with different parts of a circuit
+* [Components101 - Electronic Components Pinouts, Details & Datasheets](https://components101.com/index.php/)
+* [Electrical Circuits & Filter Calculators](https://www.trance-cat.com/electrical-circuit-calculators/en/)
+* [Electronic Components: Details Summaries Tutorials » Electronics Notes](https://www.electronics-notes.com/articles/electronic_components/)
+* [Equivalent Transistors](https://alltransistors.com/)
+* [Voltage, Current, Resistance, and Ohm's Law - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 
 
+### Pedal Building
+
+* [How to Solder: Through-Hole Soldering - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering/all)
+* [Technical Help - General Guitar Gadgets](http://www.generalguitargadgets.com/how-to-build-it/technical-help/)
+* [Vero Layout Guide](http://tagboardeffects.blogspot.com/2012/09/vero-layout-guide.html)
+* [Stompbox Wiring](http://beavisaudio.com/techpages/c/)
+* [Switches](http://beavisaudio.com/techpages/switches/)
+* [How BBDs Sample Audio](http://www.muzique.com/news/how-bbds-sample-audio/)
+* [Counterfeit Parts and Vintage Effects](https://www.gerlttechnologies.com/index.php/more-info/components/174-counterfeit-parts)
+* [Germanium transistors for Fuzz](http://guitarpoppa.com/germanium-transistors-for-fuzz-2/)
+* [TMB Tone Stack](https://robrobinette.com/How_The_TMB_Tone_Stack_Works.htm)
+* [Baxandall EQ with Semi-Parametric Mids](https://www.diystompboxes.com/smfforum/index.php?topic=111479.0)
+* [Coda Effects - Best capacitors for guitar pedals: which one to choose?](https://www.coda-effects.com/2015/04/capacitors-which-one-to-choose.html)
+* [Coda Effects - All you need to know about resistors in guitar pedals](https://www.coda-effects.com/2015/08/all-you-need-to-know-about-resistors-in.html)
+* [Guitar Fx Electronics: Learn electronics via Guitar Pedals!](https://pedals.curiousmotor.com/)
+* [Where to Buy What - Aion Electronics](https://aionelectronics.com/resources/where-to-buy-what/)
+* [OC 71, Tube OC71; Röhre OC 71 ID33679, Transistor](https://www.radiomuseum.org/tubes/tube_oc71.html)
+* [Transistor Equivalents for the substitution of modern transistors in elderly projects](http://www.dave-cushman.net/elect/apidictortransistors.html)
+
+### Finishing Enclosures
+
+* [How I DO Etching  - DIY Guitar Effects](https://diy-guitar-effects.tumblr.com/etching) - Some of the nicest etched enclosures I've seen. I really like his stuff.
+* [Finish Him! (5) Hand-painting and clear coating enclosures summary](https://championleccy.com/2017/07/03/finish-him-5-summary-of-findings/)
+* [Spray Painting metal enclosures (Hammer Tone)](http://pedalprojects.blogspot.com/2013/12/spray-painting-metal-enclosures-hammer.html)
+* [UV Printing Service](https://www.taydaelectronics.com/uv-printing)
+* [Waterslide Decals – Planet Z](http://www.planetz.com/waterslide-decals/#more-2046)
+
+### DSP
+
+* [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.comS/pdfbook.htm)
+* [Electrosmith - Github](https://github.com/electro-smith)
+* [Sonic_Daisy - Github](https://github.com/tnatoli/Sonic_Daisy/)
+* [FV-1 Programs](https://mstratman.github.io/fv1-programs/) - This is a great resource put together by  MAS effects. I have a few of these on my Mimir's Well and they sound great. I love when people put the effort into sharing knowledge with others.
+* [SpinCAD-Designer](https://github.com/HolyCityAudio/SpinCAD-Designer)SpinCAD Designer is - an open source Java project which allows creation of patches for the Spin FV-1 audio DSP chip.
+
+### Pedal Boards
+
+* [How to Set up a Pedal Board for Bassists](http://smartbassguitar.com/how-to-set-up-a-pedal-board-for-bassists/)
+* [Pedalboards: How to Build the Perfect System from Start to Finish - GuitarPlayer.com](https://www.guitarplayer.com/gear/pedalboards-how-to-build-the-perfect-system-from-start-to-finish)
+* [Guitar Pedal Order Matters! - The Signal Chain & Effects Loop Guide - LN](https://ledgernote.com/columns/guitar-guru/guitar-pedal-order/)
 
 
+## Software
+
+### Circuit Design
+
+* [diyLC](https://github.com/bancika/diy-layout-creator)
+* [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+  * [Components Library and Circuits - LTwiki-Wiki for LTspice](http://ltwiki.org/index.php?title=Components_Library_and_Circuits)
+* [Eagle](https://www.autodesk.com/products/eagle/overview)
+
+### Artwork
+
+* [Inkscape](https://inkscape.org/release/inkscape-1.0.1/)
+* [GIMP](https://www.gimp.org/)
+* [Affinity Designer](https://affinity.serif.com/en-us/)
+* [Adobe Illustrator](https://www.adobe.com/creativecloud.html)
+
+## Youtube
+
+These are some of the youtube channels I subscribe to. There are many others that have to do with music and guitars but these are the pedal focused sites.
+
+### DIY
+
+* [DIY Guitar Pedals](https://www.youtube.com/channel/UCGhzS1GbX-yxyBrUJtnUMoA)
+* [DIY Recording Equipment](https://www.youtube.com/channel/UC39hEFRxUp6Xsb-ZSz3ftiw)
+* [Effects Layouts](https://www.youtube.com/channel/UCuCJhqsyaGveg0PjLbAGcdQ)
+* [Pougnet Pedals](https://www.youtube.com/channel/UCtA4rFQpqU9fu7TAX0mc7xQ)
+
+### Pedal Companies
+
+* [Fuzzlord Effects](https://www.youtube.com/channel/UCGfUI158Yz7PvBKVALm-fWA)
+* [JHS Pedals](https://www.youtube.com/channel/UCjfbkA4jJkJY5g0wbjuoZWA)
+* [Keeley Electronics](https://www.youtube.com/channel/UCqSHdAVEATZS7o0VJRsrtwQ)
+* [Vertex Effects](https://www.youtube.com/channel/UC0lvt4Tpj5xI4Cfzfz4SHzg)
+* [Wampler Pedals](https://www.youtube.com/channel/UCdVrg4Wl3vjIxonABn6RfWw)
+
+### Reviews and Demos
+
+* [That Pedal Show](https://www.youtube.com/channel/UCnUXq8mGmoHt0e6ItuTs10w)
+* [AndyDemos](https://www.youtube.com/channel/UCcG22ZHSmDAoE6DA_K8Lhng)
+* [Knobs](https://www.youtube.com/channel/UCarxZ8bKjfFzUOgN5LjYOhQ)
+
+### Electronics
+
+* [Contextual Electronics](https://www.youtube.com/channel/UCkJRycUz2CylxpiP-zMePow)
+* [SparkFun Electronics - YouTube](https://www.youtube.com/user/sparkfun/videos)
+* [The Engineering Mindset](https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw)
+
+# Projects
+
+These are things I have built or want to build
 
 * [AMZ - Guitar Effects & JFET Splitter](http://www.muzique.com/lab/splitter.htm)
 * [MXR Flanger Clone - Shredaholic.com](http://www.shredaholic.com/mxrflanger.html)
-* [Guitar Pedal X - News](https://www.guitarpedalx.com/)
-* [Capacitor uF - nF - pF Conversion Chart](https://www.justradios.com/uFnFpF.html)
-
-* [beavis audio research](http://beavisaudio.com/techpages/StompboxWiring/)
-* [Fuzz Face Facts](http://diy.smallbearelec.com/HowTos/FuzzFaceFAQ/FFFAQ.htm)
-* [beavis audio research](http://beavisaudio.com/techpages/switches/)
-* [Components101 - Electronic Components Pinouts, Details & Datasheets](https://components101.com/index.php/)
-* [AMZ-FX Guitar Effects Blog » Blog Archive How BBDs Sample Audio - AMZ-FX Guitar Effects Blog](http://www.muzique.com/news/how-bbds-sample-audio/)
-* [Counterfeit Parts and Vintage Effects](https://www.gerlttechnologies.com/index.php/more-info/components/174-counterfeit-parts)
-* [Germanium transistors for Fuzz -2 - Guitar Poppa](http://guitarpoppa.com/germanium-transistors-for-fuzz-2/)
-* [Visual Analyser](http://www.sillanumsoft.org/?fbclid=IwAR2Q6hc6Pq7-FgCFadBQpyTB_GBu-hMtaW0FgFhwixNDXDyOxK6nf0aYPjA)
-* [DIY Guitar pedal projects: Spray Painting metal enclosures (Hammer Tone)](http://pedalprojects.blogspot.com/2013/12/spray-painting-metal-enclosures-hammer.html)
-* [OEP Products: Plastic Knobs, etc.](https://oep.com/index.aspx)
-* [freestompboxes.org • View topic - Darkglass - Vintage Microtubes](https://www.freestompboxes.org/viewtopic.php?f=1&t=25589&hilit=darkglass&start=20)
-* [Booster, OD, Fuzz, Distortion - Darkglass VMT! - Page 4](http://guitar-fx-layouts.42897.x6.nabble.com/Darkglass-VMT-td16443i60.html)
-* [UV Printing Service](https://www.taydaelectronics.com/uv-printing)
-* [Hackaday - Fresh Hacks Every Day](https://hackaday.com/)
+* [Darkglass - Vintage Microtubes](https://www.freestompboxes.org/viewtopic.php?f=1&t=25589&hilit=darkglass&start=20)
+* [Darkglass VMT!](http://guitar-fx-layouts.42897.x6.nabble.com/Darkglass-VMT-td16443i60.html)
 * [Building A Pocket Sized Arduino Oscilloscope - Hackaday](https://hackaday.com/2018/09/21/building-a-pocket-sized-arduino-oscilloscope/)
 * [Oscilloscope in a Matchbox - Arduino : 14 Steps (with Pictures) - Instructables](https://www.instructables.com/id/Oscilloscope-in-a-Matchbox-Arduino/)
-* [SabroTone – A DIY guitar electronics diary](https://www.sabrotone.com/)
-* [Finish Him! (5) Hand-painting and clear coating enclosures summary](https://championleccy.com/2017/07/03/finish-him-5-summary-of-findings/)
-
-
-## Music Studio
-
-* [Guitar Effects Oriented Web Page](http://www.geofex.com/)
-* [Technical Help - General Guitar Gadgets](http://www.generalguitargadgets.com/how-to-build-it/technical-help/)
-* [DIY Guitar Effects Pedals, Schematics, Stompboxes & Electronics](http://www.muzique.com/)
-* [TMB Tone Stack](https://robrobinette.com/How_The_TMB_Tone_Stack_Works.htm)
-* [Baxandall EQ with Semi-Parametric Mids](https://www.diystompboxes.com/smfforum/index.php?topic=111479.0)
-* [Sagan Delay V2.1 PCB - Carcharias Effects – Build Your Own Pedal!](https://carchariaseffects.com/product-page/dc6fx-sagan-delay-v2-1-pcb/)
-* [Redshift - Blackout Whetstone Phaser Parts List - Google Sheets](https://docs.google.com/spreadsheets/d/1ZFFDRq_SHd-ogSR3lunFUeKsHhPbk1SHvO9mdalFxKw/edit#gid=0)
-* [Blueshift / DC-2 Parts List - Google Sheets](https://docs.google.com/spreadsheets/d/1FPUq44RgrZcWFiYYUDCxy9GWtJ01ratzQha4DDe6T2s/edit#gid=0)
-* [DIY Fever – Building my own guitars, amps and pedals](http://diy-fever.com/)
-* [AMZ - Guitar Effects & JFET Splitter](http://www.muzique.com/lab/splitter.htm)
-* [Components Library and Circuits - LTwiki-Wiki for LTspice](http://ltwiki.org/index.php?title=Components_Library_and_Circuits)
-
 * [Make Your Own Simple Theremin : 4 Steps (with Pictures) - Instructables](https://www.instructables.com/id/Make-Your-Own-Simple-Theremin/)
 * [DIY Chewie Monsta (Ed Sheeran) Loop Pedal : 5 Steps - Instructables](https://www.instructables.com/id/DIY-Chewie-Monsta-Ed-Sheeran-Loop-Pedal/)
-* [bancika/diy-layout-creator: multi platform circuit layout and schematic drawing tool](https://github.com/bancika/diy-layout-creator)
+
+
+## JFET Matching
+
+* [Testing and Matching JFETS – Stompville](http://stompville.co.uk/?p=112)
+* [www.geofex.com/Article_Folders/fetmatch/fetmatch.htm](http://www.geofex.com/Article_Folders/fetmatch/fetmatch.htm)
+* [Guitar FX Layouts: Germanium Transistor Tester](http://tagboardeffects.blogspot.com/2012/08/germanium-transistor-tester.html)
+* [Guitar FX Layouts: Greatly Improved JFET Matcher](http://tagboardeffects.blogspot.com/2012/07/greatly-improved-jfet-matcher.html)
+
+
+## LM386 Amp
+
+I want to create a timy amp with a 3 inch speaker just for testing on the bench. This is my research so far.
+
 * [Guitar FX Layouts: Gem Toaster amp](http://tagboardeffects.blogspot.com/2016/04/gem-toaster-amp.html)
 * [Build a Great Sounding Audio Amplifier (with Bass Boost) from the LM386](https://www.circuitbasics.com/build-a-great-sounding-audio-amplifier-with-bass-boost-from-the-lm386/)
 * [LM386 Audio Amplifier Circuit](https://www.electroschematics.com/lm386-audio-amplifier/)
@@ -211,6 +237,8 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 * [ElectroSmash - 1Wamp Electroc Guitar Amplifier.](https://www.electrosmash.com/1wamp)
 
 ## Wave Gen
+
+These are all the links I visited when I was trying to design the TestBox with the wave generator.
 
 * [DIY Arduino Waveform Generator or Function Generator](https://circuitdigest.com/microcontroller-projects/arduino-waveform-generator)
 * [How to Build a Simple Function Generator Circuit with an LM324 Op Amp Chip](http://www.learningaboutelectronics.com/Articles/Function-generator-circuit.php)
@@ -224,7 +252,9 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 * [How to Build a Square Wave to Sine Wave Converter Circuit](http://www.learningaboutelectronics.com/Articles/Square-to-sine-wave-converter-circuit.php)
 * [How to Build a Sine Wave Generator with a 555 Timer Chip](http://www.learningaboutelectronics.com/Articles/Sine-wave-generator-circuit-with-a-555-timer.php)
 
-## pcb etching
+## PCB Etching
+
+This is my research on PCB etching.
 
 * [Take Your PCBs From Good To Great: Toner Transfer - Hackaday](https://hackaday.com/2016/09/12/take-your-pcbs-from-good-to-great-toner-transfer/)
 * [Stop Using Ferric Chloride Etchant! (A Better Etching Solution.) : 6 Steps (with Pictures) - Instructables](https://www.instructables.com/id/Stop-using-Ferric-Chloride-etchant!--A-better-etc/)
@@ -234,7 +264,7 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 * [How to Etch a PCB : 10 Steps - Instructables](https://www.instructables.com/id/How-to-Etch-a-PCB/)
 * [T³: Etching your own circuit boards - News - SparkFun Electronics](https://www.sparkfun.com/news/2116)
 
-## Projects
+## ReAmp Box
 
 * [You Can DIY! Reamplification Revisited - audioXpress](https://audioxpress.com/article/you-can-diy-reamplification-revisited)
 * [LINE2AMP RevC v3 Assembly Guide – DIY Recording Equipment](https://www.diyrecordingequipment.com/pages/line2amp-revc-v3-assembly-guide)
@@ -243,46 +273,6 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 * [DIY reamp box - Gearslutz](https://www.gearslutz.com/board/geekslutz-forum/868131-diy-reamp-box.html)
 * [How To Build DIY DI Recording Boxes & Re-Amp With DIYRE : Ask.Audio](https://ask.audio/articles/how-to-build-diy-di-recording-boxes-reamp-with-diyre)
 * [L2A (LINE2AMP) Passive Re-Amplifier Kit – DIY Recording Equipment](https://www.diyrecordingequipment.com/products/l2a)
-* [Tube amp Schematics Index Page](https://el34world.com/charts/TubeAmpSchematics.htm)
-* [Booster, OD, Fuzz, Distortion - Darkglass VMT! - Page 4](http://guitar-fx-layouts.42897.x6.nabble.com/Darkglass-VMT-td16443i60.html)
-* [L5 Preamp parts list - Aion Electronics - Google Sheets](https://docs.google.com/spreadsheets/d/1zb6G7QM__uR2rwhMmUXDwEyT9CuEGG_U-AbHSi-q23s/edit#gid=921835231)
-* [Preamps - Laney GH100TI preamp - Page 3](http://guitar-fx-layouts.42897.x6.nabble.com/Laney-GH100TI-preamp-td41509i40.html)
-* [X88R Clone Build - Amps - Harmony Central](https://www.harmonycentral.com/forums/topic/1234948-x88r-clone-build/)
-
-
-## Bookmarks bar
-
-* [PCB Prototype & PCB Fabrication Manufacturer - JLCPCB](https://jlcpcb.com/)
-* [(PDF) ELECTRONIC PRINCIPLES - cony gatam - Academia.edu](https://www.academia.edu/38672786/ELECTRONIC_PRINCIPLES)
-* [Guitar Fx Electronics: Introduction + Sitemap + Resources](https://pedals.curiousmotor.com/2020/06/guitar-fx-electronics-introduction.html?m=1)
-* [Testing and Matching JFETS – Stompville](http://stompville.co.uk/?p=112)
-* [www.geofex.com/Article_Folders/fetmatch/fetmatch.htm](http://www.geofex.com/Article_Folders/fetmatch/fetmatch.htm)
-* [Guitar FX Layouts: Germanium Transistor Tester](http://tagboardeffects.blogspot.com/2012/08/germanium-transistor-tester.html)
-* [Guitar FX Layouts: Greatly Improved JFET Matcher](http://tagboardeffects.blogspot.com/2012/07/greatly-improved-jfet-matcher.html)
-* [Guitar FX Layouts: Test box 2.0](http://tagboardeffects.blogspot.com/2014/09/test-box-20.html)
-* [Perf and PCB Effects Layouts: Lovepedal](http://effectslayouts.blogspot.com/search/label/Lovepedal)
-* [Guitar FX Layouts - Verified Layouts](http://guitar-fx-layouts.42897.x6.nabble.com/Verified-Layouts-f23984.html)
-* [GitHub - ravettel/Nyan-1073-EQ: Not yet another 1073 EQ](https://github.com/ravettel/Nyan-1073-EQ)
-* [GitHub - HolyCityAudio/SpinCAD-Designer: SpinCAD Designer is an open source Java project which allows creation of patches for the Spin FV-1 audio DSP chip.](https://github.com/HolyCityAudio/SpinCAD-Designer)
-* [Bipolar Transistor Tutorial, The BJT Transistor](https://www.electronics-tutorials.ws/transistor/tran_1.html)
-* [Klein Bottle DIY assembly walkthrough - YouTube](https://www.youtube.com/watch?v=WqKxg4wHC0g)
-* [Where to Buy What - Aion Electronics](https://aionelectronics.com/resources/where-to-buy-what/)
-* [OC 71, Tube OC71; Röhre OC 71 ID33679, Transistor](https://www.radiomuseum.org/tubes/tube_oc71.html)
-* [Open Chat - Great Jumpin Germaniums! (Ge Diode and Transistor Reviews & Discussion)](http://guitar-fx-layouts.42897.x6.nabble.com/Great-Jumpin-Germaniums-Ge-Diode-and-Transistor-Reviews-amp-Discussion-td13256.html)
-* [Transistor Equivalents for the substitution of modern transistors in elderly projects](http://www.dave-cushman.net/elect/apidictortransistors.html)
-* [ToneBender – turretboard.org](http://turretboard.knucklehead.dk/tag/tonebender/)
-* [Fuzz Central -- Colorsound Tonebender MKII](https://fuzzcentral.ssguitar.com/mkII.php)
-* [Coda Effects - Best capacitors for guitar pedals: which one to choose?](https://www.coda-effects.com/2015/04/capacitors-which-one-to-choose.html)
-* [Coda Effects - All you need to know about resistors in guitar pedals](https://www.coda-effects.com/2015/08/all-you-need-to-know-about-resistors-in.html)
-* [mbp.faq](https://www.madbeanpedals.com/faq/index.html)
-* [PEDAL CRUSH - Stompbox Effects For Creative Music Making – BJOOKS](https://bjooks.com/)
-* [Electronics Test Equipment, Soldering, & Tools Supplier](https://www.circuitspecialists.com/)
-* [Guitar Pedal Parts - Enclosures, Knobs, Switches, Kits](https://guitarpedalparts.com/)
-
-
-
-
-
 
 
 
