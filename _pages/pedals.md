@@ -2,14 +2,17 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Pandemic Pedals Collection
+title: Pandemic Pedal Collection
+excerpt: Pedals built during the covid pandemic
+
 layout: collection
-entries_layout: grid
-output: true
-classes: wide
-author_profile: true
 permalink: /pedals/
 collection: pedals
+entries_layout: grid
+output: true
+
+classes: wide
+author_profile: false
 sort_by: title
 sort_order: reverse
 

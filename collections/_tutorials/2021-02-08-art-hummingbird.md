@@ -6,6 +6,7 @@ toc_icon: "cog"
 
 title: "Creating Art - The Hummingbird"
 excerpt: "I've had a couple  of questions about how I paint my pedals. Here's a quick set of photos that show the steps. "
+date: 2021-02-08
 
 author_profile: true
 

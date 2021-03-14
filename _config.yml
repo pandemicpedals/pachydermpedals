@@ -78,7 +78,7 @@ my creations and  the stories, successes, failures and what I have learned with 
 know what I got wrong or where I might improve. Most of all I just hope you enjoy what I have created and can maybe gain 
 some new insights."
   links:
-    - label: "Website"
+    - label: "Home"
       icon: "fas fa-fw fa-link"
       url: "https://www.pachydermpedals.com"
     - label: "Twitter"
@@ -96,6 +96,9 @@ some new insights."
 
 footer:
   links:
+    - label: "Home"
+      icon: "fas fa-fw fa-home"
+      url: "/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PachydermP"
@@ -124,12 +127,22 @@ header:
 collections_dir: /collections/
 
 collections:
+  blog:
+    output: true
+    title: Blog
+    position: 3
   tutorials:
     output: true
+    title: Tutorials
+    position: 2
   pedals:
     output: true
+    title: Pedals
+    position: 1
   guitars:
     output: true
+    title: Guitars
+    position: 4
 
 defaults:
   # _posts
@@ -147,12 +160,25 @@ defaults:
   # _tutorials
   - scope:
       path: ""
+      type: blog
+    values:
+      layout: single
+      #classes: wide
+      show_date: true
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _tutorials
+  - scope:
+      path: ""
       type: tutorials
     values:
       layout: single
       #classes: wide
       show_date: true
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
