@@ -4,8 +4,8 @@ toc_label: "My Table of Contents"
 toc_sticky: true
 toc_icon: "cog"
 
-title: DIY PCBs & Parts
-excerpt: PCBs, effect layouts and where to get parts for your build.
+title: DIY PCB & Part Suppliers
+excerpt: Where to get PCBs, effect layouts and parts for your build.
 date: 2021-03-13
 modified: 2021-03-13
 

@@ -7,7 +7,7 @@ toc_icon: "cog"
 title: Useful Equipment
 excerpt: I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found. 
 date: 2021-02-23
-modified: 2021-03-13
+last_modified_at: 2021-03-17
 
 author_profile: true
 
