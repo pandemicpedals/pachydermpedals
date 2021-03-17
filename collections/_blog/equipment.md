@@ -67,8 +67,13 @@ There are many more items that can be used for test and debug. These are the ite
 **Update:** [March, 13 2021] I just recently picked up [this transistor tester](https://amzn.to/3bGTOsF) as I think it will give more information. I will update after some use.
 {: .notice--info }
 
+## Breadboarding
+
 [![](/assets/images/blog/equip/breadboard.jpg)](https://amzn.to/3tgg02P){: .align-left .width-100}
-**[Breadoboard](https://amzn.to/3tgg02P)** - A breadboard is super handy for testing out circuits you are thinking of building. Spedially if you want to try different parts or modifications. They aren't that expensive and they really help you expand your creativity.
+**[Breadoboard](https://amzn.to/3tgg02P)** - A 830 point breadboard is super handy for testing out circuits you are thinking of building. Specially if you want to try different parts or modifications. They aren't that expensive and they really help you expand your creativity. These are $8, for a little better quality you can get the [Jameco](https://amzn.to/3tt7Tjt) for $12+ each.
+
+[![](/assets/images/blog/equip/breadboard_jumper.jpg)](https://amzn.to/2Ovfwr8){: .align-left .width-100}
+**[Jumper Wires](https://amzn.to/2Ovfwr8)** - These jumper wires I purchased for the [PedalPCB Proto Board](https://www.pedalpcb.com/product/protoboard/). I needed the male to female for the pinout.
 
 ## Work Area
 
@@ -135,6 +140,9 @@ I use these for every pedal I make. I am not going to say that are required but 
 [![](/assets/images/blog/equip/xacto.jpg)](https://amzn.to/3uyJkTZ){: .align-left .width-70}
 **[X-ACTO Knife](https://amzn.to/3uyJkTZ)** - I generally useful tool for delicate cutting.
 
+[![](/assets/images/blog/equip/nailfiles.jpg)](https://amzn.to/3vsoRjU){: .align-left .width-70}
+**[Nail Files](https://amzn.to/3vsoRjU)** - These nail files are really helpful for filing things and smoothing surfaces. I have the 100/180s and the [120/240](https://amzn.to/3cEKq8h) grit varieties.
+
 ## Organization
 
 The more you build the more you will find good storage and organization important.
@@ -147,6 +155,31 @@ The more you build the more you will find good storage and organization importan
 
 [![](/assets/images/blog/equip/box.jpg)](https://amzn.to/3pIrj1z){: .align-left .width-70}
 **[Boxes](https://amzn.to/3pIrj1z )** - These are great for 125B and smaller pedal enclosures. Nice for storing and shipping your creations.
+
+### Pedalboard / Studio
+
+The next few are not necessarily for building but they are very nice for organizing your workspace or pedalboards.
+
+[![](/assets/images/blog/equip/alextech.jpg)](https://amzn.to/3vzn50w){: .align-left .width-70}
+**[Cord Protector](https://amzn.to/3vzn50w)** - I use these Alex Tech cord sleeves anywhere I have to run multiple wires. It keeps that rats nest under control. You just have to make sure you burn the ends so that they do not unravel,
+
+[![](/assets/images/blog/equip/velcrotie.jpg)](https://amzn.to/3cGIoEH){: .align-left .width-70}
+**[Cable Ties](https://amzn.to/3cGIoEH)** - These VELCRO Brand ONE-WRAP Cable Ties work really well in conjunction with the cord protectors to keep your cabling in order. I use them everywhere. They are also really handy when storing cables.
+
+[![](/assets/images/blog/equip/velcro.jpg)](https://amzn.to/3vsrORw){: .align-left .width-70}
+**[Velcro](https://amzn.to/3vsrORw)** - The 2 inch strip linked is perfect for pedal boards. I also use the  [1 inch](https://amzn.to/30PjFJ1) for different applications.
+
+[![](/assets/images/blog/equip/duallock.jpg)](https://amzn.to/3qST0FK){: .align-left .width-70}
+**[Dual Lock](https://amzn.to/3qST0FK)** - This is super strong at keep pedals on your board. You only need a littl piece top and bottom to get them to stay in place. You will need to use tools to remove if you cover the entire back. There is a [low profile](https://amzn.to/3cFCYKe) version as well.
+
+[![](/assets/images/blog/equip/trimremoval.jpg)](https://amzn.to/2QdpX30){: .align-left .width-70}
+**[Trim Removal](https://amzn.to/2QdpX30)** - This may seem like a bit of an odd one but they are very helpful for getting the pedals off of the dual lock as well as removing knobs without damaging a pedals surface.
+
+[![](/assets/images/blog/equip/ziptie.jpg)](https://amzn.to/38OJCfT){: .align-left .width-70}
+**[Zip Ties](https://amzn.to/38OJCfT)** - Line the velcro tie these work will with cable management. I use these for more premenant solutions, or there I need to save space. 
+
+[![](/assets/images/blog/equip/ziptiemount.jpg)](https://amzn.to/3rRMaS2){: .align-left .width-70}
+**[Zip Tie Mounts](https://amzn.to/3rRMaS2)** - Used to hold zip tied runs in place. We all like to make things pretty. I think. 
 
 ## Finishing
 
@@ -166,4 +199,13 @@ There are many ways of finishing pedals. I like to paint mine with paint pens. T
 
 [![](/assets/images/blog/equip/template.jpg)](https://amzn.to/3bAyKTw){: .align-left .width-70}
 **[Drawing Templates](https://amzn.to/3bAyKTw)** - Helps make better lines for artwork. (I don't have a steady hand)
+
+# Keeping It Clean
+
+[![](/assets/images/blog/equip/mat.jpg)](https://amzn.to/3tHeVSb){: .align-left .width-70}
+**[Silicon Counter Mat](https://amzn.to/3tHeVSb)** - They dont seem to have the black ones right now, these are great for keeping your surface clean. I use them under my epoxy work area all the time. Once the epoxy dries it will just peal off.
+
+[![](/assets/images/blog/equip/googone.jpg)](https://amzn.to/3bSvMLq){: .align-left .width-70}
+**[Goo Gone](https://amzn.to/3bSvMLq)** - If you don't know about Goo Gone you should. This is a must have to remove sticky stuff like tape and velcro residue.
+
 
