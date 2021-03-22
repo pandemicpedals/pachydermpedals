@@ -1,9 +1,14 @@
 ---
 title: Creating a PDF for Tayda UV Printing
+#excerpt: I go over using the opensource Inkscape and the $49.99 US Affinity Designer to create PDF for UV printing at Tayda Electronics.
+
+date: 2020-12-27
+last_modified_at: 2020-12-27
+
 header:
     teaser: /assets/images/tutorial/angrycharles/Complete_graphics.jpg
-excerpt: I go over using the opensource Inkscape and the $49.99 US Affinity Designer to create PDF for UV printing at Tayda Electronics.
-date: 2020-12-27
+    overlay_image: /assets/images/tutorial/angrycharles/Complete_graphics.jpg
+    overlay_filter: 0.8
 
 toc: true
 toc_sticky: true

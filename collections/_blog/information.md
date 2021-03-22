@@ -46,8 +46,6 @@ The best thing you can do is explore and read. I will put up a few sites here bu
 
 Read the forums on the side bar. It is also nice to buy PCB boards from  places that have forums as well. [PedalPCB](https://forum.pedalpcb.com/) has a really good forum and they are very responsive. [Rullywow](https://rullywow.com/) got back to me right away when I had questions. [Aion Electronics](https://aionfx.com/) and [Mad Bean Pedals](https://www.madbeanpedals.com/projects/index.html) both have very informative documentation. And watch [Wampler's youtube channel](https://www.youtube.com/channel/UCdVrg4Wl3vjIxonABn6RfWw), he goes over a lot of stuff about the circuits and how they work. I just started in March, 2020 and have read a lot. 
 
-
-
 You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspot.com/) and [Effects Layouts](http://effectslayouts.blogspot.com/). Other good sites for learning are 
 
 
@@ -274,8 +272,6 @@ This is my research on PCB etching.
 * [DIY reamp box - Gearslutz](https://www.gearslutz.com/board/geekslutz-forum/868131-diy-reamp-box.html)
 * [How To Build DIY DI Recording Boxes & Re-Amp With DIYRE : Ask.Audio](https://ask.audio/articles/how-to-build-diy-di-recording-boxes-reamp-with-diyre)
 * [L2A (LINE2AMP) Passive Re-Amplifier Kit – DIY Recording Equipment](https://www.diyrecordingequipment.com/products/l2a)
-
-
 
 
 
