@@ -12,6 +12,8 @@ compare-to: ""
 
 header:
   teaser: /assets/images/pedals/small/023.jpg
+  overlay_image: /assets/images/pedals/023.jpg
+  overlay_filter: 0.5
 
 author_profile_end: true
 
@@ -88,11 +90,7 @@ gallery:
     title: ""
 ---
 
-[![header](/assets/images/pedals/023.jpg)](/assets/images/pedals/023.jpg)
-
 ## Build Report ##
-
-
 
 ## Build Gallery ##
 

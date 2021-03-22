@@ -1,15 +1,15 @@
 ---
-layout: single
 title: "PedalPCB Product and Build Doc Reference"
 excerpt: "List of build documents for the products available from PedalPCB"
+
 date: 2020-12-28
-updated: 2021-03-09
+last_modified_at: 2021-03-09
+
 header:
   teaser: https://www.pedalpcb.com/wp-content/uploads/2018/05/PedalPCB-Logo.png
   overlay_image: https://www.pedalpcb.com/wp-content/uploads/2018/05/PedalPCB-Logo.png
   overlay_filter: 0.8
 
-classes: wide
 ---
 
 **PedalPCB** is in no way associated with Pandemic Pedals or Pachyderm Pedals I just like his products.

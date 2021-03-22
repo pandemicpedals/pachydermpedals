@@ -5,13 +5,18 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 
 title: "Creating Art - The Hummingbird"
-excerpt: "I've had a couple  of questions about how I paint my pedals. Here's a quick set of photos that show the steps. "
-date: 2021-02-08
+#excerpt: "I've had a couple  of questions about how I paint my pedals. Here's a quick set of photos that show the steps. "
+excerpt_separator: <!--MORE-->
 
 author_profile: true
 
+date: 2021-02-08
+last_modified_at: 2021-02-08
+
 header:
   teaser: /assets/images/pedals/017/00.jpg
+  overlay_image: /assets/images/pedals/017/03.jpg
+  overlay_filter: 0.5
 
 sidebar:
   - title: "Compare to"
@@ -54,11 +59,10 @@ gallery:
     title: ""
 ---
 
-[![header](/assets/images/pedals/017.jpg)](/assets/images/pedals/017.jpg)
-
 I've had a couple  of questions about how I paint my pedals. Here's a quick set of photos that show the steps. 
 
 I hope this is helpful. Feel free to ask any questions. I am hoping to have the time to write up some more detailed articles.
+<!--MORE-->
 
 <figure class="align-center">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/pedals/017/00.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/pedals/017/00.jpg" alt=""></a>
