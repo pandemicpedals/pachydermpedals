@@ -7,7 +7,7 @@ toc_icon: "cog"
 title: Useful Equipment
 excerpt: I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found. 
 date: 2021-02-23
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-23
 
 author_profile: true
 
@@ -86,6 +86,9 @@ I use these for every pedal I make. I am not going to say that are required but 
 
 [![](/assets/images/blog/equip/pcb_holder.jpg)](https://amzn.to/3skoVzR){: .align-left .width-100}
 **[PCB Holder](https://amzn.to/3skoVzR)** This is on item that I have found invaluable. It is inexpensive and holds the board in place. The tightening screws can be a little sensitive but it is well worth $11. 
+
+[![](/assets/images/blog/equip/weller.jpg)](https://amzn.to/3cmaVjO){: .align-left .width-100}
+**[PCB Holder 2](https://amzn.to/3cmaVjO)** If you would like a higher end PCB holder the Weller ESF-120 has been highly recommended to me. I have not purchased one yet but it is on my list if the $11 models ever completely fails.
 
 [![](/assets/images/blog/equip/helping_hands.jpg)](https://amzn.to/3ksuk5r){: .align-left .width-100}
 **[Helping Hhands](https://amzn.to/3ksuk5r)** These have a heavy metal base that helps keep them stable and the arms are magnetically attached so they are easy to position. I had originally purchased [these](https://amzn.to/3khisCT) but they were hard to position and broke quickly. It is worth the money to get the good ones. 
