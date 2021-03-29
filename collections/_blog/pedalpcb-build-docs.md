@@ -5,6 +5,8 @@ excerpt: "List of build documents for the products available from PedalPCB"
 date: 2020-12-28
 last_modified_at: 2021-03-25
 
+classes: wide
+
 header:
  teaser: https://www.pedalpcb.com/wp-content/uploads/2018/05/PedalPCB-Logo.png
  overlay_image: https://www.pedalpcb.com/wp-content/uploads/2018/05/PedalPCB-Logo.png
