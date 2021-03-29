@@ -142,7 +142,7 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/VFE_125B_Standard/VFE_125B_Standard.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.png" alt=""></a>
 </figure>
 
-This is the starting template I use for many [PedalPCB](https://www.pedalpcb.com) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them. 
+This is the starting template I use for my VFE builds from [Madbean Pedals](https://www.madbeanpedals.com/projects/index.html). This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them. 
 
 Remember to right click and "Save link as..."
 
