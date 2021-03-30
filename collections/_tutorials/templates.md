@@ -8,7 +8,7 @@ title: Templates
 #excerpt: This is the place where I will put templates that I hope will help people build and produce art for their pedals.
 
 date: 2021-03-04
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-29
 
 author_profile: true
 
@@ -149,4 +149,5 @@ Remember to right click and "Save link as..."
 * **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.zip)** 
 * **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.pdf)** 
 * **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.svg)** 
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.afdesign)** 
 
