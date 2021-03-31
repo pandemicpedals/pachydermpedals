@@ -35,12 +35,38 @@ This has a collection of knob surrounds with common knob sizes. You will need to
  
 ## Common DIY Pedal Templates
 
-Added layers are:
+My reason for creating these templates is so that people will have an easier time creating the artwork for their pedals. I also want them to be able to do it without having to pay for Adobe Illustrator. I have been working with others on the [PedalPCB Forum](https://forum.pedalpcb.com/threads/tayda-uv-printing.4245/) to formalize using Affinity Designer and Inkscape to create the art for pedals.
 
-* **Background:** This is just a background. I try to set it to an approximation of the enclosure color I will have.
-* **Holes:** These are the holes that you would need to drill. The outer layers are for pots the inner for switches. In the LED location they are 3mm and 5mm.
-* **Knobs:** These are circles that are 15mm and 19mm which seem to be the most common knob sizes for this layout of controls.
-* **Hardware:** This has some hardware so you can create a mockup of the completed pedal.
+### Template Layout and Use
+
+[Affinity Designer](https://affinity.serif.com/en-us/designer/#buy) is usually $49.99 US. It is currently [March 30, 2021] on sale for $24.99 US. [Inkscape](https://inkscape.org/) is free open source vector graphics software. It's shortfalls are that is does not currently do CMYK or output to PDF. The two together work really well for creating artwork for UV printing at [Tayda Electronics](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html).
+
+#### Layers
+
+The SVG and Affinity Designer files consist of the following layers:
+
+* **hardware:** This has some hardware so you can create a mockup of the completed pedal.
+* **GLOSS:** This is the gloss layer you would send to Tayda. CMYK [50,25,25,0]
+* **COLOR:** This is the color layer you would send to Tayda.
+* **WHITE:** This is the white layer you would send to Tayda. CMYK [25,25,25,25]
+* **knobs:** These are circles that are 15mm and 19mm which seem to be the most common knob sizes for this layout of controls.
+* **holes:** These are the holes that you would need to drill. The outer layers are for pots the inner for switches. In the LED location they are 3mm and 5mm.
+* **background:** This is just a background. I try to set it to an approximation of the enclosure color I will have so I know what it will look like when printed.
+* **Drill Template:** This is drill template page that I used to create the template.
+
+#### Usage
+
+I have a [tutorial]({{ site.url }}{{ site.baseurl }}/tutorials/2020-12-27-angry-charles-tutorial/) on how to use the templates. Main points I may not have put in there.
+
+* If you create in Inkscape you will need to open the SVG in Affinity to export to PDF
+* Make sure the only viewable layers are WHITE, COLOR, and GLOSS.
+  * I recomment always using a gloss layer to protect the artwork. Or clear coat the pedal once you get it back.
+* Once you type the correct labels you will need to convert to paths.
+* I have added alternate locations for the LEDs to the PedalPCB large and small templates.
+* Make sure the GLOSS and WHITE layers use the corret spot colors.
+* Convert all color to CMYK.
+
+I'll add more as I realize that I forgot things.
 
 ### PedalPCB
 

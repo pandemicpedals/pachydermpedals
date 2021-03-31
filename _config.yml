@@ -77,6 +77,7 @@ lead me to start building pedals. A way to immerse myself into so many different
 my creations and  the stories, successes, failures and what I have learned with others. Feel free to browse around. Let me 
 know what I got wrong or where I might improve. Most of all I just hope you enjoy what I have created and can maybe gain 
 some new insights."
+  email: pachydermpedals@gmail.com
   links:
     - label: "Home"
       icon: "fas fa-fw fa-link"
@@ -139,10 +140,14 @@ collections:
     output: true
     title: Pedals
     position: 1
+  builders:
+    output: true
+    title: Builders
+    position: -1
   guitars:
     output: true
     title: Guitars
-    position: 4
+    position: 5
 
 defaults:
   # _posts
@@ -200,6 +205,19 @@ defaults:
   - scope:
       path: ""
       type: guitars
+    values:
+      layout: splash
+      #classes: wide
+      show_date: true
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _builders
+  - scope:
+      path: ""
+      type: builders
     values:
       layout: splash
       #classes: wide

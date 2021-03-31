@@ -1,6 +1,6 @@
 ---
 title: Creating a PDF for Tayda UV Printing
-#excerpt: I go over using the opensource Inkscape and the $49.99 US Affinity Designer to create PDF for UV printing at Tayda Electronics.
+excerpt: I go over using the opensource Inkscape and the $49.99 US Affinity Designer to create PDF for UV printing at Tayda Electronics.
 
 date: 2020-12-27
 last_modified_at: 2020-12-27
@@ -16,16 +16,24 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-# Tayda UV Printing #
+{% capture notice %}
+**Update:** As of March 30, 2021 I believe this is working. I have gotten all 3 layers to print from Affinity designer. Things to look out for are: 
 
-**Warning:** I have not gotten this to work exporting from Affinity Designer with multiple layers. I have successfully printed the enclosure for the [Purple](/pedals/2020-12-24-074/) which only has a color layer on a white background. I cannot get it either use the Roland swatches or export the WHITE and GLOSS layers. As of Febuary 19, 2021 I have received information from Hugo that the Affinity exported files wouldn't work with the added features. I have downloaded the free trial if Illustrator and have worked from the SVG created in Inkscape and have resubmitted the files. I will keep you posted. 
-{: .notice--danger}
+* Ensure that you are using CMYK
+* Make sure document size is correct
+* I have used 300 DPI
+* Make sure your spot colors are correct.
+  * 25,25,25,25 for white
+  * 50,25,25,0 for gloss 
+{% endcapture %}
+
+<div class="notice--info">{{ notice | markdownify }}</div>
 
 ## Intro ##
 
 If you are like me, this is a hobby. As such I want to spend as much money as I can on parts and not on software. Because of this I do not want to invest in **Abobe Illistrator** ($59 a month US) but I would still like to get the professional look of UV printing. With help from the members on PedalPCB's forum I have come up with this less expensive approach.
 
-I have been using [Inkscape](https://inkscape.org/release/inkscape-1.0.1/) to create my graphics and make [templates](/assets/resources/PedalPCB_6_Knob_Type_1_Clean.svg) for pedals. I then get them prepared and ready to print using [Affinity Designer](https://affinity.serif.com/en-us/designer/) which as of this writing is $49.99 US for a perpetual license.
+I have been using [Inkscape](https://inkscape.org/release/inkscape-1.0.1/) to create my graphics and make [templates]({{ site.url }}{{ site.baseurl }}/tutorials/templates) for pedals. I then get them prepared and ready to print using [Affinity Designer](https://affinity.serif.com/en-us/designer/) which as of this writing is $49.99 US for a perpetual license.
 
 ## The Template ##
 
