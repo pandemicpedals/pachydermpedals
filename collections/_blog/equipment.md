@@ -56,7 +56,7 @@ Now, as for equipment. All you really need is a soldering iron and some solder. 
 There are many more items that can be used for test and debug. These are the items I purchased. I have also done a write-up on the [Test Box](/tutorials/2021-02-09-test-box/) I built, and use quite often.
 
 [![](/assets/images/blog/equip/dmm.jpg)](https://amzn.to/2ZKM8PE){: .align-left .width-100}
-**[Digital Multi Meter or DMM](https://amzn.to/2ZKM8PE)** - This is a must have. Not necessarily this one but you need a DMM. You cannot debug a pedal without one. You may also want [other test leads](httphttps://amzn.to/2NygEtp) as the DMM i mentioned only has the needle probes. I have liked these but I have only used them for about a month so I do not know about their long term sterdiness.
+**[Digital Multi Meter or DMM](https://amzn.to/2ZKM8PE)** - This is a must have. Not necessarily this one but you need a DMM. You cannot debug a pedal without one. You may also want [other test leads](https://amzn.to/2NygEtp) as the DMM i mentioned only has the needle probes. I have liked these but I have only used them for about a month so I do not know about their long term sterdiness.
 
 [![](/assets/images/blog/equip/oscilloscope.jpg)](https://amzn.to/3dDXTzg){: .align-left .width-100}
 **[Oscilloscope](https://amzn.to/3dDXTzg)** - I like the JYETech DSO Shell oscilloscope. It has been very useful for experimenting with sound. It is not the best or even professional quality, but it works really well for the price. I purchased the prebuilt version but they have DIY kits as well. I plan to upgrade to the [LabNation oscilloscope](https://www.lab-nation.com/store) in the future.
@@ -202,6 +202,12 @@ There are many ways of finishing pedals. I like to paint mine with paint pens. T
 
 [![](/assets/images/blog/equip/template.jpg)](https://amzn.to/3bAyKTw){: .align-left .width-70}
 **[Drawing Templates](https://amzn.to/3bAyKTw)** - Helps make better lines for artwork. (I don't have a steady hand)
+
+[![](/assets/images/blog/equip/electricaltape.jpg)](https://amzn.to/3uvPBih){: .align-left .width-70}
+**[Electrical Tape](https://amzn.to/3uvPBih)** - I use electrical tape to plug the hole when I epoxy the pedals.
+
+[![](/assets/images/blog/equip/letsresin.jpg)](https://amzn.to/3dLxyhl){: .align-left .width-70}
+**[Electrical Tape](https://amzn.to/3dLxyhl)** - These are nice and reusable for stirring and spreading the resin on the pedals.
 
 # Keeping It Clean
 
