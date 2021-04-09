@@ -48,7 +48,10 @@ classes:
     <div class="feature__wrapper">
       {% assign sorton = 'title' %}
       {% if label == "tutorials" %}
-        {% assign sorton = 'date' %}
+        {% assign sorton = 'last_modified_at' %}
+      {% endif %}
+      {% if label == "blog" %}
+        {% assign sorton = 'last_modified_at' %}
       {% endif %}
       {% assign entries = collection.docs | sort: sorton | reverse %}
 

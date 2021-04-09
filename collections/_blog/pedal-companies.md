@@ -7,6 +7,7 @@ toc_icon: "cog"
 title: Pedal Companies
 excerpt: These are the makers of the effects we all know and love. This is not an exhaustive list. Feel free to let me know about other companies that should be on the list.
 date: 2021-02-21
+last_modified_at: 2021-02-21
 
 author_profile: true
 
