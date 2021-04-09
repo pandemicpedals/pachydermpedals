@@ -7,7 +7,7 @@ toc_icon: "cog"
 title: "Wampler Ratsbane OpAmp Comparison"
 
 date: 2021-03-22
-modified: 2021-03-22
+last_modified_at: 2021-03-22
 
 header:
   teaser: /assets/images/blog/ratsbane/00.jpg

@@ -7,7 +7,7 @@ toc_icon: "cog"
 title: Pedal Building Information
 excerpt: Here is a collection of links to resources for all phases of pedal building, from circuit design to finishing the enclosure.
 date: 2021-03-13
-modified: 2021-03-13
+last_modified_at: 2021-03-13
 
 author_profile_end: true
 

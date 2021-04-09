@@ -3,15 +3,19 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Blog
-excerpt: An area where I can share my thoughts
+excerpt: An area where I can share my thoughts, ideas, links, and useful information.
 layout: collection
+
 permalink: /blog/
 collection: blog
+
 entries_layout: grid
 output: true
 classes: wide
+
 author_profile: false
-sort_by: date
+
+sort_by_: last_modified_at
 sort_order: reverse
 
 

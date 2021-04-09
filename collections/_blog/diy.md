@@ -7,7 +7,7 @@ toc_icon: "cog"
 title: DIY PCB & Part Suppliers
 excerpt: Where to get PCBs, effect layouts and parts for your build.
 date: 2021-03-13
-modified: 2021-03-13
+last_modified_at: 2021-03-13
 
 author_profile: true
 
