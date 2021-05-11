@@ -5,7 +5,7 @@ toc_sticky: true
 toc_icon: "cog"
 
 title: Templates
-#excerpt: This is the place where I will put templates that I hope will help people build and produce art for their pedals.
+tagline: For creating your pedal art and sending to Tayda for printing..
 
 date: 2021-03-04
 last_modified_at: 2021-03-29

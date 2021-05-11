@@ -5,7 +5,7 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 
 title: "Epoxy Resin Finish"
-excerpt: "Applying Epoxy Top Coat on DIY Pedal Enclosures"
+tagline: "Applying Epoxy Top Coat on DIY Pedal Enclosures"
 
 author_profile: true
 
