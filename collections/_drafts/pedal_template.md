@@ -6,6 +6,7 @@ toc_icon: "cog"
 
 layout: single
 title: "Pandemic Pedal #023"
+pachyderm_pedal: 023
 
 excerpt: ""
 compare-to: ""
