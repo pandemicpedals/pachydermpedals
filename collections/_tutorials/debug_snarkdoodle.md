@@ -5,7 +5,7 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 
 title: "Debugging a Pedal Build"
-excerpt: "Debugging the Pandemic Pedal #96 using an Audio Probe and Digital Multimeter."
+tagline: "Debugging the Pandemic Pedal #96 using an Audio Probe and Digital Multimeter."
 
 author_profile: true
 
