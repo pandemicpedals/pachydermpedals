@@ -16,7 +16,7 @@ header:
 
 Inspired by FF's fine site [here](https://fine.rip/audio/tayda/potentiometers). Check out his stuff as well.
 
-**Updated:** May 11, 2021
+**Updated:** May 11, 2021. I will need to add the rest of the Long Leg and the Slide potentiometers.
 {: .notice--success }
 
 * **RA** - Right Angle
