@@ -1,41 +1,45 @@
 ---
 layout: single
-title: "2020 PRS Silver Sky"
+title: "2020 Fender American Professional II Telecaster"
+tagline: ""
+
 header:
-  teaser: /assets/images/guitars/silversky.jpg
+  teaser: /assets/images/guitars/tele_proii.jpg
+  overlay_image: /assets/images/guitars/tele_proii.jpg
+  overlay_filter: 0.5
 
 sidebar:
-  - image: /assets/images/guitars/small/silversky.jpg
+  - image: /assets/images/guitars/small/tele_proii.jpg
   - title: Make and Model
     text: "
   * **Year:** 2020\n
-  * **Brand:** PRS\n
-  * **Model:** Silver Sky\n
-  * **Series:** Maple\n
+  * **Brand:** Fender\n
+  * **Model:** Telecaster\n
+  * **Series:** American Professional II\n
   "
 
   - title: Specs
     text: "
-* **Color:** Desert Rose\n
+* **Color:** Butterscotch Blonde\n
 * **Manufactured:** USA\n
-* **Purchase Date:** 5/20/2020 \n
-* **pickups:** PRS\n 
-* **bridge:** \n
+* **Purchase Date:**  \n
+* **pickups:** Fender\n 
+* **bridge: V-Mod II** \n
 * **middle:** \n
-* **neck:** \n
-* **body material:** \n
+* **neck: V-Mod II** \n
+* **body material: Alder** \n
 * **top:** \n
 * **neck material:** Maple\n
 * **fretboard:** Maple\n
-* **radius:** 10 inch\n
-* **inlay-shape:** Birds\n
+* **radius:** 9.5 inch\n
+* **inlay-shape:** Dot\n
 * **inlay-material:** Black\n
 * **frets:** \n
 * **scale:** \n
 * **construction:** Bolt-on\n
 * **bridge:** \n
 * **tuners:** \n
-* **hardware:** Chrome\n
+* **hardware:** Nickel/chrome\n
 * **case:** Yes\n
 * **extra:**\n
 "
@@ -48,43 +52,52 @@ Bringing touches previously reserved for Custom Shop instruments to a production
 
 Instantly, totally familiar but subtly different, the Fender American Pro II Tele is one of the most versatile electric guitars you're likely to play. Fender may well have created a new standard in production guitars with this one. Includes deluxe molded case.
 
-Features
+### Features
+
 Gloss urethane-finished solid alder body
 25.5"-scale, Deep C-shaped maple neck with rolled fingerboard edges and 22 narrow tall frets for easy bending
 Two V-Mod II single-coil Telecaster pickups, treble bleed circuit maintains highs when reducing volume
 Top-load/string-thru Telecaster bridge with compensated brass “bullet” saddles
-Specifications	Body
-Body type: Solidbody, single cutaway
-Body wood: Alder
-Body finish: Gloss urethane
-Neck
-Neck shape: Deep C
-Neck wood: Maple
-Joint: Bolt-on
-Scale length: 25.5"
-Truss rod: Standard
-Neck finish: “Super-Natural” satin urethane finish on back of neck with gloss urethane headstock face
-Fingerboard
-Material: Maple
-Radius: 9.5"
-Fret size: Tall narrow
-Number of frets: 22
-Inlays: Black dot
-Nut material: Bone
-Electronics
-Configuration: SS
-Neck: Fender V-Mod II single-coil Tele pickup
-Bridge: Fender V-Mod II single-coil Tele pickup
-Control layout: Master Volume, Master Tone
-Pickup switch: 3-way
-Special electronics: Treble-bleed circuit
-Hardware
-Bridge type: Fixed
-Bridge design: Compensated barrel saddle
-Tuning machines: Fender standard cast, sealed and staggered
-Color: Nickel/chrome
-Other
-Number of strings: 6 String
-Case: Deluxe molded case included.
-Orientation: Right Handed
-Country of origin: United States
+
+### Specifications	
+
+**Body**
+* Body type: Solidbody, single cutaway
+* Body wood: Alder
+* Body finish: Gloss urethane
+
+**Neck**
+* Neck shape: Deep C
+* Neck wood: Maple
+* Joint: Bolt-on
+* Scale length: 25.5"
+* Truss rod: Standard
+* Neck finish: “Super-Natural” satin urethane finish on back of neck with gloss urethane headstock face
+
+**Fingerboard**
+* Material: Maple
+* Radius: 9.5"
+* Fret size: Tall narrow
+* Number of frets: 22
+* Inlays: Black dot
+* Nut material: Bone
+
+**Electronics**
+* Configuration: SS
+* Neck: Fender V-Mod II single-coil Tele pickup
+* Bridge: Fender V-Mod II single-coil Tele pickup
+* Control layout: Master Volume, Master Tone
+* Pickup switch: 3-way
+* Special electronics: Treble-bleed circuit
+
+**Hardware**
+* Bridge type: Fixed
+* Bridge design: Compensated barrel saddle
+* Tuning machines: Fender standard cast, sealed and staggered
+* Color: Nickel/chrome
+
+**Other**
+* Number of strings: 6 String
+* Case: Deluxe molded case included.
+* Orientation: Right Handed
+* Country of origin: United States

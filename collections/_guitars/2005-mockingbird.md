@@ -2,7 +2,7 @@
 layout: single
 title: "2005 B.C. Rich Mockingbird N.J. Series"
 header:
-  teaser: /assets/images/guitars/
+  teaser: /assets/images/guitars/mocking_hard.jpg
 year: 2005
 brand: B.C. Rich
 model: Mockingbird
@@ -35,4 +35,4 @@ hardware: Chrome
 case: Yes
 extra: "3-Way (Pickup), Volume, Volume, Tone"
 ---
-![header](/assets/images/guitars/)
+![header](/assets/images/guitars/mocking_hard.jpg)

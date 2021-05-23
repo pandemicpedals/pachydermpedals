@@ -1,8 +1,10 @@
 ---
 layout: single
 title: "2015 Schecter C1 Hellraiser Diamond Series"
+tagline: ""
+
 header:
-  teaser: /assets/images/guitars/
+  teaser: /assets/images/guitars/hell.jpg
 year: 2015
 brand: Schecter
 model: C1 Hellraiser
@@ -35,4 +37,4 @@ hardware: Black
 case: Yes
 extra: "3-Way (Pickup), Volume, Volume, Tone, Push/pull knob for single-coil on 81TW"
 ---
-![header](/assets/images/guitars/)
+![header](/assets/images/guitars/hell.jpg)
