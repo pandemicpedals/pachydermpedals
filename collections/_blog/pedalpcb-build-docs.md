@@ -3,7 +3,7 @@ title: "PedalPCB Product and Build Doc Reference"
 excerpt: "List of build documents for the products available from PedalPCB"
 
 date: 2020-12-28
-last_modified_at: 2021-04-09
+last_modified_at: 2021-05-23
 
 classes: wide
 
@@ -16,10 +16,11 @@ header:
 
 **PedalPCB** is in no way associated with Pandemic Pedals or Pachyderm Pedals I just like his products.
 
-**Updated:** April 9, 2021
+**Updated:** May 23, 2021
 {: .notice--success }
 
 | PCB | Compare to | SKU | PDF |
+|-----|------------|-----|-----|
 | [6-Band EQ](https://www.pedalpcb.com/product/6-band-eq/) | 6-Band EQ | PCB338 | [Download](http://www.pedalpcb.com/docs/6BandEQ.pdf) |
 | [6-Band EQ (Potentiometer Version)](https://www.pedalpcb.com/product/pcb369/) | 6-Band EQ | PCB369 | [Download](http://www.pedalpcb.com/docs/6BandEQ-Potentiometer.pdf) |
 | [ADHD](https://www.pedalpcb.com/product/adhd/) | Fulltone OCD v2 | PCB019 | [Download](http://www.pedalpcb.com/docs/ADHD.pdf) |
@@ -63,7 +64,7 @@ header:
 | [Boogie Monster](https://www.pedalpcb.com/product/boogiemonster/) | Dr. Boogie Preamp | PCB277 | [Download](http://www.pedalpcb.com/docs/BoogieMonster.pdf) |
 | [Bootleg Overdrive](https://www.pedalpcb.com/product/bootlegoverdrive/) | JHS Moonshine V2 | PCB292 | [Download](http://www.pedalpcb.com/docs/BootlegOD.pdf) |
 | [Boteh Drive](https://www.pedalpcb.com/product/pcb336/) | Wampler Paisley Drive | PCB336 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Boteh.pdf) |
-| [Box 66](https://www.pedalpcb.com/product/box66/) | D*A*M 1966 | PCB110 | [Download](http://www.pedalpcb.com/docs/Box66.pdf) |
+| [Box 66](https://www.pedalpcb.com/product/box66/) | D*A*M 1966 | PCB110 | [Download](http://www.pedalpcb.com/docs/Box66-PedalPCB.pdf) |
 | [Box and All EQ](https://www.pedalpcb.com/product/pcb384/) | EQD Tone Job | PCB384 | [Download](http://www.pedalpcb.com/docs/BoxAndAll-PedalPCB.pdf) |
 | [Breakstreet Overdrive](https://www.pedalpcb.com/product/breakstreet/) | Sobbat Drive Breaker DB-1 | PCB108 | [Download](http://www.pedalpcb.com/docs/BreakStreet.pdf) |
 | [Brown Betty](https://www.pedalpcb.com/product/brownbetty/) | Friedman BE-OD and Dirty Shirley | PCB050 | [Download](http://www.pedalpcb.com/docs/BrownBetty.pdf) |
@@ -85,6 +86,7 @@ header:
 | [Cataclysm Delay](https://www.pedalpcb.com/product/cataclysm/) | EQD Disaster Transport Jr | PCB028 | [Download](http://www.pedalpcb.com/docs/Cataclysm.pdf) |
 | [Cattle Driver](https://www.pedalpcb.com/product/cattledriver/) | Buffalo FX TD-X | PCB094 | [Download](http://www.pedalpcb.com/docs/CattleDriver.pdf) |
 | [Celestial Drive](https://www.pedalpcb.com/product/celestialdrive/) | DMB Pedals Stellar Drive | PCB009 | [Download](http://www.pedalpcb.com/docs/CelestialDrive.pdf) |
+| [Cepheid Chorus](https://www.pedalpcb.com/product/pcb416/) | Boss CE-2 Chorus | PCB416 | **Build docs coming soon...** |
 | [Chalumeau](https://www.pedalpcb.com/product/chalumeau/) | MidFi Clari(not) Fuzz Version | PCB077 | [Download](http://www.pedalpcb.com/docs/Chalumeau.pdf) |
 | [Chaos Machine](https://www.pedalpcb.com/product/chaosmachine/) | Dual Modulated Resonant Filter | PCB220 | [Download](http://www.pedalpcb.com/docs/PedalPCB-ChaosMachine.pdf) |
 | [Chauffeur Overdrive](https://www.pedalpcb.com/product/pcb387/) | Shnobel Tone Daily Driver Overdrive | PCB387 | [Download](http://www.pedalpcb.com/docs/Chauffeur-PedalPCB.pdf) |
@@ -101,7 +103,6 @@ header:
 | [Cold Turkey EQ](https://www.pedalpcb.com/product/coldturkey/) | H.B.E. Detox EQ | PCB199 | [Download](http://www.pedalpcb.com/docs/ColdTurkey.pdf) |
 | [Complex Overdrive](https://www.pedalpcb.com/product/pcb371/) | Friedman Smallbox Overdrive | PCB371 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Complex.pdf) |
 | [Conqueror Fuzz](https://www.pedalpcb.com/product/conquerorfuzz/) | Jext Telez White Pedal | PCB255 | [Download](http://www.pedalpcb.com/docs/ConquerorFuzz.pdf) |
-| [Conqueror Supreme](https://www.pedalpcb.com/product/conquerorsupreme/) | Jext Telez White Pedal | PCB329 | [Download](http://www.pedalpcb.com/docs/ConquerorSupreme.pdf) |
 | [Constrictor](https://www.pedalpcb.com/product/constrictor/) | Demeter Compulator | PCB089 | [Download](http://www.pedalpcb.com/docs/Constrictor.pdf) |
 | [Contact Overdrive](https://www.pedalpcb.com/product/contactod/) | J.Rockett Touch OD | PCB225 | [Download](http://www.pedalpcb.com/docs/ContactOD.pdf) |
 | [Corduroy Fuzz](https://www.pedalpcb.com/product/corduroyfuzz/) | Wampler Velvet Fuzz | PCB093 | [Download](http://www.pedalpcb.com/docs/Corduroy.pdf) |
@@ -112,7 +113,9 @@ header:
 | [Cross Contaminator](https://www.pedalpcb.com/product/cross-contaminator/) | EQD Dirt Transmitter | PCB145 | [Download](http://www.pedalpcb.com/docs/CrossContaminator.pdf) |
 | [Crunch Captain](https://www.pedalpcb.com/product/crunchcaptain/) | MI Audio Crunch Box | PCB290 | [Download](http://www.pedalpcb.com/docs/CrunchCaptain.pdf) |
 | [Crunch Captain Deluxe](https://www.pedalpcb.com/product/crunchcaptaindeluxe/) | MI Audio Super Crunch Box V2 | PCB315 | [Download](http://www.pedalpcb.com/docs/CrunchCaptainDeluxe.pdf) |
+| [Crystal Drive](https://www.pedalpcb.com/product/crystaldrive/) | EQD Chrysalis | PCB006 | [Download](http://www.pedalpcb.com/docs/CrystalDrive.pdf) |
 | [Cujo Fuzz](https://www.pedalpcb.com/product/pcb388/) | Suhr Rufus Fuzz | PCB388 | **Build docs coming soon...** |
+| [Cyborg Drive](https://www.pedalpcb.com/product/cyborgdrive/) | Ibanez CD5 Cyberdrive | PCB005 | [Download](http://www.pedalpcb.com/docs/CyborgDrive.pdf) |
 | [D3lay](https://www.pedalpcb.com/product/d3lay/) | FV-1 Digital Delay | | [Download](http://www.pedalpcb.com/docs/Pythagoras.pdf) |
 | [DMD-2 Digital Modulated Delay](https://www.pedalpcb.com/product/dmd2/) | BuGGFX DMD-2 Digital Modulated Delay | PCB052 | [Download](http://www.pedalpcb.com/docs/DMD2.pdf) |
 | [Danube Fuzz](https://www.pedalpcb.com/product/danube/) | Skreddy P19 | PCB188 | [Download](http://www.pedalpcb.com/docs/Danube.pdf) |
@@ -143,6 +146,7 @@ header:
 | [El Sol Distortion](https://www.pedalpcb.com/product/pcb385/) | EQD Acapulco Gold® | PCB385 | [Download](http://www.pedalpcb.com/docs/ElSol-PedalPCB.pdf) |
 | [Ember Boost](https://www.pedalpcb.com/product/emberboost/) | TC Spark Booster | PCB201 | [Download](http://www.pedalpcb.com/docs/EmberBoost.pdf) |
 | [Emu Amp Simulator](https://www.pedalpcb.com/product/emu/) | Amp Simulator | PCB262 | [Download](http://www.pedalpcb.com/docs/EmuAmpSimulator.pdf) |
+| [End-All Red Overdrive](https://www.pedalpcb.com/product/pcb408/) | Randall RRED Overdrive | PCB408 | **Build docs coming soon...** |
 | [Ermahgerd! Fuzz](https://www.pedalpcb.com/product/ermahgerd/) | J.Rockett WTF | PCB278 | [Download](http://www.pedalpcb.com/docs/ErmahgerdFuzz.pdf) |
 | [Eternal Burst](https://www.pedalpcb.com/product/eternalburst/) | Lovepedal Eternity Burst | PCB023 | [Download](http://www.pedalpcb.com/docs/EternalBurst.pdf) |
 | [Executive Fuzz](https://www.pedalpcb.com/product/executivefuzz/) | Jordan Boss Tone | PCB027 | [Download](http://www.pedalpcb.com/docs/ExecutiveFuzz.pdf) |
@@ -173,6 +177,7 @@ header:
 | [Gnat Fuzz](https://www.pedalpcb.com/product/gnat/) | Burns Buzzaround | PCB229 | [Download](http://www.pedalpcb.com/docs/Gnat.pdf) |
 | [Graphite Distortion](https://www.pedalpcb.com/product/graphite/) | Mad Professor Stone Grey Distortion | PCB239 | [Download](http://www.pedalpcb.com/docs/GraphiteDistortion.pdf) |
 | [Greengage Overdrive](https://www.pedalpcb.com/product/greengage/) | EQD Plumes™ | PCB254 | [Download](http://www.pedalpcb.com/docs/Greengage.pdf) |
+| [Grover Drive](https://www.pedalpcb.com/product/groverdrive/) | Hermida Audio Dover Drive | PCB004 | [Download](http://www.pedalpcb.com/docs/GroverDrive.pdf) |
 | [Guardian OD](https://www.pedalpcb.com/product/guardianod/) | ThorpyFX Peacekeeper OD | PCB191 | [Download](http://www.pedalpcb.com/docs/GuardianOD.pdf) |
 | [Guvernator Distortion](https://www.pedalpcb.com/product/guvernator/) | Marshall Guv'nor | PCB296 | [Download](http://www.pedalpcb.com/docs/Guvernator.pdf) |
 | [HAARP](https://www.pedalpcb.com/product/haarp/) | EQD Arpanoid | PCB161 | [Download](http://www.pedalpcb.com/docs/HAARP.pdf) |
@@ -203,6 +208,7 @@ header:
 | [Kings Hand Overdrive](https://www.pedalpcb.com/product/kingshand/) | King Tone Duellist (Side B) | PCB345 | [Download](http://www.pedalpcb.com/docs/KingsHandOverdrive.pdf) |
 | [Kliché Boost](https://www.pedalpcb.com/product/klicheboost/) | Archer Clean | PCB142 | [Download](http://www.pedalpcb.com/docs/KlicheBoost-PedalPCB.pdf) |
 | [Kliché Mini](https://www.pedalpcb.com/product/klichemini/) | Klon Centaur | PCB099 | [Download](http://www.pedalpcb.com/docs/KlicheMini-PedalPCB.pdf) |
+| [Kliché Overdrive](https://www.pedalpcb.com/product/kliche/) | Klon Centaur | PCB003 | [Download](http://www.pedalpcb.com/docs/Kliche.pdf) |
 | [Lamb Chop](https://www.pedalpcb.com/product/lambchop/) | Way Huge Pork Loin | PCB090 | [Download](http://www.pedalpcb.com/docs/LambChop.pdf) |
 | [Lemonade OD](https://www.pedalpcb.com/product/lemonade/) | Lumpy's Tone Shop Lemon Drop / ZII / Series 7 | PCB035 | [Download](http://www.pedalpcb.com/docs/Lemonade.pdf) |
 | [Lenora Boost](https://www.pedalpcb.com/product/lenora/) | J.Rockett Lenny | PCB310 | [Download](http://www.pedalpcb.com/docs/Lenora.pdf) |
@@ -211,7 +217,7 @@ header:
 | [Little Green Scream Machine](https://www.pedalpcb.com/product/lgsm/) | Ibanez TS808 Tube Screamer | PCB037 | [Download](http://www.pedalpcb.com/docs/LGSM.pdf) |
 | [LoFi-nator](https://www.pedalpcb.com/product/lofinator/) | Ibanez LF7 Lo-Fi Filter | PCB129 | [Download](http://www.pedalpcb.com/docs/PedalPCB-LoFinator.pdf) |
 | [Lone King Overdrive](https://www.pedalpcb.com/product/loneking/) | King Tone Soloist | PCB342 | [Download](http://www.pedalpcb.com/docs/LoneKingOverdrive.pdf) |
-| [Low Tide Modulator](https://www.pedalpcb.com/product/pcb406/) | TBA | PCB406 | **Build docs coming soon...** |
+| [Low Tide Modulator](https://www.pedalpcb.com/product/pcb406/) | Fairfield Circuitry Shallow Water | PCB406 | [Download](http://www.pedalpcb.com/docs/LowTide-PedalPCB.pdf) |
 | [M800 Overdrive](https://www.pedalpcb.com/product/m800/) | PAL 800 JCM Emulator | PCB247 | [Download](http://www.pedalpcb.com/docs/M800.pdf) |
 | [MDMA OD](https://www.pedalpcb.com/product/mdma/) | Wampler Ecstacy/Euphoria | PCB160 | [Download](http://www.pedalpcb.com/docs/MDMA.pdf) |
 | [MOSFET Driver](https://www.pedalpcb.com/product/mosfetdriver/) | BK Butler Tube Driver | PCB053 | [Download](http://www.pedalpcb.com/docs/MOSFETDriver.pdf) |
@@ -233,6 +239,7 @@ header:
 | [Minidrive](https://www.pedalpcb.com/product/minidrive/) | Fulltone Full-Drive1 | PCB032 | [Download](http://www.pedalpcb.com/docs/Minidrive.pdf) |
 | [Minnow](https://www.pedalpcb.com/product/pcb367/) | Maestro FSH-1 Filter Sample / Hold | PCB367 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Minnow.pdf) |
 | [Module8](https://www.pedalpcb.com/product/module8/) | FV-1 Multi-Modulation | | [Download](http://www.pedalpcb.com/docs/Arachnid.pdf) |
+| [Mofeta Preamp](https://www.pedalpcb.com/product/pcb107/) | EAE Model feT | PCB107 | **Build docs coming soon...** |
 | [Monarch Distortion](https://www.pedalpcb.com/product/monarch/) | Wampler Sovereign | PCB152 | [Download](http://www.pedalpcb.com/docs/Monarch.pdf) |
 | [Moonshot Tremolo](https://www.pedalpcb.com/product/moonshot/) | Shoot the Moon Tremolo | PCB303 | [Download](http://www.pedalpcb.com/docs/MoonshotTremolo.pdf) |
 | [Mouton Fuzz](https://www.pedalpcb.com/product/moutonfuzz/) | Fender Pelt | PCB330 | [Download](http://www.pedalpcb.com/docs/MoutonFuzz.pdf) |
@@ -242,6 +249,7 @@ header:
 | [Muroidea Distortion](https://www.pedalpcb.com/product/muroidea/) | ProCo Rat | PCB038 | [Download](http://www.pedalpcb.com/docs/Muroidea-PedalPCB.pdf) |
 | [Muzzle](https://www.pedalpcb.com/product/muzzle/) | Fortin Zuul | PCB193 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Muzzle.pdf) |
 | [Muzzle (Classic)](https://www.pedalpcb.com/product/muzzle-classic/) | Fortin Zuul | PCB198 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Muzzle-Classic.pdf) |
+| [Mystery Machine](https://www.pedalpcb.com/product/pcb329/) | Castledine Magical Mystery Box | PCB329 | **Build docs coming soon...** |
 | [Nobleman Overdrive](https://www.pedalpcb.com/product/nobleman/) | Nobels ODR-1 | PCB284 | [Download](http://www.pedalpcb.com/docs/Nobleman.pdf) |
 | [NuDrive](https://www.pedalpcb.com/product/nudrive/) | Korg NuTube Based Overdrive | PCB084 | [Download](http://www.pedalpcb.com/docs/NuDrive.pdf) |
 | [Nucleus Overdrive](https://www.pedalpcb.com/product/pcb372/) | XTS Atomic Overdrive | PCB372 | [Download](http://www.pedalpcb.com/docs/Nucleus-PedalPCB.pdf) |
@@ -266,7 +274,8 @@ header:
 | [Parentheses Fuzz](https://www.pedalpcb.com/product/parentheses-fuzz/) | EQD Life pedal | PCB237 | [Download](http://www.pedalpcb.com/docs/Parentheses.pdf) |
 | [Parentheses Mini Fuzz](https://www.pedalpcb.com/product/parentheses-mini/) | EQD Life pedal | PCB258 | [Download](http://www.pedalpcb.com/docs/ParenthesesMini.pdf) |
 | [Park and Ride](https://www.pedalpcb.com/product/parkandride/) | Dunlop Q-Zone | PCB226 | [Download](http://www.pedalpcb.com/docs/ParkAndRide.pdf) |
-| [Parthenon Overdrive](https://www.pedalpcb.com/product/parthenon/) | Wampler Pantheon | PCB169 | [Download](http://www.pedalpcb.com/docs/Parthenon.pdf) |
+| [Parthenon Overdrive](https://www.pedalpcb.com/product/parthenon/) | Wampler Pantheon | PCB169 | **Build docs coming soon...** |
+| [Pathogen Distortion](https://www.pedalpcb.com/product/pcb412/) | TBA | PCB412 | **Build docs coming soon...** |
 | [Pauper](https://www.pedalpcb.com/product/pauper/) | Analogman Prince of Tone | PCB017 | [Download](http://www.pedalpcb.com/docs/Pauper.pdf) |
 | [PedalBlock Tone Control](https://www.pedalpcb.com/product/pedalblock-tone/) | Retro-fit Tone Control | 6-10-5 | [Download](http://www.pedalpcb.com/docs/PedalBlocks-ToneControl.pdf) |
 | [Pendulum Harmonic Tremolo](https://www.pedalpcb.com/product/pcb368/) | Harmonic Tremolo | PCB368 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Pendulum.pdf) |
@@ -304,6 +313,7 @@ header:
 | [Rosemary Fuzz](https://www.pedalpcb.com/product/pcb390/) | SolidGoldFX Rosie Fuzz | PCB390 | [Download](http://www.pedalpcb.com/docs/Rosemary-PedalPCB.pdf) |
 | [SOFTii Overdrive](https://www.pedalpcb.com/product/softii/) | Catalinbread SFT | PCB098 | [Download](http://www.pedalpcb.com/docs/SOFTii.pdf) |
 | [Sabbath Distortion](https://www.pedalpcb.com/product/sabbath/) | Catalinbread Sabbra Cadabra | PCB039 | [Download](http://www.pedalpcb.com/docs/Sabbath.pdf) |
+| [Samadhi Overdrive](https://www.pedalpcb.com/product/pcb414/) | StudioDaydream Dhyana | PCB414 | **Build docs coming soon...** |
 | [Samurai](https://www.pedalpcb.com/product/samurai/) | Way Huge Drive (Geisha Drive) | PCB047 | [Download](http://www.pedalpcb.com/docs/Samurai.pdf) |
 | [Sandspur Fuzz](https://www.pedalpcb.com/product/pcb378/) | Analogman Sunface BC108 | PCB378 | [Download](http://www.pedalpcb.com/docs/Sandspur-PedalPCB.pdf) |
 | [Sanguine Distortion](https://www.pedalpcb.com/product/sanguinedistortion/) | Red Channel Overdrive | PCB209 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Sanguine.pdf) |
@@ -322,7 +332,7 @@ header:
 | [Simple Relay Bypass](https://www.pedalpcb.com/product/pcb393/) | Relay Bypass Module | PCB393 | **Build docs coming soon...** |
 | [Simple Relay Bypass (Latching)](https://www.pedalpcb.com/product/pcb394/) | Relay Bypass Module | PCB394 | **Build docs coming soon...** |
 | [Simulcast](https://www.pedalpcb.com/product/simulcast/) | Hudson Broadcast | PCB146 | [Download](http://www.pedalpcb.com/docs/Simulcast.pdf) |
-| [Six String Stinger](https://www.pedalpcb.com/product/sixstringstinger/) | Vertex Steel String Clean Drive | PCB086 | [Download](http://www.pedalpcb.com/docs/SixStringStinger.pdf) |
+| [Six String Stinger](https://www.pedalpcb.com/product/sixstringstinger/) | Vertex Steel String Clean Drive | PCB086 | [Download](http://www.pedalpcb.com/docs/SixStringStinger-PedalPCB.pdf) |
 | [Skylight Overdrive](https://www.pedalpcb.com/product/skylight/) | Mad Professor Sky Blue OD | PCB139 | [Download](http://www.pedalpcb.com/docs/Skylight.pdf) |
 | [Sliver Overdrive](https://www.pedalpcb.com/product/sliver/) | Barber Electronics LTD | PCB181 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Sliver.pdf) |
 | [Soldat Distortion](https://www.pedalpcb.com/product/soldat/) | Providence Stampede SDT-2 | PCB147 | [Download](http://www.pedalpcb.com/docs/Soldat.pdf) |
@@ -341,6 +351,7 @@ header:
 | [Starboard Fuzz](https://www.pedalpcb.com/product/starboardfuzz/) | Mosrite FUZZrite | PCB135 | [Download](http://www.pedalpcb.com/docs/StarboardFuzz.pdf) |
 | [Station Wah](https://www.pedalpcb.com/product/pcb377/) | Fixed Wah | PCB377 | [Download](http://www.pedalpcb.com/docs/Station-PedalPCB.pdf) |
 | [Stockade Overdrive](https://www.pedalpcb.com/product/stockade/) | EQD Palisades | PCB219 | [Download](http://www.pedalpcb.com/docs/PedalPCB-Stockade.pdf) |
+| [Stringer Overdrive](https://www.pedalpcb.com/product/pcb415/) | NuX String Singer | PCB415 | **Build docs coming soon...** |
 | [Sugarbag Overdrive](https://www.pedalpcb.com/product/pcb370/) | Beetronics Fat Bee | PCB370 | [Download](http://www.pedalpcb.com/docs/Sugarbag-PedalPCB.pdf) |
 | [Sunflower Fuzz](https://www.pedalpcb.com/product/sunflower/) | Analogman Sunface | PCB031 | [Download](http://www.pedalpcb.com/docs/Sunflower.pdf) |
 | [Super Stevie Overdrive](https://www.pedalpcb.com/product/superstevie/) | Lovepedal Super Six "Stevie Mod" Overdrive | PCB324 | [Download](http://www.pedalpcb.com/docs/SuperStevie.pdf) |
@@ -374,7 +385,7 @@ header:
 | [Trojan Horse](https://www.pedalpcb.com/product/trojanhorse/) | VFE Dark Horse | PCB272 | [Download](http://www.pedalpcb.com/docs/TrojanHorse.pdf) |
 | [Trumpeter](https://www.pedalpcb.com/product/trumpeter/) | Paul Trombetta Mini-Bone | PCB061 | [Download](http://www.pedalpcb.com/docs/Trumpeter.pdf) |
 | [Tweed Man Overdrive](https://www.pedalpcb.com/product/tweedman/) | Catalinbread Formula 5F6 | PCB190 | [Download](http://www.pedalpcb.com/docs/TweedMan.pdf) |
-| [Tweed Sound](https://www.pedalpcb.com/product/tweedsound/) | '59 Tweed Overdrive | PCB049 | [Download](http://www.pedalpcb.com/docs/TweedSound.pdf) |
+| [Tweed Sound](https://www.pedalpcb.com/product/tweedsound/) | '59 Tweed Overdrive | PCB049 | [Download](http://www.pedalpcb.com/docs/TweedSound-PedalPCB.pdf) |
 | [Twill Deluxe](https://www.pedalpcb.com/product/twilldeluxe/) | Love Pedal Les Lius | PCB252 | [Download](http://www.pedalpcb.com/docs/TwillDeluxe.pdf) |
 | [Twin Face](https://www.pedalpcb.com/product/twinface/) | Inspired by the Arbiter Fuzz Face | PCB070 | [Download](http://www.pedalpcb.com/docs/TwinFace.pdf) |
 | [Two Sticks of Derm Fuzz](https://www.pedalpcb.com/product/twosticksofderm/) | Doom Fuzz | PCB305 | [Download](http://www.pedalpcb.com/docs/TwoSticksOfDerm.pdf) |
@@ -393,6 +404,7 @@ header:
 | [Valve Stem Overdrive](https://www.pedalpcb.com/product/pcb343/) | MI Audio Tube Zone | PCB343 | [Download](http://www.pedalpcb.com/docs/ValveStem-PedalPCB.pdf) |
 | [Van Pelt Drive](https://www.pedalpcb.com/product/vanpelt/) | JHS Charlie Brown v4 | PCB071 | [Download](http://www.pedalpcb.com/docs/VanPelt.pdf) |
 | [Vanquisher Fuzz](https://www.pedalpcb.com/product/vanquisher/) | Way Huge Conquistador Fuzzstortion | PCB232 | [Download](http://www.pedalpcb.com/docs/VanquisherFuzz.pdf) |
+| [Viceroy Overdrive (Boneyard Edition)](https://www.pedalpcb.com/product/pcb386/) | EQD Monarch Overdrive | PCB386 | **Build docs coming soon...** |
 | [Waddle Box](https://www.pedalpcb.com/product/waddlebox/) | DOD FX25 Envelope Filter | PCB154 | [Download](http://www.pedalpcb.com/docs/WaddleBox.pdf) |
 | [War Scythe](https://www.pedalpcb.com/product/warscythe/) | EQD Hoof Reaper | PCB228 | [Download](http://www.pedalpcb.com/docs/WarScythe.pdf) |
 | [Windmill Overdrive](https://www.pedalpcb.com/product/windmill/) | Catalinbread WIIO | PCB332 | [Download](http://www.pedalpcb.com/docs/Windmill.pdf) |
@@ -401,4 +413,4 @@ header:
 | [Wrectifier Distortion](https://www.pedalpcb.com/product/wrectifier/) | Wampler Triple Wreck | PCB040 | [Download](http://www.pedalpcb.com/docs/Wrectifier.pdf) |
 | [XB-MB Preamp](https://www.pedalpcb.com/product/xbmb-preamp/) | Xotic BB Preamp Mid Boost | PCB317 | [Download](http://www.pedalpcb.com/docs/XB-MB.pdf) |
 | [Zapper](https://www.pedalpcb.com/product/zapper/) | Systech Harmonic Energizer | PCB244 | [Download](http://www.pedalpcb.com/docs/Zapper.pdf) |
-| [Zonkbox](https://www.pedalpcb.com/product/zonkbox/) | D*A*M Zonk Machine | PCB128 | [Download](http://www.pedalpcb.com/docs/Zonkbox.pdf) |
+| [Zonkbox](https://www.pedalpcb.com/product/zonkbox/) | D*A*M Zonk Machine | PCB128 | [Download](http://www.pedalpcb.com/docs/Zonkbox-PedalPCB.pdf) |
