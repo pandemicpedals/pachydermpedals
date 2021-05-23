@@ -2,7 +2,7 @@
 layout: single
 title: "2012 Charvel DST-1 FR Star Desolation Series"
 header:
-  teaser: /assets/images/guitars/
+  teaser: /assets/images/guitars/star.jpg
 year: 2012
 brand: Charvel
 model: DST-1 FR Star
@@ -37,4 +37,4 @@ extra: "3-Way (Pickup), Volume"
 ---
 
 
-![header](/assets/images/guitars/)
+![header](/assets/images/guitars/star.jpg)
