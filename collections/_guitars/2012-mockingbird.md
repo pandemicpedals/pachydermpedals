@@ -12,11 +12,11 @@ manufactured: Korea
 purchase-date: 8/22/2016
 pickups:
   bridge: Fluence Modern
-  middle: 
+  middle:
   neck: Fluence Modern
   manufacturer: Fishman
-  type: 
-  wiring: 
+  type:
+  wiring:
 body:
   material: "Mahogany / Walnut Stripes"
   top: AAA Maple Quilted Veneer
@@ -25,7 +25,7 @@ neck:
   fretboard: Ebony
   radius: "12\""
   inlay-shape: Diamonds
-  inlay-material: 
+  inlay-material:
   frets: 24 Jumbo
 scale: "24-5/8"
 construction: Neck Through

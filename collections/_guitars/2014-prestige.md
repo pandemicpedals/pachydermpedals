@@ -19,13 +19,13 @@ pickups:
   wiring: Series
 body:
   material: Basswood
-  top: 
+  top:
 neck:
   material: Maple/Walnut
   fretboard: Rosewood
-  radius: 
+  radius:
   inlay-shape: Dot
-  inlay-material: 
+  inlay-material:
   frets: 24 Jumbo
 scale: 25.5 in.
 construction: Bolt-on

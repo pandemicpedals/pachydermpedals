@@ -11,29 +11,29 @@ color: Black
 manufactured: "Japan?"
 purchase-date: 5/5/2002
 pickups:
-  bridge: 
-  middle: 
-  neck: 
-  manufacturer: 
-  type: 
-  wiring: 
+  bridge:
+  middle:
+  neck:
+  manufacturer:
+  type:
+  wiring:
 body:
-  material: 
-  top: 
+  material:
+  top:
 neck:
-  material: 
-  fretboard: 
-  radius: 
+  material:
+  fretboard:
+  radius:
   inlay-shape: "Shark Tooth"
-  inlay-material: 
-  frets: 
-scale: 
+  inlay-material:
+  frets:
+scale:
 construction: "Neck Through"
 bridge: "Jackson Licensed Floyd Rose"
-tuners: 
+tuners:
 hardware: Chrome
 case: Yes
-extra: 
+extra:
 ---
 
 ![header](/assets/images/guitars/soloist.jpg)

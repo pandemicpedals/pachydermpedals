@@ -11,28 +11,28 @@ color: Natural Oiled
 manufactured: Germany
 purchase-date: 9/1/2002
 pickups:
-  bridge: 
-  middle: 
-  neck: 
-  manufacturer: 
-  type: 
-  wiring: 
+  bridge:
+  middle:
+  neck:
+  manufacturer:
+  type:
+  wiring:
 body:
   material: Bubinga
-  top: 
+  top:
 neck:
-  material: 
-  fretboard: 
-  radius: 
-  inlay-shape: 
-  inlay-material: 
-  frets: 
-scale: 
-construction: 
-bridge: 
-tuners: 
-hardware: 
+  material:
+  fretboard:
+  radius:
+  inlay-shape:
+  inlay-material:
+  frets:
+scale:
+construction:
+bridge:
+tuners:
+hardware:
 case: Bag
-extra: 
+extra:
 ---
 ![header](/assets/images/guitars/warwick.jpg)

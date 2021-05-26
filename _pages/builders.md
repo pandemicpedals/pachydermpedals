@@ -31,7 +31,7 @@ I believe everyone has something that they can contribute to the DIY community. 
 ### Who you are:
 
 - Age, Location (City, State Country)
-- What is your relationship to music? 
+- What is your relationship to music?
 - What is your background?
 - What got you started building pedals? When?
 - Is there anything else you would like known about you?

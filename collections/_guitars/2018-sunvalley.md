@@ -17,20 +17,20 @@ manufactured: Indonesia
 purchase-date: 10/13/2018
 pickups:
   bridge: Retro Active Hot 70
-  middle: 
+  middle:
   neck: Sustainiac
   manufacturer: EMG
   type: Active
   wiring: Series
 body:
   material: Mahogany
-  top: 
+  top:
 neck:
   material: Maple
   fretboard: Rosewood
   radius: "14\""
   inlay-shape: Dot
-  inlay-material: 
+  inlay-material:
   frets: "24 Extra-jumbo"
 scale: "25.5 in."
 construction: "Bolt-on"
@@ -64,11 +64,11 @@ The thin C neck shape on hard rock maple bolt-on neck provides extreme comfort f
 * Joint: Bolt-on
 * Scale length: 25.5 in.
 * Truss rod: Dual-action
-* Neck finish: Satin 
+* Neck finish: Satin
 
 ### Fretboard
 
-* Material: Macassar Ebony 
+* Material: Macassar Ebony
 * Radius: 14 in.
 * Fret size: Extra-jumbo
 * Number of frets: 24

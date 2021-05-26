@@ -40,8 +40,8 @@ sidebar:
 * **tuners:** Gotoh machine\n
 * **hardware:** Chrome\n
 * **case:** Yes\n
-* **extra:**Hi-pass filter on volume control, 
-Sustianiac switch on tone control (push/pull), 
+* **extra:**Hi-pass filter on volume control,
+Sustianiac switch on tone control (push/pull),
 3-way mini switch for Sustianiac\n
 "
 ---
@@ -64,9 +64,9 @@ Also featured is the legendary JS/Edge Tremolo that delivers Joe‘s favorite fe
 * JS 3-piece maple/bubinga
 * Rosewood fingerboard with Pearl dot inlays and
 * 24 frets with Prestige fret edge treatment
-* DiMarzio Satchur8 pickup in the bridge position 
+* DiMarzio Satchur8 pickup in the bridge position
 * SUSTAINIAC Driver in the neck position with “Stealth PRO” preamp
 * 3-way Sustainiac mode selector
-* High-pass filter on the volume pot maintains highs at low volumes. 
+* High-pass filter on the volume pot maintains highs at low volumes.
 * JS/Edge Tremolo
 * Includes a special case

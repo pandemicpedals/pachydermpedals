@@ -23,12 +23,12 @@ This is a work in progress. I should probably stage it but I like to have inform
 
 # Introduction
 
-I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found. 
+I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found.
 
 **Note:** This will be very US centric since that is where I am getting parts and PCBs from.
 {: .notice--info }
 
-These are some of the parts I like to use and where I get them from. 
+These are some of the parts I like to use and where I get them from.
 
 # Parts
 
@@ -42,7 +42,7 @@ These are some of the parts I like to use and where I get them from.
 
 [![](/assets/images/blog/parts/dustcover.jpg)](https://amzn.to/3bAyUu6){: .align-left .width-70}
 
-**[Potentiometer Dust Cover](https://amzn.to/3bAyUu6)** - To avoiding shorting potentiometers on the back of the board. As of March 12, 2021 the dust covers on Amazon are not available. You may be able to find them on stompboxparts or smallbear electronics. 
+**[Potentiometer Dust Cover](https://amzn.to/3bAyUu6)** - To avoiding shorting potentiometers on the back of the board. As of March 12, 2021 the dust covers on Amazon are not available. You may be able to find them on stompboxparts or smallbear electronics.
 
 [![](/assets/images/blog/parts/wire.jpg)](https://amzn.to/3khYs33){: .align-left .width-70}
 

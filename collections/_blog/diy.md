@@ -28,7 +28,7 @@ Email me if there are more that I have missed.
 
 The numbers are the count of PCBs I have built from the company, NOT the about they have.
 
-* [1776 Effects](https://1776effects.com/) - 1 PCB 
+* [1776 Effects](https://1776effects.com/) - 1 PCB
 * [Aion Electronics](https://aionfx.com/) - 8 PCBs
 * [Build Your Own Clone](https://buildyourownclone.com/) - 2 Kits
 * [Carcharias Effects](https://carchariaseffects.com/) - 1 PCB

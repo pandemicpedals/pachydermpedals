@@ -23,7 +23,7 @@ sidebar:
 * **Color:** Butterscotch Blonde\n
 * **Manufactured:** USA\n
 * **Purchase Date:**  \n
-* **pickups:** Fender\n 
+* **pickups:** Fender\n
 * **bridge: V-Mod II** \n
 * **middle:** \n
 * **neck: V-Mod II** \n

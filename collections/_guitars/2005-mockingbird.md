@@ -12,7 +12,7 @@ manufactured: Korea
 purchase-date: 1/1/2000
 pickups:
   bridge: BDSM
-  middle: 
+  middle:
   neck: BDSM
   manufacturer: B.C. Rich
   type: Passive
@@ -23,14 +23,14 @@ body:
 neck:
   material: Maple
   fretboard: Rosewood
-  radius: 
+  radius:
   inlay-shape: Clouds
   inlay-material: Pearloid
   frets: 24 Jumbo
 scale: 25.5 in.
 construction: Neck Through
 bridge: Tune-O-Matic / Stopbar
-tuners: 
+tuners:
 hardware: Chrome
 case: Yes
 extra: "3-Way (Pickup), Volume, Volume, Tone"

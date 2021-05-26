@@ -59,7 +59,7 @@ gallery:
     title: ""
 ---
 
-I've had a couple  of questions about how I paint my pedals. Here's a quick set of photos that show the steps. 
+I've had a couple  of questions about how I paint my pedals. Here's a quick set of photos that show the steps.
 
 I hope this is helpful. Feel free to ask any questions. I am hoping to have the time to write up some more detailed articles.
 <!--MORE-->

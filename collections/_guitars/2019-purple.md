@@ -96,7 +96,7 @@ Available in a stunning Rocket Red finish, the So-Cal Style 1 HH FR also feature
 * Brand: Seymour Duncan
 * Active or passive pickups: Passive
 * Series or parallel: Parallel
-* Special electronics: Push/push tone activation 
+* Special electronics: Push/push tone activation
 
 ### Controls
 

@@ -23,7 +23,7 @@ sidebar:
 * **Color:** Desert Rose\n
 * **Manufactured:** USA\n
 * **Purchase Date:** 5/20/2020 \n
-* **pickups:** PRS\n 
+* **pickups:** PRS\n
 * **bridge:** \n
 * **middle:** \n
 * **neck:** \n

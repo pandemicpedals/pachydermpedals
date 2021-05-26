@@ -91,9 +91,9 @@ gallery:
     title: ""
 ---
 
-## Build Report ##
+## Build Report
 
-## Build Gallery ##
+## Build Gallery
 
 {% include gallery caption="Build Gallery" %}
 
