@@ -41,7 +41,7 @@ sidebar:
 "
 ---
 
-## The Dumpster Les Paul ##
+## The Dumpster Les Paul
 
 <!-- ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/guitars/dumpster/1.jpg){: .align-right} -->
 

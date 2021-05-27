@@ -40,7 +40,7 @@ sidebar:
 "
 ---
 
-As I tell my stories about the guitars that I have owned you will find me referencing to major tramatic events. One is when someone broke into my appartment in 1992 and stole 2 of my guitars. The second is 1993 when the final 2 were stolen from a Greyhound bus. This guitar is the result of the second theft as it left me with a Marshall JCM800 full stack and no guitar. 
+As I tell my stories about the guitars that I have owned you will find me referencing to major tramatic events. One is when someone broke into my appartment in 1992 and stole 2 of my guitars. The second is 1993 when the final 2 were stolen from a Greyhound bus. This guitar is the result of the second theft as it left me with a Marshall JCM800 full stack and no guitar.
 
 I remember getting off the bus and looking for my stuff to come out underneath and only seeing the Marshall cabinets and heads coming out and no guitar cases. Man that was a reall fucking bummer considering that 2 other guitars were stolen less than a year earlier. My friend at the time had this warlock and it was his oldest guitar. We traded the straight cabinet of the Marshall for the guitar so I would have something to play.
 

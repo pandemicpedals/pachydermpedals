@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en"
-title: Pachyderm Pedals 
+title: Pachyderm Pedals
 email: pachydermpedals@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Pachyderm Pedals are hand wired pedals built in the USA from quality parts. 
-  The line of Pandemic Pedals started when the pandemic did and I have building 
+  Pachyderm Pedals are hand wired pedals built in the USA from quality parts.
+  The line of Pandemic Pedals started when the pandemic did and I have building
   ever since. I enjoy being able to create one of a kind hand painted pedals.
 
 minimal_mistakes_skin: "default"
@@ -64,7 +64,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "UA-186213597-1"
-#    anonymize_ip: false # default
+#    anonymize_ip: false default
 
 og_image: /assets/images/logo.png
 
@@ -74,8 +74,8 @@ author:
   bio    : "I'm a wee bit out of my mind. Been blasting Diary of a Madman and Crazy Train into my skull since the early '80s.
 Been finding ways to deal with Bi-Polar Disorder and ADHD all my life. The pandemic introduced new challenges. That is what
 lead me to start building pedals. A way to immerse myself into so many different creative activities. This is where I share
-my creations and  the stories, successes, failures and what I have learned with others. Feel free to browse around. Let me 
-know what I got wrong or where I might improve. Most of all I just hope you enjoy what I have created and can maybe gain 
+my creations and  the stories, successes, failures and what I have learned with others. Feel free to browse around. Let me
+know what I got wrong or where I might improve. Most of all I just hope you enjoy what I have created and can maybe gain
 some new insights."
   email: pachydermpedals@gmail.com
   links:
@@ -144,6 +144,10 @@ collections:
     output: true
     title: Builders
     position: -1
+  ruminations:
+    output: true
+    title: Builders
+    position: -999
   guitars:
     output: true
     title: Guitars
@@ -220,6 +224,19 @@ defaults:
       type: builders
     values:
       layout: splash
+      #classes: wide
+      show_date: true
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _ruminations
+  - scope:
+      path: ""
+      type: ruminations
+    values:
+      layout: single
       #classes: wide
       show_date: true
       author_profile: false

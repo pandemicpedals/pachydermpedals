@@ -12,11 +12,11 @@ manufactured: China
 purchase-date: 9/1/2012
 pickups:
   bridge: 85
-  middle: 
+  middle:
   neck: 81
   manufacturer: EMG
-  type: 
-  wiring: 
+  type:
+  wiring:
 body:
   material: Mahogany
   top: Flame Maple Veneer
@@ -29,7 +29,7 @@ neck:
   frets: 24 Jumbo
 scale: 25.5 in.
 construction: Neck Through
-bridge: 
+bridge:
 tuners: Die-cast
 hardware: Black
 case: Yes

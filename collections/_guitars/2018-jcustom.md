@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/guitars/jcustom.jpg
   overlay_image: /assets/images/guitars/jcustom.jpg
   overlay_filter: 0.5
- 
+
 year: 2018
 brand: Ibanez
 model: RG8520SDE
@@ -17,11 +17,11 @@ manufactured: Japan
 purchase-date: 4/1/2019
 pickups:
   bridge: Fusion Edge
-  middle: 
+  middle:
   neck: Fusion Edge
   manufacturer: DiMarzio
   type: Passive
-  wiring: 
+  wiring:
 body:
   material: African mahogany
   top: AAA flamed maple
@@ -35,7 +35,7 @@ neck:
 scale: "25.5 in."
 construction: "Bolt-on"
 bridge: "Lo-Pro Edge tremolo"
-tuners: 
+tuners:
 hardware: Cosmo Black
 case: Yes
 extra: "1 x volume, 1 x tone, 2-way toggle coil tap switch, 3-way toggle pickup switch"

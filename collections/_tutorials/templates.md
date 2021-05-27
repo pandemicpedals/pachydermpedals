@@ -25,14 +25,14 @@ This is the place where I will put templates that I hope will help people build 
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/pedalgraphicitems/PedalGraphicItems.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/pedalgraphicitems/PedalGraphicItems.jpg" alt=""></a>
 </figure>
 
-This has a collection of knob surrounds with common knob sizes. You will need to resize the surround for the size of knob you are using. 
+This has a collection of knob surrounds with common knob sizes. You will need to resize the surround for the size of knob you are using.
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/pedalgraphicitems/PedalGraphicItems.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/pedalgraphicitems/PedalGraphicItems.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/pedalgraphicitems/PedalGraphicItems.svg)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/pedalgraphicitems/PedalGraphicItems.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/pedalgraphicitems/PedalGraphicItems.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/pedalgraphicitems/PedalGraphicItems.svg)**
 
 <br>
- 
+
 ## Common DIY Pedal Templates
 
 My reason for creating these templates is so that people will have an easier time creating the artwork for their pedals. I also want them to be able to do it without having to pay for Adobe Illustrator. I have been working with others on the [PedalPCB Forum](https://forum.pedalpcb.com/threads/tayda-uv-printing.4245/) to formalize using Affinity Designer and Inkscape to create the art for pedals.
@@ -78,13 +78,13 @@ PedalPCB has 2 main templates for most of his 125B pedals. They are a wider and 
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.png" alt=""></a>
 </figure>
 
-This is the starting template I use for many [PedalPCB](https://www.pedalpcb.com) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them. 
+This is the starting template I use for many [PedalPCB](https://www.pedalpcb.com) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.svg)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Large/PedalPCB_Standard_Large.svg)**
 
 #### 125B Small
 
@@ -92,13 +92,13 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.png" alt=""></a>
 </figure>
 
-This is the starting template I use for many [PedalPCB](https://www.pedalpcb.com) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them. 
+This is the starting template I use for many [PedalPCB](https://www.pedalpcb.com) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.svg)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Standard_Small/PedalPCB_Standard_Small.svg)**
 
 #### Tayda 3 Knob
 
@@ -106,14 +106,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.png" alt=""></a>
 </figure>
 
-This is the starting template for using any of the [Tayda 3 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for using any of the [Tayda 3 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_3_Knob/PedalPCB_Tayda_3_Knob.afdesign)**
 
 #### Tayda 4 Knob
 
@@ -121,14 +121,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.png" alt=""></a>
 </figure>
 
-This is the starting template for using any of the [Tayda 4 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for using any of the [Tayda 4 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_4_Knob/PedalPCB_Tayda_4_Knob.afdesign)**
 
 #### Tayda 5 Knob
 
@@ -136,14 +136,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.png" alt=""></a>
 </figure>
 
-This is the starting template for using any of the [Tayda 5 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for using any of the [Tayda 5 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_5_Knob/PedalPCB_Tayda_5_Knob.afdesign)**
 
 #### Tayda 6 Knob
 
@@ -151,14 +151,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.png" alt=""></a>
 </figure>
 
-This is the starting template for using any of the [Tayda 6 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for using any of the [Tayda 6 Knob PedalPCB Enclosures](https://www.taydaelectronics.com/hardware/enclosures/drilled-enclosures-for-pedalpcb.html) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Tayda_6_Knob/PedalPCB_Tayda_6_Knob.afdesign)**
 
 #### Derailer
 
@@ -166,14 +166,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Derailer/PedalPCB_Derailer.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.png" alt=""></a>
 </figure>
 
-This is the starting template for the [PedalPCB Derailer](https://www.pedalpcb.com/product/derailer/) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for the [PedalPCB Derailer](https://www.pedalpcb.com/product/derailer/) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Derailer/PedalPCB_Derailer.afdesign)**
 
 #### Hydra
 
@@ -181,14 +181,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Hydra/PedalPCB_Hydra.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.png" alt=""></a>
 </figure>
 
-This is the starting template for the [PedalPCB Derailer](https://www.pedalpcb.com/product/hydradelay//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for the [PedalPCB Derailer](https://www.pedalpcb.com/product/hydradelay//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Hydra/PedalPCB_Hydra.afdesign)**
 
 #### Parentheses
 
@@ -196,14 +196,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.png" alt=""></a>
 </figure>
 
-This is the starting template for the [PedalPCB Derailer](https://www.pedalpcb.com/product/parentheses-fuzz//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for the [PedalPCB Derailer](https://www.pedalpcb.com/product/parentheses-fuzz//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parentheses/PedalPCB_Parentheses.afdesign)**
 
 #### Parthenon
 
@@ -211,14 +211,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.png" alt=""></a>
 </figure>
 
-This is the starting template for the [PedalPCB Parthenon](https://www.pedalpcb.com/product/parthenon/) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for the [PedalPCB Parthenon](https://www.pedalpcb.com/product/parthenon/) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Parthenon/PedalPCB_Parthenon.afdesign)**
 
 #### Pineapple
 
@@ -226,14 +226,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.png" alt=""></a>
 </figure>
 
-This is the starting template for the [PedalPCB Pineapple](https://www.pedalpcb.com/product/pineapple//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for the [PedalPCB Pineapple](https://www.pedalpcb.com/product/pineapple//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Pineapple/PedalPCB_Pineapple.afdesign)**
 
 #### Terrarium
 
@@ -241,14 +241,14 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.png" alt=""></a>
 </figure>
 
-This is the starting template for the [PedalPCB Terrarium](https://www.pedalpcb.com/product/pcb351//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them. 
+This is the starting template for the [PedalPCB Terrarium](https://www.pedalpcb.com/product/pcb351//) build. This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html). You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/PedalPCB_Terrarium/PedalPCB_Terrarium.afdesign)**
 
 ### Madbean Pedals
 
@@ -258,12 +258,12 @@ Remember to right click and "Save link as..."
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/templates/VFE_125B_Standard/VFE_125B_Standard.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.png" alt=""></a>
 </figure>
 
-This is the starting template I use for my VFE builds from [Madbean Pedals](https://www.madbeanpedals.com/projects/index.html). This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them. 
+This is the starting template I use for my VFE builds from [Madbean Pedals](https://www.madbeanpedals.com/projects/index.html). This includes the WHITE, COLOR and GLOSS layers for [Tayda UV Printing](https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service.html) on a 125B enclosure. You will need to remove the other layers before sending it to them.
 
 Remember to right click and "Save link as..."
 
-* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.zip)** 
-* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.pdf)** 
-* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.svg)** 
-* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.afdesign)** 
+* **[[ZIP]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.zip)**
+* **[[PDF]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.pdf)**
+* **[[SVG]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.svg)**
+* **[[AD]]({{ site.url }}{{ site.baseurl }}/assets/templates/VFE_125B_Standard/VFE_125B_Standard.afdesign)**
 

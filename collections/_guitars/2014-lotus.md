@@ -12,7 +12,7 @@ manufactured: USA
 purchase-date: 5/6/2018
 pickups:
   bridge: Tone  Zone
-  middle: 
+  middle:
   neck: Humbucker from Hell
   manufacturer: DiMarzio
   type: Passive
@@ -25,12 +25,12 @@ neck:
   fretboard: Maple
   radius: "12\" - 16\""
   inlay-shape: Dot
-  inlay-material: 
+  inlay-material:
   frets: 22 Tall Skinny 6105
-scale: 
+scale:
 construction: "Bolt-on"
 bridge: "Floyd Rose? Original Double-Locking 2-Point Tremolo"
-tuners: 
+tuners:
 hardware: Black
 case: Yes
 extra: "3-Way Pickup Selector, 1 Volume"

@@ -38,15 +38,15 @@ This is a work in progress. I should probably stage it but I like to have inform
 
 # Introduction
 
-I've seen this come up a few times from beginners about where to start. Since I have only been at this since March of 2020 I thought I would put together a list of what I had found useful. I will try to organize is as best I can and I will continue to update this page as I find more useful things. If a section gets too big I may break it out and make it its own page. 
+I've seen this come up a few times from beginners about where to start. Since I have only been at this since March of 2020 I thought I would put together a list of what I had found useful. I will try to organize is as best I can and I will continue to update this page as I find more useful things. If a section gets too big I may break it out and make it its own page.
 
 The best thing you can do is explore and read. I will put up a few sites here but I am sure there are others. Another great resource is youtube. I use it to give me tutorials on soldering and using equipment.
 
 # Information
 
-Read the forums on the side bar. It is also nice to buy PCB boards from  places that have forums as well. [PedalPCB](https://forum.pedalpcb.com/) has a really good forum and they are very responsive. [Rullywow](https://rullywow.com/) got back to me right away when I had questions. [Aion Electronics](https://aionfx.com/) and [Mad Bean Pedals](https://www.madbeanpedals.com/projects/index.html) both have very informative documentation. And watch [Wampler's youtube channel](https://www.youtube.com/channel/UCdVrg4Wl3vjIxonABn6RfWw), he goes over a lot of stuff about the circuits and how they work. I just started in March, 2020 and have read a lot. 
+Read the forums on the side bar. It is also nice to buy PCB boards from  places that have forums as well. [PedalPCB](https://forum.pedalpcb.com/) has a really good forum and they are very responsive. [Rullywow](https://rullywow.com/) got back to me right away when I had questions. [Aion Electronics](https://aionfx.com/) and [Mad Bean Pedals](https://www.madbeanpedals.com/projects/index.html) both have very informative documentation. And watch [Wampler's youtube channel](https://www.youtube.com/channel/UCdVrg4Wl3vjIxonABn6RfWw), he goes over a lot of stuff about the circuits and how they work. I just started in March, 2020 and have read a lot.
 
-You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspot.com/) and [Effects Layouts](http://effectslayouts.blogspot.com/). Other good sites for learning are 
+You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspot.com/) and [Effects Layouts](http://effectslayouts.blogspot.com/). Other good sites for learning are
 
 
 ## Blogs
@@ -86,8 +86,8 @@ You can also learn a lot from [Guitar FX Layouts](http://tagboardeffects.blogspo
 
 ## Facebook Groups
 
-* <i class='fa fa-lock' /> [FreeSompBoxes.org](https://www.facebook.com/groups/108898015804912/) 
-* <i class='fa fa-lock' /> [DIY Stompboxes (unofficial)](https://www.facebook.com/groups/6110761372/) 
+* <i class='fa fa-lock' /> [FreeSompBoxes.org](https://www.facebook.com/groups/108898015804912/)
+* <i class='fa fa-lock' /> [DIY Stompboxes (unofficial)](https://www.facebook.com/groups/6110761372/)
 * [DIY Guitar Pedal](https://www.facebook.com/groups/556445917712892/)
 * [Guitar Pedal Builders](https://www.facebook.com/groups/190439971066228)
 
@@ -138,7 +138,7 @@ There are many morem the blogs above go over many different circuits.
 * [Spray Painting metal enclosures (Hammer Tone)](http://pedalprojects.blogspot.com/2013/12/spray-painting-metal-enclosures-hammer.html)
 * [UV Printing Service](https://www.taydaelectronics.com/uv-printing)
 * [Waterslide Decals – Planet Z](http://www.planetz.com/waterslide-decals/#more-2046)
-* [No Film Waterslide Tutorial on PedalPCB Forum](https://forum.pedalpcb.com/threads/no-film-waterslide-tutorial.5543/) - [March 14, 2021] Just saw this one on the forum and thought is was super informative. I may have to give this a try. 
+* [No Film Waterslide Tutorial on PedalPCB Forum](https://forum.pedalpcb.com/threads/no-film-waterslide-tutorial.5543/) - [March 14, 2021] Just saw this one on the forum and thought is was super informative. I may have to give this a try.
 
 ### DSP
 

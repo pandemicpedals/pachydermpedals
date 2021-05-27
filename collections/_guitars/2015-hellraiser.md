@@ -14,25 +14,25 @@ manufactured: Korea
 purchase-date: 1/28/2017
 pickups:
   bridge: 89
-  middle: 
+  middle:
   neck: 81 TW
   manufacturer: EMG
   type: Active
   wiring: Series
 body:
   material: Mahogany / Abalone Binding
-  top: 
+  top:
 neck:
   material: Mahogany
   fretboard: Rosewood
-  radius: 
+  radius:
   inlay-shape: Gothic Cross
-  inlay-material: 
+  inlay-material:
   frets: 24 Extra-jumbo
-scale: 
+scale:
 construction: Neck Through
 bridge: TonePros Tune-o-matic-style bridge with thru-body design
-tuners: Schecter locking 
+tuners: Schecter locking
 hardware: Black
 case: Yes
 extra: "3-Way (Pickup), Volume, Volume, Tone, Push/pull knob for single-coil on 81TW"

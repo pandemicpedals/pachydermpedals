@@ -16,16 +16,16 @@ pickups:
   neck: "Blaze II (H) [DP702]"
   manufacturer: DiMarzio
   type: Passive
-  wiring: 
+  wiring:
 body:
   material: Basswood
   top: '"Light without Heat" pyramid logo'
 neck:
   material: 1 piece maple
   fretboard: Bound Rosewood
-  radius: 
+  radius:
   inlay-shape: Disappearing Pyramid
-  inlay-material: 
+  inlay-material:
   frets: 24 Large
 scale: 25.5 in.
 construction: "Ibanez's AANJ (All Access Neck Joint)"

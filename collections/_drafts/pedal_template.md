@@ -8,7 +8,7 @@ layout: single
 title: "Pandemic Pedal #023"
 pachyderm_pedal: 023
 
-excerpt: ""
+tagline: , Clone of the 
 compare-to: ""
 
 header:
@@ -91,9 +91,9 @@ gallery:
     title: ""
 ---
 
-## Build Report ##
+## Build Report
 
-## Build Gallery ##
+## Build Gallery
 
 {% include gallery caption="Build Gallery" %}
 

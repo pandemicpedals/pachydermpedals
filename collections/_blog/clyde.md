@@ -76,21 +76,21 @@ If you look through my site and put things together you may deduce that I am som
 
 During this time I stayed with my parents at a retirement community in Arizona. My mother spent much of her time at the clay studio there and I was enjoying handing out with her. Me, being the metal head I am decided I would make a skull with a chunk of clay my mother gave me. I am not sure how that looked to a bunch of septua- and octogenarians, but that is how Clyde was born.
 
-## Forming Clyde ##
+## Forming Clyde
 
 This is what Clyde looked like right after I was done forming him.
 
 {% include gallery id="formed" %}
 
-## Drying ##
+## Drying
 
 This is a week later after he was dry and ready to go in the kiln. I did rub him down a little to get rid of the rough spots.
 
 {% include gallery id="drying" %}
 
-## Clyde Complete ##
+## Clyde Complete
 
-I looked at sime pictures of old skulls to try and decide hot to paint him. I noticed that even though the teeth are often rotten in spots, some areas are still pearly white. The glaze used for the skull itself was called oatmeal and I think it did well to get the texture I wanted. I am happy with how he came out. 
+I looked at sime pictures of old skulls to try and decide hot to paint him. I noticed that even though the teeth are often rotten in spots, some areas are still pearly white. The glaze used for the skull itself was called oatmeal and I think it did well to get the texture I wanted. I am happy with how he came out.
 
 He is always with me when I work. I even had him in my office until the pandemic started. My office mate found him kind of strange. :grin:
 

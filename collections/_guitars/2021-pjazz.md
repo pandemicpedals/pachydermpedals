@@ -23,7 +23,7 @@ sidebar:
 * **Color:** Satin Lake Placid Blue\n
 * **Manufactured:** USA\n
 * **Purchase Date:**  \n
-* **pickups:** Fender\n 
+* **pickups:** Fender\n
 * **bridge:** \n
 * **middle: Yosemite split single-coil** \n
 * **neck: Yosemite single-coil** \n
@@ -45,7 +45,7 @@ sidebar:
 "
 ---
 
-Born in Corona, California, the American Performer Precision Bass with maple fingerboard delivers the exceptional tone and feel you expect from an authentic Fender—along with new, player-oriented features that make it even more exciting to play. 
+Born in Corona, California, the American Performer Precision Bass with maple fingerboard delivers the exceptional tone and feel you expect from an authentic Fender—along with new, player-oriented features that make it even more exciting to play.
 
 ### Playability that’s precise
 
@@ -57,7 +57,7 @@ The alder body on the Performer Precision is contoured to perfection and comes i
 
 ### Being versatile gets the gig
 
-The American Performer Precision Bass with maple fingerboard includes the Yosemite split-coil Precision Bass middle pickup and a growling Yosemite single-coil Jazz Bass bridge pickup, designed for rich, expressive tones. With flat-staggered pole pieces to increase output and a shellac coating that lets the coils breathe while controlling feedback, Yosemite pickups produce dynamic sounds ideal for any musical situation. 
+The American Performer Precision Bass with maple fingerboard includes the Yosemite split-coil Precision Bass middle pickup and a growling Yosemite single-coil Jazz Bass bridge pickup, designed for rich, expressive tones. With flat-staggered pole pieces to increase output and a shellac coating that lets the coils breathe while controlling feedback, Yosemite pickups produce dynamic sounds ideal for any musical situation.
 
 The American Performer Precision Bass also features Greasebucket tone circuitry that lets you shape your highs without adding bass, preserving your sound. With the Fender Performer series there has never been a better time to own a Fender Bass. Includes gig bag.
 
@@ -113,7 +113,7 @@ The American Performer Precision Bass also features Greasebucket tone circuitry 
 **Hardware**
 
 * Bridge type: Fixed
-* Bridge design: 4-Saddle 
+* Bridge design: 4-Saddle
 * Tuning machines: ClassicGear with tapered shafts
 * Color: Chrome
 
