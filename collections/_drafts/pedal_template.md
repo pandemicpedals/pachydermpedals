@@ -8,7 +8,7 @@ layout: single
 title: "Pandemic Pedal #023"
 pachyderm_pedal: 023
 
-excerpt: ""
+tagline: , Clone of the 
 compare-to: ""
 
 header:
