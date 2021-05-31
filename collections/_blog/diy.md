@@ -44,22 +44,23 @@ The numbers are the count of PCBs I have built from the company, NOT the about t
 * [Mad Bean Pedals](https://www.madbeanpedals.com/projects/index.html)  - 43 PCBs
 * [MAS Effects](https://mas-effects.com/) - 2 PCBs
 * [Parasit Studio](https://www.parasitstudio.se/) - 3 PCBs
-* [PCB Guitar Mania](https://pcbguitarmania.com/)
+* [PCB Guitar Mania](https://pcbguitarmania.com/?ref=pachydermpedals) - 12 PCBs [PCB List](/blog/pcbguitarmania-build-docs/)
 * [Pedal Parts and Kits](https://www.pedalpartsandkits.com/)
-* [PedalPCB.com](https://www.pedalpcb.com/) - 111 PCBs
+* [PedalPCB.com](https://www.pedalpcb.com/) - 111 PCBs [PCB List](/blog/pedalpcb-build-docs/)
 * [Rullywow](https://rullywow.com/) - 7 PCBs
 * [Skidmark Pedals](https://www.facebook.com/groups/560079824864843) - 5 PCBs
 * [Tayda Instruction Center](https://www.taydakits.com/)
 * [TH Custom Effects](http://diy.thcustom.com/)
 * [Tonepad](http://www.tonepad.com/default.asp)
 * [Zeppelin Design Labs](https://zeppelindesignlabs.com/)
+* [Schalltechnik_04](https://schalltechnik04.de/en/home)
 
 # Tagboard & Schematics
 
 * [Dirtbox Layouts](https://dirtboxlayouts.blogspot.com/)
 * [Effects Heaven Effect Schematics](https://schematicheaven.net/effects.html)
-* [Guitar FX Layouts](http://tagboardeffects.blogspot.com/)
-* [Guitar FX Layouts](http://guitar-fx-layouts.42897.x6.nabble.com/)
+* [Guitar FX Layouts (Tagboard Effects)](http://tagboardeffects.blogspot.com/) [Effects List](/blog/guitar_fx_layouts/)
+* [Guitar FX Layouts (Nabble)](http://guitar-fx-layouts.42897.x6.nabble.com/) 
 * [Perf and PCB Effects Layouts](http://effectslayouts.blogspot.com/)
 * [PARASIT STUDIO](https://www.parasitstudio.se/stripboard-layouts/category/all)
 
