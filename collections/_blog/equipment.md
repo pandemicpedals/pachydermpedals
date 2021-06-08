@@ -7,7 +7,7 @@ toc_icon: "cog"
 title: Useful Equipment
 excerpt: I've seen this come up a few times from beginners about where to start. Since I have only been at this a couple of month's I thought I would put together a list of what I had found.
 date: 2021-02-23
-last_modified_at: 2021-03-23
+last_modified_at: 2021-06-04
 
 author_profile: true
 
@@ -191,8 +191,11 @@ There are many ways of finishing pedals. I like to paint mine with paint pens. T
 [![](/assets/images/blog/equip/epoxy.jpg)](https://amzn.to/3uyJkTZ){: .align-left .width-70}
 **[Epoxy](https://amzn.to/37Hhqvb)** - I use this to give me a high gloss protective coating to the artwork on hand painted pedals. I have also used the Artist Resin from [Counter Culture DIY](https://counterculturediy.com/).
 
+[![](/assets/images/blog/equip/paint.jpg)](https://amzn.to/2Ruk4zr){: .align-left .width-70}
+**[Acrylic Paint](https://amzn.to/2Ruk4zr)** - I had purchased this acrylic paint set for my daughterand decided to get one for myself as well. I also picked up [brushes](https://amzn.to/3cnFZPP) and [palettes](https://amzn.to/3x1GkQ7). The palettes are super useful for blending colors and adding water get different effects.
+
 [![](/assets/images/blog/equip/paint_pens.jpg)](https://amzn.to/3pN2QIF){: .align-left .width-70}
-**Paint Pens** - [Metallic](https://amzn.to/3uly0KJ) and Assorted [42 Count](https://amzn.to/3pN2QIF) and [12 Count](https://amzn.to/3usyj6f). These continue to last over a long period of time. I have learned that you want to store the pens horizonally. If the are upright they will either leak or the tip will go dry. You just need to make sure you thoroughly shake them before iise. Also check how they write on paper before painting. The paint will occasionally bubble up.
+**Paint Pens** - [Metallic](https://amzn.to/3uly0KJ) and Assorted [42 Count](https://amzn.to/3pN2QIF) and [12 Count](https://amzn.to/3usyj6f). These continue to last over a long period of time. I have learned that you want to store the pens horizonally. If the are upright they will either leak or the tip will go dry. You just need to make sure you thoroughly shake them before use. Also check how they write on paper before painting. The paint will occasionally bubble up.
 
 [![](/assets/images/blog/equip/pens.jpg)](https://amzn.to/2P7cVU8){: .align-left .width-70}
 **[Pens](https://amzn.to/3aJvWnY)** - These Paper Mates and [assorted color Sharpies](https://amzn.to/2P7cVU8) are useful for sorting, categorizing and marking your boxes, pedals and storage.
