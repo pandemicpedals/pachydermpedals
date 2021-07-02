@@ -78,7 +78,7 @@ cam:
 
 So I have been building pedals for a little over a year. In that time I have always hand wired my switches unless the breakout boards were supplied with the circuit.
 
-I felt it was time to take the next step and create my own PCBs. I have breadboarded a few circuits and I want to put a few into production. As a test I created my own breakout board for the 3PDT. I usually see them for $1 a board. So I did a little digging around, found some [information on panelizing](https://maker.pro/pcb/tutorial/how-to-panelize-your-pcbs-in-eagle-using-v-grooves) you layouts using a [Sparkfun ULP for panelization](https://github.com/sparkfun/SparkFun_Eagle_Settings/blob/master/ulp/SparkFun-Panelizer.ulp) and got to work.
+I felt it was time to take the next step and create my own PCBs. I have breadboarded a few circuits and I want to put a few into production. As a test I created my own breakout board for the 3PDT. I usually see them for $1 a board. So I did a little digging around, found some [information on panelizing](https://maker.pro/pcb/tutorial/how-to-panelize-your-pcbs-in-eagle-using-v-grooves) your layouts using a [Sparkfun ULP for panelization](https://github.com/sparkfun/SparkFun_Eagle_Settings/blob/master/ulp/SparkFun-Panelizer.ulp) and got to work.
 
 ## Setup
 
