@@ -10,6 +10,9 @@ header:
     overlay_image: /assets/images/tutorial/angrycharles/Complete_graphics.jpg
     overlay_filter: 0.8
 
+author_profile: true
+donate: true
+
 toc: true
 toc_sticky: true
 toc_label: "My Table of Contents"
@@ -31,7 +34,7 @@ toc_icon: "cog"
 
 ## Intro
 
-If you are like me, this is a hobby. As such I want to spend as much money as I can on parts and not on software. Because of this I do not want to invest in **Abobe Illistrator** ($59 a month US) but I would still like to get the professional look of UV printing. With help from the members on PedalPCB's forum I have come up with this less expensive approach.
+If you are like me, this is a hobby. As such I want to spend as much money as I can on parts and not on software. Because of this I do not want to invest in **Abobe Illustrator** ($59 a month US) but I would still like to get the professional look of UV printing. With help from the members on PedalPCB's forum I have come up with this less expensive approach.
 
 I have been using [Inkscape](https://inkscape.org/release/inkscape-1.0.1/) to create my graphics and make [templates]({{ site.url }}{{ site.baseurl }}/tutorials/templates) for pedals. I then get them prepared and ready to print using [Affinity Designer](https://affinity.serif.com/en-us/designer/) which as of this writing is $49.99 US for a perpetual license.
 

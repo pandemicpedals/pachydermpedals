@@ -11,6 +11,7 @@ date: 2021-03-04
 last_modified_at: 2021-03-29
 
 author_profile: true
+donate: true
 
 header:
   teaser: /assets/templates/templates.jpg
