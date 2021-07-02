@@ -166,3 +166,12 @@ This is the directory and all files created in this process.
 The JLCPCB price for panel by customer for 5, 100mm by 100mm boards is $8 us. This design gets 20 boards per panel. I also make sure that I do the surface finish of LeadFree HASL-RoHS. And I have the confirm the production file. The total with shipping is 12.94 and takes about 2 - 3 weeks to arrive. You can get it much quicker if you want to pay $5 more for the shipping.
 
 For anyone who wants to make this the way it is you can right click and download the zip file [here](/assets/resources/3PDT_Stomp-Panel_2021-07-02.zip).
+
+## Boards
+
+These are the finished boards from the first batch. I believe the second is better with the name in a better spot and no outline of the stomp.
+
+<figure  class="align-center">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/tutorial/3pdt/boards.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/tutorial/3pdt/boards.jpg" alt=""></a>
+</figure>
+
