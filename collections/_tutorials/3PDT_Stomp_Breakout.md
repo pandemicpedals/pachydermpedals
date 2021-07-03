@@ -74,6 +74,19 @@ cam:
     alt: "bottom copper"
     title: "Bottom Copper"
 
+jlcpcb:
+  - url: /assets/images/tutorial/3pdt/jlcpcb.png
+    image_path: /assets/images/tutorial/3pdt/jlcpcb.png
+    alt: "jlcpcb order page"
+    title: "JLCPCB Order Page"
+  - url: /assets/images/tutorial/3pdt/jlcpcb2.png
+    image_path: /assets/images/tutorial/3pdt/jlcpcb2.png
+    alt: "jlcpcb options"
+    title: "JLCPCB Options"
+  - url: /assets/images/tutorial/3pdt/jlcpcb3.png
+    image_path: /assets/images/tutorial/3pdt/jlcpcb3.png
+    alt: "jlcpcb price"
+    title: "JLCPCB Price"
 ---
 
 So I have been building pedals for a little over a year. In that time I have always hand wired my switches unless the breakout boards were supplied with the circuit.
@@ -166,6 +179,13 @@ This is the directory and all files created in this process.
 The JLCPCB price for panel by customer for 5, 100mm by 100mm boards is $8 us. This design gets 20 boards per panel. I also make sure that I do the surface finish of LeadFree HASL-RoHS. And I have the confirm the production file. The total with shipping is 12.94 and takes about 2 - 3 weeks to arrive. You can get it much quicker if you want to pay $5 more for the shipping.
 
 For anyone who wants to make this the way it is you can right click and download the zip file [here](/assets/resources/3PDT_Stomp-Panel_2021-07-02.zip).
+
+These are images of what I have setup and the price.
+
+**Note**: Make sure that the ground plain and everything looks right in the board image.
+{: .notice--warning}
+
+{% include gallery id="jlcpcb" %}
 
 ## Boards
 
