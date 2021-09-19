@@ -18,6 +18,7 @@ author_profile: false
 sort_by: last_modified_at
 sort_order: reverse
 
+donate: true
 
 header:
   teaser: /assets/images/header_breadboard.jpg
