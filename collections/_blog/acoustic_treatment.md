@@ -125,4 +125,5 @@ THeh panels hang on the wall with two pieces of wood cut at a 45 degree angle. Y
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/blog/acoustic/12.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/acoustic/12.jpg" alt=""></a>
 </figure>
 
+This very nicely removed the echos and reverb from the room.
 
