@@ -8,12 +8,12 @@ toc_icon: "cog"
 
 title: "DIY Acoustic Panels"
 tagline: "Building acoustic treatment for a home studio or music room"
-date: 2021-02-21
-last_modified_at: 2021-02-21
+date: 2021-12-21
+last_modified_at: 2021-12-21
 
 header:
-  teaser: /assets/images/blog/acoustic/10.jpg
-  overlay_image: /assets/images/blog/acoustic/10.jpg
+  teaser: /assets/images/blog/acoustic/12.jpg
+  overlay_image: /assets/images/blog/acoustic/12.jpg
   overlay_filter: 0.8
 
 author_profile: true
