@@ -26,7 +26,7 @@ Email me if there are more that I have missed.
 
 # PCB Sites
 
-The numbers are the count of PCBs I have built from the company, NOT the about they have.
+The numbers are the count of PCBs I have built from the company, NOT the amount they offer.
 
 * [1776 Effects](https://1776effects.com/) - 1 PCB
 * [Aion Electronics](https://aionfx.com/) - 8 PCBs
