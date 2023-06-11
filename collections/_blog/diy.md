@@ -74,7 +74,8 @@ The numbers are the count of PCBs I have built from the company, NOT the amount 
 * [Mouser](https://www.mouser.com/) - Really good for bulk purchases and making sure you get good ICs and Transistors. Not a place for NOS.
 * [Pedalhacker Electronics](https://www.pedalhackerelectronics.com/) - This is the place for NOS. I have order many times. It is a great place to get larger orders from since he had a discount and free shipping when you order a lot. I get many of my NOS transistors and diodes from here.
 
-**Warning:** June 2023. I hope I have not lead anyone asray but I have been seeing posts where people have not been getting product or responses from Pedalhacker Electronics for the past year. The last time I used them was probably early 2021. {: .notice--warning }
+**Warning:** June 2023. I apologize for the late warning. I have been seeing posts where people have not been getting product or responses from Pedalhacker Electronics for the past year. The last time I used them was probably early 2021. 
+{: .notice--warning }
 
 * [Pedal Parts Plus](http://www.pedalpartsplus.com/)
 * [Small Bear Electronics](http://smallbear-electronics.mybigcommerce.com/) - Has many parts that are hard to find elsewhere. Excellent to the DIY community. Also has forums and other information. You will buy from here at some point if you are from the US.
