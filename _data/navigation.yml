@@ -1,6 +1,8 @@
 main:
   - title: "Pedals"
     url: /pedals/
+  - title: "Pedal Builder"
+    url: https://builder.pachydermpedals.com
   - title: "Tutorials"
     url: /tutorials/
   - title: "Guitars"

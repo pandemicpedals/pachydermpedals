@@ -14,6 +14,8 @@ I had also recently been laid off from my part time gig at a bigbox music retail
 
 This is when I saw a live stream on Rhett Shull's Youtube channel. He was building a LPD boost pedal with his girlfriend. I immediately ordered the kit from Reverb and a new obesession was born. After building the kit I ordered 7 PCBs from [Rullywow](https://rullywow.com/), created a spread sheet of needed parts, and went to work.
 
+That spreadsheet of needed parts eventually outgrew itself and became [Pedal Builder](https://builder.pachydermpedals.com) — a free, searchable database that maps thousands of components to the DIY pedal PCBs that use them. If you have ever stared at a drawer full of chips wondering what you could build with them, it was made for you.
+
 I started this site so that I could share my experiences, struggles and successes. I've spent my life finding ways to succeed with Bi-Polar Disorder and severe ADHD. I have not always been able to relate well with others. Being Bipolar means that they meet a very different person over time. Some are a blast to be around and some are very difficult. This is my way of trying to connect. One thing that has been consistant is my desire to learn and share what I am learning.
 
 \- pachyderm pedals
