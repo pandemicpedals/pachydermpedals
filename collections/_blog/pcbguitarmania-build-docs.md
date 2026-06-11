@@ -21,6 +21,9 @@ header:
 
 ---
 
+**Looking for more boards?** [Pedal Builder](https://builder.pachydermpedals.com) is my free, searchable database of DIY pedal PCBs — search any component to see every board that uses it, with full bills of materials. It covers PedalPCB, AION FX, and Madbean today (PCB Guitar Mania may join later), so keep this table handy for the boards below.
+{: .notice--info}
+
 I have built 4 of these PCBs and have more on the way. I really like the circuits so far. They are not necessarily exact copies of the circuits. Some are inspirations of a circuit. They do have a few that are made for experimentation. I like the preamp with seperate EQ collections. I will be experimenting with a few of these inthe future.
 
 They have really nice explanations in their build docs. They have a part locations and a shopping list. I **LOVE** having a shopping list because trying to go through the locations and put together needs for many pedals is not the easiest task. Some shortcoming is that you have to refer to another doc for the wiring build and I do not not believe it pertains to all builds (I could be wrong). I also wish they would include a picture of the PCB in the docs as well. It's nice for when you have a half populated build and you are ttrying to find a location that you may have already filled.
