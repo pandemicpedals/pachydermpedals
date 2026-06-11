@@ -21,6 +21,9 @@ header:
 
 ---
 
+**This table grew up.** The Madbean projects below — plus PedalPCB and AION FX — are now part of [Pedal Builder](https://builder.pachydermpedals.com), a free, live, searchable database. Search any component to see every PCB that uses it, browse full bills of materials, and follow links straight to each build doc. No account needed.
+{: .notice--info}
+
 Madbean Pedals has projects for a all levels of builder. From beginner to expert and beyond. Some of their build are really tough and they will challenge you in different ways. Fot me, Madbean has the best build documents. They are packed with information about the pedal, the build, where to source parts, and steps for calibration if needed. The selection of circuits is not largest, be there are some excellent choices. 
 
 I also like the selection of VFE boards that they have to offer. These are no clones. They are the actual boards that you would find in the VFE pedals. It's an excellent way to get products that are no longer sold. I would love to se other pedal builder do the same.
