@@ -21,7 +21,7 @@ header:
 
 ---
 
-**This list stopped updating in 2021. Search the one that didn't.** Same Madbean boards below — plus PedalPCB and AION FX — searchable by name, always current, with the schematic, wiring diagram, drill template, and full BOM one click away. Free, no account needed. [Find your board →](https://builder.pachydermpedals.com/pcbs?source=MADBEAN){: .btn .btn--info .btn--large}
+**This list stopped updating in 2021. Search the one that didn't.** Same Madbean boards below — plus PedalPCB and AION FX — searchable by name, always current, with the schematic, wiring diagram, drill template, and full BOM one click away. Free, no account needed. [Find your board →](https://builder.pachydermpedals.com/pcbs?source=MADBEAN){: .btn .btn--info .btn--large style="color:#fff"}
 {: .notice--info}
 
 Madbean Pedals has projects for a all levels of builder. From beginner to expert and beyond. Some of their build are really tough and they will challenge you in different ways. Fot me, Madbean has the best build documents. They are packed with information about the pedal, the build, where to source parts, and steps for calibration if needed. The selection of circuits is not largest, be there are some excellent choices. 
@@ -35,7 +35,7 @@ I also like the selection of VFE boards that they have to offer. These are no cl
 
 All boards can be purchase from the [Madbean Pedals Projects Page](https://www.madbeanpedals.com/projects/).
 
-**Don't scroll — search it.** Same boards, searchable by name. [Find your board →](https://builder.pachydermpedals.com/pcbs?source=MADBEAN){: .btn .btn--info}
+**Don't scroll — search it.** Same boards, searchable by name. [Find your board →](https://builder.pachydermpedals.com/pcbs?source=MADBEAN){: .btn .btn--info style="color:#fff"}
 {: .notice--info}
 
 | Name | Inspired By | Level | PDF | ZIP | Schema |
