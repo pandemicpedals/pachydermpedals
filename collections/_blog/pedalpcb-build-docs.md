@@ -21,8 +21,8 @@ header:
 
 ---
 
-**This table grew up.** Every PedalPCB board below — plus AION FX and Madbean — is now part of [Pedal Builder](https://builder.pachydermpedals.com), a free, live, searchable database. Search any component to see every PCB that uses it, browse full bills of materials, and follow links straight to each build doc. No account needed.
-{: .notice--info}
+**This list stopped updating in 2024. Search the one that didn't.** Same PedalPCB boards below — plus AION FX and Madbean — searchable by name, always current, with the schematic, wiring diagram, drill template, and full BOM one click away. Free, no account needed. [Find your board →](https://builder.pachydermpedals.com/pcbs?source=PEDALPCB){: .btn .btn--primary .btn--large}
+{: .notice--primary}
 
 Let me start off by saying I love the PedalPCB community. The forum is an excellent place to get help, show off, and talk about pedals and building. I would classify pedalPCB as being more for the intermediate and above pedal builder. I believe that most of the board are based on traces that they have done themselves. They are meant to be accurate representations of the pedals they are compared to. 
 
@@ -42,6 +42,9 @@ The people on the board are great at helping out as well, and Mr. PedalPCB is ve
 
 **Updated:** May 11, 2024
 {: .notice--success }
+
+**Don't scroll — search it.** Same boards, searchable by name. [Find your board →](https://builder.pachydermpedals.com/pcbs?source=PEDALPCB){: .btn .btn--primary}
+{: .notice--primary}
 
 | Name | Compare To | SKU | Build Doc |
 |------|------------|-----|-----------|
